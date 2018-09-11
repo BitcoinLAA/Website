@@ -1,0 +1,959 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bitcoinlaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2677                
+POS_VISITOR 21848               
+POS_DAY 30950               
+POS_DOMAIN 3541                
+POS_LOGIN 4100                
+POS_ROBOT 4255                
+POS_WORMS 4930                
+POS_EMAILSENDER 5061                
+POS_EMAILRECEIVER 5204                
+POS_SESSION 31811               
+POS_SIDER 32019               
+POS_FILETYPES 5339                
+POS_DOWNLOADS 5615                
+POS_OS 5686                
+POS_BROWSER 5871                
+POS_SCREENSIZE 8785                
+POS_UNKNOWNREFERER 8859                
+POS_UNKNOWNREFERERBROWSER 9163                
+POS_ORIGIN 9358                
+POS_SEREFERRALS 9503                
+POS_PAGEREFS 9662                
+POS_SEARCHWORDS 9954                
+POS_KEYWORDS 10128               
+POS_MISC 2339                
+POS_ERRORS 10212               
+POS_CLUSTER 3956                
+POS_SIDER_404 10369               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180601024048 1093 296803 9531642346113
+FirstTime 20180501015836
+LastTime 20180531191952
+LastUpdate 20180601031215 98 0 97 0 0
+TotalVisits 291                 
+TotalUnique 161                 
+MonthHostsKnown 109                 
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 170 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 37 121 7038709 30 52 891878
+1 29 85 4641046 37 51 736271
+2 70 231 10920633 23 36 271430
+3 50 119 6608655 31 53 643235
+4 59 115 4763889 38 50 635985
+5 56 196 10855148 20 40 495046
+6 61 212 11988121 29 68 1326327
+7 54 138 7018433 37 54 575382
+8 30 30 280475 26 66 882970
+9 54 82 3640646 49 66 480259
+10 100 186 7547130 54 76 852821
+11 71 99 4287091 42 82 2634123
+12 52 108 4397002 25 50 858956
+13 49 77 1999511 30 42 549131
+14 46 68 3435962 26 41 564079
+15 49 77 2418809 39 72 1266583
+16 44 96 3978914 29 48 584406
+17 50 160 9694200 45 67 548635
+18 75 264 14092702 53 86 815705
+19 82 310 18728760 35 65 726016
+20 70 295 18461751 34 70 962573
+21 73 220 13440895 56 113 1458124
+22 25 53 2463578 32 46 715883
+23 32 119 5887692 33 47 545376
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+ip 428 1111 53389966
+com 325 680 34447310
+net 267 1098 66774091
+ua 154 154 428620
+eu 37 37 213279
+ca 16 72 4591896
+at 16 66 4468719
+us 16 72 4597560
+il 12 68 4513748
+mx 11 39 2362408
+su 1 1 25201
+sc 2 2 50402
+vds 1 1 25201
+ru 8 8 190280
+is 1 1 25201
+cat 2 2 25604
+ch 2 2 50402
+info 2 2 50402
+org 1 1 25201
+br 5 5 13253
+pl 9 37 2315485
+by 2 2 5523
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+googlebot 275 7679301 20180531165743 16
+wordpress 221 2256875 20180531191950 0
+yandex 96 841498 20180530170910 51
+favicon 22 554414 20180531191018 0
+robot 20 148309 20180531125156 10
+unknown 13 871 20180531144148 13
+bot[\s_+:,\.\;\/\\-] 11 190473 20180531185106 3
+mj12bot 11 95884 20180525070026 5
+seznambot 8 101072 20180529111343 4
+no_user_agent 5 77273 20180525054214 1
+libwww 1 25201 20180521121227 0
+facebook 3 75603 20180529043156 0
+netcraft 1 25193 20180504090205 0
+baiduspider 5 122518 20180526050854 0
+crawl 4 95132 20180523021954 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 707 23790591 0 0
+png 81 2133324 0 0
+ttf 291 34709364 0 0
+woff2 77 5452204 0 0
+php 945 15088826 0 0
+js 1120 28294242 0 0
+jpg 230 69087340 0 0
+xml 2 2090 0 0
+Unknown 5 10850 0 0
+svg 1 1521 0 0
+gif 2 19400 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 103 0 6901
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 459
+winxp 55
+winlong 30
+unix 195
+win2000 23
+winnt 749
+winvista 156
+linux 44
+win7 167
+macosx 1502
+winunknown 1
+win2003 13
+Unknown 67
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 144
+firefox28.0 26
+chrome11.0.661.0 1
+chrome57.4.9261.4533 1
+chrome34.0.1847.137 2
+firefox45.61.14 2
+chrome57.4.9450.4723 1
+chrome57.5.0887.5159 1
+chrome31.0.1650.57 4
+chrome57.5.0328.5690 1
+chrome67.0.3396.48 34
+chrome56.1.6675.1303 1
+chrome54.8.4535.9808 1
+chrome57.6.1941.6213 1
+chrome53.6.0013.5841 1
+firefox52.57.04 1
+chrome55.1.6104.0832 1
+msie7.0 1
+chrome57.5.0990.5262 1
+safari5.5.1 3
+safari5.4.9 3
+firefox45.63.10 1
+firefox45.71.24 1
+chrome56.2.7946.1674 1
+chrome62.0.3202.94 2
+chrome56.2.7265.2993 1
+chrome54.0.2840.71 4
+safari11.0.3 1
+firefox33.0 23
+chrome68.0.3418.0 66
+chrome57.5.0126.5498 1
+safari5.3.7 2
+chrome56.2.7758.1486 1
+firefox36.0 16
+chrome11.0.696.65 1
+chrome56.3.7476.2104 1
+safari 144
+chrome57.4.9506.5878 1
+safari11.0 538
+chrome57.4.9353.4081 1
+firefox52.0 2
+firefox52.51.14 1
+safari5.3.8 5
+chrome54.8.3193.9465 1
+iphone 139
+chrome61.0.3163.100 13
+chrome55.1.6360.0098 1
+chrome26.0.1410.65 2
+chrome57.4.9340.4612 1
+chrome56.3.8406.4778 1
+chrome34.0.1847.116 1
+chrome54.8.4703.9076 1
+firefox52.46.93 1
+msie9.0 99
+chrome53.6.0713.5441 1
+chrome55.1.6438.1166 1
+chrome66.0.3359.126 148
+chrome59.0.3071.115 29
+chrome57.5.1590.6863 1
+chrome56.2.7985.1613 1
+chrome54.8.3521.9893 1
+chrome53.0.2785.143 150
+chrome53.8.3939.8102 1
+chrome57.4.9713.4085 1
+chrome55.1.6556.0284 1
+chrome55.0.5353.0081 1
+firefox52.62.15 1
+chrome57.5.0133.5405 1
+firefox52.68.11 1
+chrome56.2.7225.2953 1
+chrome45.0.2454.94 1
+safari5.2.7 3
+chrome54.8.4041.9313 1
+chrome67.0.3396.62 71
+firefox3.6.8 31
+firefox45.60.17 1
+chrome57.5.0068.5330 3
+msie6.0 9
+firefox57.0 76
+chrome12.0.702.0 1
+chrome5.0.375.99 1
+chrome54.8.3425.8797 1
+firefox45.68.11 2
+firefox34.0 3
+firefox45.66.19 1
+chrome56.2.7142.2870 1
+chrome58.0.3029.110 38
+chrome57.5.9487.4115 1
+firefox59.0 2
+chrome37.0.2062.120 4
+chrome54.8.3849.9111 1
+chrome66.0.3359.181 331
+chrome57.6.1291.6563 1
+chrome56.1.6958.1686 1
+safari5.6.1 3
+chrome65.0.3325.181 41
+chrome68.0.3437.2 34
+firefox53.0 3
+firefox48.0 45
+firefox42.0 1
+firefox52.50.97 1
+chrome58.0.3029.83 34
+chrome57.4.9087.5359 1
+chrome54.8.4361.9633 1
+firefox29.0 38
+chrome54.8.3313.9686 1
+firefox45.0 1
+chrome57.5.0443.5715 1
+safari4.6.2 1
+mozilla 6
+chrome57.0.2987.133 1
+firefox60.0 1
+chrome53.7.2023.8395 1
+chrome66.0.3359.137 123
+chrome40.0.2214.93 1
+firefox45.68.15 1
+chrome57.5.0179.5441 1
+chrome66.0.3359.139 449
+chrome58.0.3029.81 1
+chrome53.6.1750.7022 1
+chrome57.5.0271.5909 1
+chrome56.0.2924.87 37
+firefox31.0 20
+firefox45.65.18 1
+chrome65.0.3325.209 72
+firefox52.55.02 1
+chrome57.4.9571.5843 1
+chrome53.7.3936.8208 1
+chrome66.0.3359.158 168
+safari11.1 69
+Unknown 62
+chrome30.0.1599.17 1
+chrome34.0.1847.114 2
+safari10.0 36
+chrome57.4.9388.4650 1
+chrome41.0.2272.118 34
+chrome59.0.3071.125 34
+safari10.1.1 1
+firefox45.69.16 1
+safari4.7.2 1
+firefox52.53.06 1
+chrome57.5.0590.4228 1
+chrome54.8.3497.9769 1
+chrome53.6.0414.5142 1
+chrome65.0.3325.109 35
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Faraday_v0.14.0 20180530180042
+Poster 20180512182519
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180504073050
+Magic_Browser 20180531122722
+Mozilla/5.0_(compatible;_ips-agent) 20180502160904
+wp-iphone 20180512012355
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Faraday_v0.14.0 20180530180042
+wp-windowsphone 20180513023417
+Poster 20180512182519
+Magic_Browser 20180531122722
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 249 250
+From1 5 5
+From2 174 177
+From3 21 21
+From4 869 3008
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 174 177
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://arcadiamgroup.com 11 11
+http://l.instagram.com 5 5
+http://burger-imperia.com 3 3
+http://pizza-tycoon.com 1 1
+https://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+dictionary+english 29
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+english 29
+dictionary 29
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 8 0
+206 14 359284
+400 2 2
+302 5 0
+500 2 0
+405 6 252
+301 147 0
+404 391 7372039
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 283
+/wp-uti.php 1 -
+/wp-content/wp-scaches.php 1 bitcoinlaa.com
+/seomarket.php 1 bitcoinlaa.com
+/wordpress/wp-content/plugins/easyrotator-for-wordpress/wj.php 1 http://site.ru
+/logo_img.php 2 http://site.ru
+/wp-content/uploads/kc_extensions/background-image-cropper/wp-post.php 1 -
+/wp-content/plugins/SocketIasrgasfontrol.php 1 -
+/groups/ 1 bitcoinlaa.com/groups/
+/wordpress/wp-content/plugins/easyrotator-for-wordpress/indox.php 2 http://site.ru
+/ler.php 1 http://site.ru
+/wp-includes/js/crop/ask.php 1 http://site.ru
+/wp-content/plugins/wp-conns.php 1 -
+/webconfig.txt.php 1 -
+/wp-includes/upgrade/theme-compat/popup-pomo.php 1 http://site.ru
+/wp-content/plugins/500.php 1 -
+/wp-content/uploads/rnnvhs.php 1 -
+/wp-pols.php 1 -
+/wp-content/plugins/ubh/up.php 1 http://bitcoinlaa.com/wp-content/plugins/ubh/up.php
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/wp-content/themes/integer/system.php 2 http://site.ru
+/js.php 2 http://site.ru
+/wp-content/plugins/ajax-user/zz.php.pjpeg 2 http://site.ru
+/wp-content/plugins/user-meta/readme.txt 1 -
+/wp-admin/network/green.php 2 http://site.ru
+/sec.php 1 http://site.ru
+/wp-includes/SimplePie/Parse/yun.php 1 -
+/wp-admin/includes/temp.php 1 -
+/wp-content/plugins/kingcomposer/readme.txt 1 bitcoinlaa.com
+/wp-includes/cgi.php 1 http://site.ru
+/wp-includes/js/crop/cgi.php 3 http://site.ru
+/wp-includes/pomo/7313581d9a.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/error.php 2 -
+/meniacle/wp-blog-header.php 1 -
+/wp-includes/class.wp-depen.php 1 -
+/aul.php 1 http://site.ru
+/components/com_foxcontact/_func.php 1 -
+/wp-includes/SimplePie/Parse/Parse.php 1 -
+/wp-content/indes.php 1 -
+/wp-includes/js/crop/license.php 1 http://site.ru
+/ghfhvvaw.php 1 -
+/wp-includes/css/newgolden.php 1 -
+/wp-admin/output.php 1 -
+/consystem.php 1 -
+/user/password 1 -
+/wp-admin/newsr.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/indox.php 1 http://site.ru
+/license.php 4 -
+/imdex.php 1 -
+/wp-includes/Text/Diff/Engine/meta.php 2 http://site.ru
+/indes.php 1 -
+/wp-content/plugins/html404/cry.php.pjpeg 2 http://site.ru
+/wp-includes/theme-compat/images.php 3 http://site.ru
+/ads.txt 2 -
+/wp-admin/cgi.php 1 http://site.ru
+/wp-admin/css/colors/blue/engine_functions.php 1 -
+/wp-includes/images/wlw/profie.php 2 http://site.ru
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/css.php 2 http://site.ru
+/wp-content/plugins/woocommerce/readme.txt 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/rsau.php 1 -
+/prv8.php 1 -
+/wp-info.php 1 -
+/wp-cokd.php 1 -
+/s.php 1 http://site.ru
+/_.php 1 http://site.ru
+/wp-content/plugins/wp-ultimatum-composer/tractfirm.php 2 http://site.ru
+/wp-includes/js/js.php 1 bitcoinlaa.com
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/path4.php 1 -
+/wp-mosx.php 1 -
+/wp-caches.php 2 http://site.ru
+/wp-content/plugins/Aksimet/ 1 http://site.ru
+/wp-content/plugins/Materialnlns.php 1 -
+/backup.bak.php 1 -
+/wp-sbb.php 2 -
+/wp-content/uploads/logo_img.php 2 http://site.ru
+/wp-content/plugins/easyrotator-for-wordpress/wj.php 1 http://site.ru
+/downloader/ 1 -
+/shell.php 2 -
+/wp-includes/js/user.php 1 -
+/smalls.php 1 -
+/wp-content/plugins/upgrade-network.php 1 -
+/wp-content/plugins/wp-seo/idx.php 1 http://site.ru
+/wp-includes/Text/Diff/Engine/ass.php 2 http://site.ru
+/wp-content/uploads/2018/01/aul.php 1 http://site.ru
+/wp-pas.php 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-admin/includes/images.php 1 http://site.ru
+/wp-includes/js/tinymce/plugins/wpview/diff.php 1 -
+/wp-content/uploads/2017/12/aul.php 1 http://site.ru
+/wp-includes/wp-caches.php 2 http://site.ru
+/wp-content/plugins/Aviliate/404.php 2 http://site.ru
+/wp-content/plugins/Aksimet/el.php 2 http://site.ru
+/wp-admin/user/users-new.php 1 -
+/lieats.php 1 -
+/wp-content/plugins/background-image-cropper/image/ico/search.php 1 -
+/Configss.php 1 -
+/pols.php 1 -
+/wp-includes/js/tinymce/themes/inlite/Meuhy.php 2 http://site.ru
+/wp-content/plugins/wp-seo/wp-seo.php 3 http://site.ru
+/wp-blog-posts.php 2 http://site.ru
+/wp-includes/images/media/rss.php 1 -
+/wp-content/plugins/Aviliate/user.php 1 http://site.ru
+/bacot.php 1 http://site.ru
+/htaccess.php 2 -
+/wp-content/plugins/preferred-languages/system.php 1 http://site.ru
+/wp-content/plugins/html404/idx.php 1 http://site.ru
+/x.php 1 http://site.ru
+/wp-content/wp-scache.php 1 bitcoinlaa.com
+/wp-content/plugins/SocketIontrol.php 1 -
+/yjh.php 1 -
+/11.php 3 -
+/404.php 1 http://site.ru
+/wp-content/plugins/easyrotator-for-wordpress/Marvins.php 2 http://site.ru
+/wp-content/plugins/Malions.php 1 -
+/wp-content/plugins/rois/idx.php 1 http://site.ru
+/v3.php 2 http://site.ru
+/wp-admin/ms-menu.php 1 -
+/db_z.php 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-admin/includes/wp-cods.php 1 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/wp-admin/systems.php 2 http://site.ru
+/cgi.php 4 http://site.ru
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp-content/themes/error-log.php 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/web-cache.php 2 -
+/wp-organizer.php 2 http://site.ru
+/wp-admin/user/log.php 1 -
+/roots.php 1 http://site.ru
+/wp-content/wordpress_cache.php 2 http://site.ru
+/configurationbak.php 1 -
+/wp-content/plugins/gxp/idx.php 1 http://site.ru
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-content/plugins/groupsassembly/js/js.php 1 bitcoinlaa.com
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/theme.php 1 http://site.ru
+/wp-content/plugins/nav-menus.php 1 http://site.ru
+/b.php 1 -
+/wp-includes/css/goh.php 1 -
+/ 16 -
+/XAttacker.php 1 -
+/wp-content/wp-scachwp.php 1 bitcoinlaa.com
+/wp-content/plugins/fcchat/default.png 1 -
+/contact 8 BITCOINLAA.com
+/wp-conde.php 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-includes/admin_login.php 1 http://site.ru
+/so.php 1 http://site.ru
+/conf.ini.php 1 http://site.ru
+/wp-admin/license.php 1 http://site.ru
+/wp-logout.php 3 http://site.ru
+/wp-admin/yt.php 1 -
+/wp-mains.php 1 http://site.ru
+/parseopml/popup-pomo.php 2 http://site.ru
+/wpcache.php 1 -
+/wp-content/plugins/studio-tinymce-widget/mark.php 2 http://site.ru
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/tmp/sfx.php 1 -
+/wp-content/plugins/background-image-cropper/wp-post.php 1 -
+/pic.php 1 bitcoinlaa.com
+/wp-includes/Text/Diff/Engine/tags.php 2 http://site.ru
+/wp-includes/license.php 1 http://site.ru
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/themes/tripod/lib/php/shcode/button.php 2 http://site.ru
+/xmirpc.php 1 -
+/wp-content/cgi.php 1 http://site.ru
+/wp-includes/mvp.php 1 -
+/wp-admin/includes/lock46.php 1 -
+/wp-includes/Text/Diff/Engine/404.php 1 http://site.ru
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/content-post.php 1 http://site.ru
+/tmpe.php 1 -
+/wp-includes/js/crop/mini.php 2 http://site.ru
+/wp-includes/bacot.php 1 http://site.ru
+/wp-content/plugins/fusion-builder/inc/lib/inc/redux/framework/FusionReduxCore/inc/themecheck/ 1 -
+/wp-admin/maint/Marvins.php 1 http://site.ru
+/wp-admin/includes/fdsj399jdsf.php 1 -
+/wp-admin/admin-ajax.php 2 http://bitcoinlaa.com/wp-admin/customize.php
+/js/mage/cookies.js 2 bitcoinlaa.com
+/wp-includes/css/upload.php 1 -
+/wp-includes/customize/class-wp-customize-filters-setting.php 1 bitcoinlaa.com
+/Meuhy.php 2 http://site.ru
+/gtde.php 2 -
+/wp-backup.php 2 http://site.ru
+/wp-content/themes/twentyfourteen/tags.php 2 http://site.ru
+/wp-includes/js/general.php 1 -
+/buy-bitcoin/ 4 -
+/wp-index.php 1 -
+/wp-post.php 1 -
+/searchreplacedb2.php 1 -
+/xmlrpz.php 3 http://site.ru
+/1.php 2 http://site.ru
+/wp-cache.php 2 -
+/phpinfoer.php 1 -
+/wp-content/plugins/BirdsRios.php 1 -
+/wp-admin/css/colors/blue/theme.php 1 http://site.ru
+/wp-content/plugins/fac/idx.php 2 http://site.ru
+/view.php 1 -
+/wp-seo.php 1 http://site.ru
+/bigm.php 2 http://site.ru
+/wp-content/plugins/Aksimet/yusa.php 1 http://site.ru
+/wp-admin/includes/rnnvhs.php 1 -
+/wp-includes/js/crop/aul.php 1 http://site.ru
+/wp-admin/includes/medias.php 1 bitcoinlaa.com
+/wp-includes/js/crop/bacot.php 2 http://site.ru
+/wp-content/uploads/content-post.php 2 http://site.ru
+/ass.php 3 http://site.ru
+/wp-config_bak.php 1 -
+/wp-content/uploads/2017/12/idx.php 1 http://site.ru
+/sitemap.xml 1 -
+/wp-content/plugins/akismet/classes.php 1 -
+/wp-includes/css/style.css.php 1 -
+/wso.php 1 http://site.ru
+/axmlprc.php 1 -
+/script.php 1 -
+/wp-content/themes/Avada/includes/lib/inc/redux/framework/FusionReduxCore/inc/themecheck/checks/ 1 -
+/logo_img.php.suspected 2 http://site.ru
+/controller.php 1 -
+/mide.php 1 http://site.ru
+/temp.php 1 -
+/beck/cron.php 1 -
+/rois.php 1 http://site.ru
+/wp-includes/Text/Diff/Engine/config.php 1 http://site.ru
+/wp-content/uploads/2017/12/mini.php 1 http://site.ru
+/hook-filters.php 1 -
+/wp-includes/js/crop/doubt.php 1 http://site.ru
+/wp-content/plugins/all-in-one-seo-pack/admin/display/display.php 1 -
+/bgeiis.php 1 -
+/wp-content/plugins/wp-zipy/yusa.php 1 http://site.ru
+/wp-content/plugins/resizer-img/accdb.php 2 http://site.ru
+/Marvins.php 2 http://site.ru
+/lfm.php 2 http://site.ru
+/wp-content/plugins/szalog.php 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/sizing.php 1 -
+/random.php 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/modx.php 1 -
+/wp-content/plugins/html404/config.php 1 http://site.ru
+/wp-admin/bacot.php 1 http://site.ru
+/wp-content/wp-caches.php 1 http://site.ru
+/wp-content/plugins/user-photo/admin.css 1 -
+/wp-content/plugins/Aksimet/t.php 1 http://site.ru
+/wp-content/plugins/wp-zipy/t.php 2 http://site.ru
+/libraries/cms.php 1 -
+/wp-content/plugins/wp-cache.php 1 -
+/wp-content/plugins/fusion-builder/inc/lib/inc/redux/framework/FusionReduxCore/inc/themecheck/checks/ 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/themes/sketch/content-post.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-blog-mail.php 2 http://site.ru
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-includes/theme-compat/files.php 1 -
+/wp-content/plugins/html404/xccc.php 1 http://site.ru
+/update.php 1 -
+/config.php 2 http://site.ru
+/tags.php 2 http://site.ru
+/wp-content/themes/twentyfifteen/genericons/Marvins.php 1 http://site.ru
+/Babbitts.php 2 http://site.ru
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/readme.php 1 http://site.ru
+/wp-admin/wp-caches.php 1 http://site.ru
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/search.php 2 -
+/wp-content/uploader.php.suspected 1 http://bitcoinlaa.com/wp-content/uploader.php.suspected
+/wp-content/themes/wp-conns.php 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-admin/network/rnnvhs.php 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-content/uploader.php 2 http://bitcoinlaa.com/wp-content/uploader.php
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/upgrade/theme-compat/popup-pomo.php 1 http://site.ru
+/wp-admin/maint/log.php 1 -
+/user.php 2 http://site.ru
+/wp-admin/default.php 1 http://site.ru
+/wp-content/bacot.php 1 http://site.ru
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-includes/js/tinymce/themes/modern/Meuhy.php 2 http://site.ru
+/wp-includes/Text/Diff/Renderer/Meuhy.php 2 http://site.ru
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 162
+17.145.dynamic.pppoe.fregat.ua 150 150 379500 20180513130014
+c-71-56-54-56.hsd1.ga.comcast.net 99 459 27685760 20180531191952
+77.72.84.18 91 91 294746 20180525075701
+185.234.217.226 48 48 171502 20180513163054
+sapsait.com 45 45 3613251 20180531144220
+173.227.72.99 35 123 7269655 20180506191736
+185.234.217.225 34 34 125881 20180525140940
+ip-166-62-45-148.ip.secureserver.net 31 31 12493 20180518110201
+212-129-2-80.rev.poneytelecom.eu 29 29 11687 20180528103313
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com 26 26 655194 20180531122722
+rrcs-64-183-178-130.sw.biz.rr.com 3 3 75603 20180517181710
+ef.b4.2da9.ip4.static.sl-reverse.com 1 1 25193 20180502214449
+185.225.105.122 10 38 1802864 20180515132009
+157.32.20.234 4 23 1793096 20180508173013
+ec2-18-232-138-15.compute-1.amazonaws.com 2 2 5523 20180506064811
+172.58.6.84 6 34 2256874 20180521190147
+c-24-98-124-123.hsd1.ga.comcast.net 6 34 2256874 20180508012028
+134.19.230.118 2 2 5523 20180515224242
+172.58.224.73 7 35 2282075 20180510070422
+195.242.80.129 1 1 21232 20180524174121
+49.126.41.218 2 2 5523 20180501210646
+ec2-18-236-172-4.us-west-2.compute.amazonaws.com 4 4 10936 20180511030620
+ec2-13-56-232-243.us-west-1.compute.amazonaws.com 9 9 226809 20180530120422
+google-proxy-66-249-80-59.google.com 1 11 1173459 20180516204859
+187111192066.powertelecom.net.br 2 2 5468 20180521022110
+cp162172.hpdns.net 2 2 25604 20180512182519
+183.90.37.95 8 36 2359235 20180530025653
+185.70.187.156 3 3 48695 20180515184340
+70.45.9.0 7 35 2282059 20180504223505
+cpe-184-56-95-211.neo.res.rr.com 6 34 2256874 20180511120929
+user-69-1-37-67.knology.net 9 37 2321149 20180507195858
+cpe-67-248-113-61.nycap.res.rr.com 5 29 1156165 20180503024010
+ec2-34-214-19-3.us-west-2.compute.amazonaws.com 1 1 25201 20180507111422
+ec2-18-218-9-2.us-east-2.compute.amazonaws.com 2 2 5523 20180507134515
+cpe-72-224-42-216.nycap.res.rr.com 22 100 6649302 20180524052113
+ec2-52-14-24-182.us-east-2.compute.amazonaws.com 2 2 5523 20180505211637
+c-76-97-152-128.hsd1.ga.comcast.net 6 34 2256874 20180528211200
+103.249.234.127 6 34 2256874 20180512183933
+public.freeflux.org 1 1 25201 20180512132643
+ec2-52-205-105-107.compute-1.amazonaws.com 2 2 5468 20180511180442
+129.115.195.71 1 4 180473 20180501015838
+dd213-217-189-202-static.albacom.net 2 2 5523 20180518131546
+ec2-54-229-230-179.eu-west-1.compute.amazonaws.com 1 1 25201 20180515180828
+www.whois.sc 2 2 50402 20180526081410
+google-proxy-66-249-93-205.google.com 1 11 302426 20180516155641
+cpe-110-150-94-189.nb08.nsw.asp.telstra.net 6 34 2256874 20180531061240
+mobile-166-137-252-087.mycingular.net 6 34 2256874 20180516180840
+47-36-9-57.dhcp.sghl.ga.charter.com 6 34 2256874 20180529043018
+ec2-52-4-244-57.compute-1.amazonaws.com 1 2 43492 20180530180040
+static24-72-120-220.r.rev.accesscomm.ca 16 72 4591896 20180530024938
+ec2-18-237-93-224.us-west-2.compute.amazonaws.com 2 2 5523 20180507014157
+cpe-172-100-174-234.stny.res.rr.com 7 35 2282075 20180530213325
+cbl217-132-236-199.bb.netvision.net.il 12 68 4513748 20180527102452
+tor3e3.digitale-gesellschaft.ch 2 2 50402 20180513093357
+196.194.37.2 2 2 5523 20180502211757
+208.184.232.150.ipyx-115917-zyo.zip.zayo.com 8 36 2295948 20180507183604
+104.149.78.58 10 38 1802864 20180514122214
+136.62.29.55 9 37 2315485 20180531062648
+71-220-170-182.tlhs.qwest.net 12 40 2396752 20180529000943
+129.115.195.33 1 1 25193 20180501020015
+173.254.213.83.static.quadranet.com 4 4 10936 20180509134930
+arjuna.iixcp.rumahweb.com 2 2 25604 20180512102040
+129.115.195.64 1 6 227175 20180501015838
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com 24 24 601313 20180530225234
+83.220.236.180 9 37 2332477 20180510114724
+69.58.178.57 2 2 44730 20180502160904
+ec2-34-207-168-122.compute-1.amazonaws.com 6 6 16459 20180510160708
+176.124.144.185 2 2 5525 20180528171610
+ec2-52-87-229-136.compute-1.amazonaws.com 2 2 5523 20180506224819
+ec2-107-23-99-5.compute-1.amazonaws.com 6 6 16459 20180510050819
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com 8 8 201576 20180529110055
+ec2-54-152-26-10.compute-1.amazonaws.com 2 2 5468 20180507215629
+pool-108-41-104-215.nycmny.fios.verizon.net 14 70 4535533 20180524051920
+185.234.217.201 20 20 80194 20180520103540
+172.58.3.23 8 36 2307252 20180505001024
+demur703.vds 1 1 25201 20180526072332
+ec2-34-244-239-224.eu-west-1.compute.amazonaws.com 1 1 25201 20180513082302
+157.32.72.19 3 12 488979 20180508172750
+172.58.4.170 6 31 453929 20180515023135
+172.58.4.204 11 39 2360223 20180512175511
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com 3 3 75587 20180507112709
+211.115.79.122 2 2 50394 20180529101828
+70.145.dynamic.pppoe.fregat.ua 4 4 49120 20180512182634
+host128.muscogee.k12.ga.us 16 72 4597560 20180507194806
+ec2-184-72-182-214.compute-1.amazonaws.com 2 2 5468 20180510123753
+c-24-60-251-170.hsd1.ma.comcast.net 6 34 2256874 20180516034026
+ec2-54-88-159-154.compute-1.amazonaws.com 4 4 11046 20180506113804
+ec2-18-222-156-202.us-east-2.compute.amazonaws.com 2 2 5468 20180509071703
+ds294363.had.su 1 1 25201 20180521053557
+31.162.239.100 1 1 25201 20180527133819
+c-98-220-209-206.hsd1.in.comcast.net 9 37 2385038 20180518065910
+99-203-4-135.pools.spcsdns.net 6 34 2256874 20180507183748
+107.77.94.26 6 34 2256874 20180508041005
+194.225.232.178 2 2 5468 20180514113651
+80-110-86-76.cgn.dynamic.surfer.at 16 66 4468719 20180530142759
+172.58.4.174 6 34 2256874 20180523023538
+server7.info 2 2 50402 20180511212246
+customer-201-141-37-185.cablevision.net.mx 11 39 2362408 20180510043946
+71.16.244.2 7 36 2295179 20180519065338
+129.115.195.74 1 4 217167 20180501015839
+ec2-18-208-74-83.compute-1.amazonaws.com 2 2 50402 20180524091748
+ec2-18-188-115-239.us-east-2.compute.amazonaws.com 4 4 10991 20180507163208
+129.115.195.67 0 7 1039235 
+ec2-18-216-206-157.us-east-2.compute.amazonaws.com 2 2 5468 20180508134612
+mail.rdcards.ru 1 1 25201 20180529120614
+162.sub-174-238-25.myvzw.com 8 36 2295948 20180528212302
+ec2-54-187-156-36.us-west-2.compute.amazonaws.com 2 2 5523 20180507044839
+ec2-52-15-186-186.us-east-2.compute.amazonaws.com 6 6 16459 20180510090700
+ec2-52-8-74-203.us-west-1.compute.amazonaws.com 2 2 27371 20180530180042
+ec2-52-14-206-144.us-east-2.compute.amazonaws.com 2 2 5468 20180508005938
+ec2-18-236-130-106.us-west-2.compute.amazonaws.com 6 6 16514 20180507190659
+tor-exit-nl-2.lunorian.is 1 1 25201 20180513222029
+ec2-34-207-224-76.compute-1.amazonaws.com 2 2 5468 20180510011747
+negan.guzelhosting.com 2 2 25604 20180512012355
+ec2-54-174-138-221.compute-1.amazonaws.com 4 4 10991 20180509211950
+spider-24.lipperhey.com 4 4 95116 20180504073051
+71-35-13-23.phnx.qwest.net 19 60 4285166 20180529211034
+163-172-4-153.rev.poneytelecom.eu 8 8 201592 20180531145555
+c-73-82-18-82.hsd1.ga.comcast.net 7 45 2610718 20180518063009
+ec2-13-59-40-238.us-east-2.compute.amazonaws.com 4 4 10936 20180511142853
+167.99.182.19 2 2 0 20180507153535
+google-proxy-66-249-93-203.google.com 2 12 1319703 20180516155641
+static-67-226-138-121.ptr.terago.net 9 37 2321149 20180522202648
+169customer-218-154-177.tcm10.com.br 1 1 2262 20180503211804
+ciriex-abus.pae.gvt.net.br 2 2 5523 20180504224316
+vps18017.vpsville.ru 6 6 139878 20180520205603
+ec2-54-89-158-21.compute-1.amazonaws.com 4 4 10936 20180511215526
+woodycafe.ru 1 1 25201 20180516155915
+google-proxy-66-249-93-204.google.com 3 11 634745 20180516155641
+ec2-52-23-240-30.compute-1.amazonaws.com 2 2 5523 20180506145321
+172.58.7.65 6 30 1495759 20180523164136
+170.238.117.131 2 2 5523 20180504093624
+172.58.3.191 11 39 2360223 20180508161125
+213.149.51.116 1 1 0 20180503174533
+mm-167-217-209-82.static.mgts.by 2 2 5523 20180520125302
+138.68.180.18 1 1 25201 20180526093509
+google-proxy-66-249-80-63.google.com 2 10 417636 20180516204903
+129.115.195.57 1 6 300305 20180501015838
+ec2-52-91-44-207.compute-1.amazonaws.com 2 2 5468 20180511070504
+cpe-24-88-127-215.sc.res.rr.com 12 40 2396752 20180507234931
+ec2-18-236-160-148.us-west-2.compute.amazonaws.com 2 2 5468 20180508170910
+google-proxy-66-249-80-61.google.com 3 13 665779 20180516204903
+s0106a84e3f50c873.wp.shawcable.net 6 34 2256874 20180522024459
+107.77.90.62 7 35 2282075 20180530062612
+ec2-34-201-43-170.compute-1.amazonaws.com 2 2 5523 20180507075848
+47-48-207-34.static.gwnt.ga.charter.com 6 34 2256874 20180507205920
+vxadm-38.srv.cat 2 2 25604 20180513023417
+87-207-94-123.dynamic.chello.pl 9 37 2315485 20180508005722
+5.188.62.11 3 3 1209 20180514121443
+129.115.195.56 2 7 292511 20180501015838
+mobile-166-137-252-118.mycingular.net 1 1 25201 20180517225401
+193.106.30.99 3 3 2274 20180528032840
+180.169.191.142 1 1 25201 20180519100526
+134.19.230.178 2 2 5523 20180506024527
+h66-245-94-69.adstx.net 11 39 2365887 20180517181654
+50.227.100.2 9 38 2370630 20180530205810
+ec2-35-160-162-57.us-west-2.compute.amazonaws.com 4 4 10991 20180508071506
+ec2-18-236-135-137.us-west-2.compute.amazonaws.com 2 2 5468 20180510193454
+172.58.232.133 1 13 465761 20180516232358
+ec2-18-221-138-163.us-east-2.compute.amazonaws.com 2 2 5523 20180504193320
+196.194.40.179 2 2 5523 20180502101321
+ec2-54-209-127-233.compute-1.amazonaws.com 4 4 10991 20180508035555
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180501 28 56 3678369 11
+20180502 10 10 131758 6
+20180503 44 124 5852274 9
+20180504 43 121 6826038 16
+20180505 27 55 2522951 11
+20180506 77 234 13887643 14
+20180507 87 303 16295987 22
+20180508 60 200 11591684 18
+20180509 17 17 109217 10
+20180510 54 166 9423719 14
+20180511 22 50 2385824 10
+20180512 49 160 9850606 13
+20180513 210 210 754222 12
+20180514 18 46 1860346 7
+20180515 27 80 2412621 9
+20180516 33 157 9639605 14
+20180517 22 50 2545374 9
+20180518 28 122 7334159 7
+20180519 10 39 2370782 3
+20180520 27 27 206058 4
+20180521 12 40 2363146 5
+20180522 23 107 6885299 4
+20180523 13 65 3777834 3
+20180524 88 191 7882118 10
+20180525 66 66 229275 3
+20180526 6 6 147727 5
+20180527 22 107 6884530 6
+20180528 40 124 6896466 8
+20180529 50 175 11360745 9
+20180530 60 196 12709415 12
+20180531 45 157 9773960 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 5
+15mn-30mn 3
+2mn-5mn 6
+0s-30s 252
+30s-2mn 17
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/wp-login.php 467 1334649 71 71
+/ 255 6483876 167 105
+/xmlrpc.php 115 3642313 39 43
+/wp-content/themes/oneline-lite/font/Roboto-Regular.ttf 73 10174360 1 10
+/wp-content/themes/oneline-lite/font/Roboto-Light.ttf 73 11384520 1 10
+/wp-content/themes/oneline-lite/font/Montserrat-Regular.ttf 73 3778904 1 3
+/wp-content/plugins/lead-form-builder/font-awesome/fonts/fontawesome-webfont.woff2 73 5246880 3 3
+/wp-content/themes/oneline-lite/font/Roboto-Bold.ttf 72 9371580 3 21
+/start-now/ 69 1348053 2 18
+/wp-admin/admin-ajax.php 9 43364 0 0
+/wp-content/themes/oneline-lite/css/font-awesome/webfonts/fa-solid-900.woff2 1 38784 0 0
+/wp-json/oembed/1.0/embed 5 10850 0 1
+/wp-admin/load-styles.php 5 366279 0 0
+/feed/ 2 3222 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 1 214099 0 0
+/wp-admin/load-scripts.php 5 588424 0 1
+/wp-admin/ 3 247358 0 0
+/comments/feed/ 2 3190 0 0
+/wp-includes/ms-load.php 1 0 1 1
+/wp-content/themes/oneline-lite/css/font-awesome/webfonts/fa-regular-400.woff2 1 12220 0 0
+/wp-admin/customize.php 1 493054 0 0
+/wp-content/themes/oneline-lite/css/font-awesome/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/wp-content/ 1 0 1 1
+/wp-json/ 2 105102 0 0
+/author/rajuinoram/ 6 127392 1 3
+/wp-admin/update-core.php 1 88451 0 0
+END_SIDER

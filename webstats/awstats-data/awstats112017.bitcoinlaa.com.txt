@@ -1,0 +1,387 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bitcoinlaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2661                
+POS_VISITOR 7091                
+POS_DAY 9933                
+POS_DOMAIN 3368                
+POS_LOGIN 3650                
+POS_ROBOT 3805                
+POS_WORMS 4200                
+POS_EMAILSENDER 4331                
+POS_EMAILRECEIVER 4474                
+POS_SESSION 10204               
+POS_SIDER 10400               
+POS_FILETYPES 4609                
+POS_DOWNLOADS 4827                
+POS_OS 4897                
+POS_BROWSER 4995                
+POS_SCREENSIZE 5338                
+POS_UNKNOWNREFERER 5412                
+POS_UNKNOWNREFERERBROWSER 5577                
+POS_ORIGIN 5659                
+POS_SEREFERRALS 5796                
+POS_PAGEREFS 5940                
+POS_SEARCHWORDS 6202                
+POS_KEYWORDS 6354                
+POS_MISC 2324                
+POS_ERRORS 6413                
+POS_CLUSTER 3506                
+POS_SIDER_404 6540                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201005119 265 61776 9996899343283
+FirstTime 0
+LastTime 20171129160645
+LastUpdate 20171201073236 24 0 23 0 0
+TotalVisits 61                  
+TotalUnique 56                  
+MonthHostsKnown 16                  
+MonthHostsUnknown 47                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 36 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 329 7 7 13314
+1 18 18 168554 7 11 17769
+2 28 95 703093 6 6 1209
+3 0 0 0 3 4 806
+4 1 1 11587 7 12 13400
+5 1 1 16292 9 13 62349
+6 5 37 537028 17 21 209348
+7 3 3 48876 14 14 2015
+8 1 1 16292 11 13 12225
+9 64 181 3109947 17 31 2015
+10 2 2 94 11 16 13467
+11 7 21 306801 12 32 347273
+12 0 0 0 3 4 1209
+13 0 0 0 3 4 1209
+14 0 0 0 8 9 24733
+15 0 0 0 3 3 1209
+16 2 17 501880 5 6 2015
+17 0 0 0 9 25 535372
+18 0 0 0 7 11 29558
+19 61 163 9836373 14 23 59250
+20 327 1050 24618323 19 30 509699
+21 218 560 12188732 20 23 392588
+22 87 176 4216257 12 14 1730
+23 113 203 5069643 20 34 307850
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+net 863 2351 57108896
+ip 63 122 2809718
+com 18 62 1419900
+cn 1 1 11587
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 142 927594 20171130234705 9
+wordpress 63 945959 20171130234215 0
+favicon 11 125900 20171121203753 0
+unknown 9 469 20171124114450 9
+crawl 7 35692 20171123185910 4
+yandex 3 16426 20171129010757 2
+robot 2 11654 20171121042825 1
+python 1 0 20171122021850 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 471 3528557 0 0
+png 272 11556123 0 0
+woff2 49 900276 0 0
+php 896 34119624 0 0
+js 669 6414407 0 0
+jpg 140 4737604 0 0
+svg 8 12168 0 0
+gif 31 81342 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 25 0 1407
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 23
+winxp 2
+winnt 2449
+Unknown 11
+winvista 2
+win7 49
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 17
+msie8.0 8
+chrome61.0.3163.100 23
+firefox0.10.1 1
+mozilla 10
+netscape5.0 1
+chrome34.0.1847.137 1
+chrome59.0.3071.86 17
+msie10.0 1
+firefox41.0 3
+chrome13.0.782.24 1
+safari6.0 16
+chrome56.0.2924.87 1
+chrome62.0.3202.94 2447
+firefox49.0 1
+chrome11.0.696.71 2
+firefox3.0.10 1
+chrome21.0.1180.89 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0 20171120113000
+Mozilla/5.0_(compatible;_ips-agent) 20171122013516
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 49 49
+From1 0 0
+From2 0 0
+From3 0 8
+From4 896 2479
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://wap.bitcoinlaa.com/wp-admin/images/spinner.gif 0 1
+http://wap.bitcoinlaa.com/wp-admin/setup-config.php 0 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 29 0
+206 5 435425
+405 1 0
+404 34 62493
+301 14 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/xmlrpc.php 2 -
+/sitemap.xml 1 -
+/wp-admin/admin-ajax.php 9 http://bitcoinlaa.com/wp-admin/customize.php
+/wp-json/wp/v2/users/ 1 -
+/ 15 -
+/robots.txt 3 -
+/wp-content/themes/exbusiness/images/slideshow/slide_demo1.png 3 http://bitcoinlaa.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 63
+104-189-155-51.lightspeed.rcsntx.sbcglobal.net 860 2348 57064725 20171122100303
+69.58.178.58 10 10 135688 20171122013516
+host217-41-64-92.in-addr.btopenworld.com 5 19 279500 20171120115013
+129.115.195.43 4 6 304674 20171127200820
+129.115.195.56 3 3 95 20171127201424
+129.115.195.51 2 4 270030 20171127193025
+129.115.195.8 2 2 94674 20171127195816
+129.115.195.68 2 3 46454 20171127193229
+129.115.195.46 2 3 4003 20171127200502
+cpe-71-64-200-192.cinci.res.rr.com 2 17 501880 20171128064426
+ec2-54-87-36-172.compute-1.amazonaws.com 1 1 16292 20171126052939
+129.115.195.28 0 2 1983 
+ec2-52-53-129-36.us-west-1.compute.amazonaws.com 1 1 16292 20171129080350
+129.115.195.72 1 1 47 20171127193430
+129.115.195.66 1 1 47 20171127200016
+27.185.61.59.broad.fz.fj.dynamic.163data.com.cn 1 1 11587 20171121220024
+129.115.195.29 1 1 47 20171127193515
+129.115.195.69 1 1 47 20171127201138
+129.115.195.36 1 3 371304 20171127193026
+ec2-52-39-93-44.us-west-2.compute.amazonaws.com 1 1 16292 20171128012100
+129.115.195.16 1 1 47 20171127200419
+129.115.195.37 1 2 120640 20171127193024
+129.115.195.15 1 1 116408 20171127195605
+129.115.195.13 1 1 54300 20171127193011
+ns7000703.ip-158-69-229.net 1 1 16292 20171124065237
+129.115.195.14 1 1 47 20171127201020
+129.115.195.60 1 5 167314 20171127192928
+ec2-54-202-152-39.us-west-2.compute.amazonaws.com 1 1 11009 20171120113000
+148.62.14.156 2 2 32584 20171123075243
+129.115.195.12 1 1 47 20171127200703
+li934-155.members.linode.com 1 1 16292 20171124014418
+129.115.195.5 2 2 94 20171127200904
+129.115.195.63 0 2 85937 
+140.205.201.23 1 8 136127 20171120090422
+45.32.187.191.vultr.com 1 1 16292 20171124114449
+129.115.195.47 2 3 146367 20171127193013
+129.115.195.48 1 1 47 20171127201038
+129.115.195.58 1 1 47 20171127201221
+129.115.195.10 1 2 8686 20171127193114
+129.115.195.57 0 2 32996 
+129.115.195.38 1 1 47 20171127200217
+129.115.195.54 1 1 47 20171127193831
+61.154.29.140 1 1 11587 20171121220010
+129.115.195.35 1 3 54846 20171127193014
+ip121.ip-167-114-55.net 1 1 11587 20171121042157
+ec2-23-22-246-144.compute-1.amazonaws.com 1 1 11587 20171121204125
+140.205.201.27 0 3 12486 
+129.115.195.44 0 1 15238 
+129.115.195.74 1 1 47 20171127194031
+140.205.201.4 1 8 136127 20171120090423
+129.115.195.7 1 1 47 20171127200619
+129.115.195.61 1 4 102813 20171127192923
+129.115.195.67 1 1 47 20171127193716
+129.115.195.55 0 3 109656 
+129.115.195.27 2 2 21054 20171127193019
+129.115.195.70 1 2 11279 20171127193630
+rrcs-76-190-88-66.central.biz.rr.com 2 17 501880 20171129160645
+129.115.195.75 2 3 42381 20171127192959
+ec2-54-219-178-100.us-west-1.compute.amazonaws.com 2 2 32584 20171126093532
+ip124.ip-167-114-55.net 1 1 16292 20171123223152
+129.115.195.23 0 1 20214 
+129.115.195.71 1 3 4914 20171127194025
+140.205.201.10 1 8 136107 20171120090418
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20171120 764 2113 54380619 6
+20171121 47 131 768908 7
+20171122 72 165 2808590 2
+20171123 3 3 48876 2
+20171124 4 4 65168 4
+20171126 2 2 32584 2
+20171127 47 82 2209012 34
+20171128 3 18 518172 2
+20171129 3 18 518172 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+5mn-15mn 1
+0s-30s 49
+30s-2mn 4
+15mn-30mn 4
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/wp-admin/admin-ajax.php 406 3244325 25 28
+/ 328 12538572 19 15
+/wp-admin/load-scripts.php 34 3310608 2 2
+/wp-admin/load-styles.php 20 1906478 1 1
+/wp-content/themes/alante/lib/extentions/font-awesome/fonts/fontawesome-webfont.woff2 19 231480 0 0
+/wp-admin/themes.php 18 969167 0 0
+/wp-admin/customize.php 17 8344925 0 0
+/wp-content/themes/drizzle-business/vendors/font-awesome/fonts/fontawesome-webfont.woff2 14 385800 1 4
+/wp-admin/setup-config.php 13 90831 6 5
+/wp-admin/post.php 9 1052290 2 2
+/wp-admin/post-new.php 4 453821 0 0
+/wp-content/themes/newfangled/fonts/fontawesome-webfont.woff2 5 56780 0 0
+/wp-admin/widgets.php 2 472797 0 0
+/wp-content/themes/experon/lib/extentions/font-awesome/fonts/fontawesome-webfont.woff2 5 77160 0 0
+/wp-admin/install.php 2 9030 0 0
+/wp-admin/async-upload.php 5 8937 0 0
+/2017/ 1 12756 0 0
+/2017/11/ 1 12997 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 2 421354 1 1
+/wp-admin/theme-install.php 5 208752 0 0
+/wp-admin/theme-editor.php 3 306688 0 0
+/wp-admin/ 7 384016 1 1
+/wp-content/themes/flare/assets/font-awesome/fonts/fontawesome-webfont.woff2 5 71896 0 0
+/2017/11/20/hello-world/ 2 34852 0 1
+/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-admin/edit.php 3 158258 0 0
+/news/ 1 12258 0 0
+/wp-login.php 3 6844 2 0
+/2017/11/20/ 1 13222 0 0
+/buy-bitcoin/ 5 87633 0 0
+/sell-bitcoin/ 3 45219 1 1
+/author/rajuinoram/ 1 12994 0 0
+END_SIDER

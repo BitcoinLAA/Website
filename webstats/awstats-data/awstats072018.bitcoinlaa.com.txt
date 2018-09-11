@@ -1,0 +1,1046 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bitcoinlaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2662                
+POS_VISITOR 19223               
+POS_DAY 38741               
+POS_DOMAIN 3521                
+POS_LOGIN 4453                
+POS_ROBOT 4608                
+POS_WORMS 5286                
+POS_EMAILSENDER 5417                
+POS_EMAILRECEIVER 5560                
+POS_SESSION 39569               
+POS_SIDER 39776               
+POS_FILETYPES 5695                
+POS_DOWNLOADS 5918                
+POS_OS 5988                
+POS_BROWSER 6154                
+POS_SCREENSIZE 7403                
+POS_UNKNOWNREFERER 7477                
+POS_UNKNOWNREFERERBROWSER 7932                
+POS_ORIGIN 8071                
+POS_SEREFERRALS 8214                
+POS_PAGEREFS 8382                
+POS_SEARCHWORDS 8923                
+POS_KEYWORDS 9097                
+POS_MISC 2325                
+POS_ERRORS 9181                
+POS_CLUSTER 4309                
+POS_SIDER_404 9322                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180801043313 135 22786 11146505374861
+FirstTime 0
+LastTime 20180731170441
+LastUpdate 20180801073106 26 0 25 0 0
+TotalVisits 442                 
+TotalUnique 369                 
+MonthHostsKnown 229                 
+MonthHostsUnknown 146                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 31 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 82 143 17870944 59 63 71376
+1 125 172 8726425 37 80 2635774
+2 35 90 11249065 32 51 173313
+3 37 102 7765645 65 81 265691
+4 28 84 15034601 47 85 299470
+5 35 89 17884760 58 82 456054
+6 43 52 3287714 40 68 930090
+7 17 27 3894485 54 68 393269
+8 20 41 3589474 79 108 1047486
+9 39 76 5677915 85 117 1201374
+10 25 52 9131575 46 53 239720
+11 46 64 6453997 47 63 93693
+12 50 50 440597 40 63 505719
+13 57 108 5952356 59 67 202248
+14 37 65 2638437 40 48 49928
+15 20 29 3145841 53 75 494153
+16 88 209 12946930 49 98 502600
+17 68 152 7401847 95 159 1255579
+18 49 103 15026823 88 107 555726
+19 26 40 3534767 84 148 1691417
+20 39 115 10734385 40 50 108000
+21 28 28 337537 65 70 87887
+22 26 44 6133252 62 93 934489
+23 44 99 11535063 40 72 1346966
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 51
+ip 390 639 50334356
+net 255 581 69721646
+com 168 440 51283553
+br 22 22 303182
+fr 22 78 4680834
+pt 20 20 275620
+it 11 11 163109
+ca 10 28 5973472
+be 10 38 2312096
+rs 8 8 110248
+ua 6 6 38340
+tr 6 6 82686
+sc 2 2 31689
+biz 8 8 51120
+vds 1 1 6390
+my 6 6 82686
+ru 6 6 72031
+mx 6 6 82686
+ma 2 2 27562
+ro 6 6 82686
+in 8 20 545086
+sg 4 4 55124
+ec 2 2 27562
+id 4 4 55124
+co 4 4 55124
+th 2 2 27562
+ie 2 2 44934
+org 1 1 6390
+cz 3 3 33952
+by 2 2 27562
+de 3 3 33952
+hr 1 1 6390
+tz 1 10 2931612
+jp 4 4 55124
+do 4 4 55124
+gr 6 6 82686
+localhost 1 1 403
+au 6 6 82686
+bn 2 2 27562
+eu 5 5 50859
+at 2 2 27562
+vn 2 2 27562
+info 2 2 50598
+pk 2 2 27562
+hu 6 6 82686
+pl 7 7 107985
+nl 6 6 60594
+lk 2 2 27562
+nz 2 2 27562
+sk 2 2 27562
+tk 1 1 6390
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+no_user_agent 403 744210 20180726020017 0
+wordpress 279 2256973 20180713031847 0
+googlebot 203 5484752 20180730131511 9
+yandex 122 2673262 20180723050101 19
+bot[\s_+:,\.\;\/\\-] 42 802712 20180729231556 11
+crawl 21 326288 20180718083039 1
+mj12bot 17 184146 20180722064651 6
+robot 13 139009 20180721080504 4
+seznambot 10 45928 20180725115730 4
+python 8 122563 20180731031142 0
+favicon 8 107847 20180729194836 0
+unknown 1 67 20180701094553 1
+facebook 2 46902 20180712092121 0
+netcraft 1 25299 20180703191738 0
+baiduspider 7 50926 20180722052748 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 216 13637019 0 0
+png 118 17924771 0 0
+ttf 74 9277600 0 0
+woff2 18 1388880 0 0
+php 972 10079416 0 0
+js 430 7002423 0 0
+jpg 205 131083281 0 0
+xml 1 1045 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 56 0 3752
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+linuxandroid 77
+winxp 27
+winlong 12
+unix 48
+win2000 9
+winnt 407
+winvista 40
+linux 39
+win7 675
+macosx 688
+win2003 2
+Unknown 10
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 68
+firefox57.0 4
+chrome11.0.661.0 1
+msie6.0 11
+chrome12.0.742.100 1
+chrome41.0.2272.96 1
+chrome34.0.1847.137 1
+chrome5.0.375.99 1
+chrome31.0.1650.57 6
+curl 2
+firefox34.0 4
+chrome58.0.3029.110 2
+chrome56.4.9168.4331 4
+msie7.0 4
+firefox59.0 2
+firefox40.1 442
+chrome60.0.3112.101 1
+chrome37.0.2062.120 1
+chrome66.0.3359.181 72
+chrome62.0.3198.0 109
+netscape 1
+chrome65.0.3325.181 10
+firefox50.0 2
+firefox48.0 1
+firefox42.0 1
+firefox3.0 1
+chrome63.0.3239.132 55
+firefox21.0 1
+firefox29.0 12
+firefox47.0 1
+chrome60.0.3112.113 8
+chrome46.0.2490.80 1
+firefox33.0 2
+mozilla 23
+safari4.6.2 4
+chrome64.0.3282.186 1
+chrome55.0.5597.0225 1
+chrome57.5.0174.5802 4
+safari11.1.2 10
+chrome40.0.2214.93 3
+safari 36
+firefox35.0 3
+chrome67.0.3396.87 118
+firefox15.0 1
+safari11.0 226
+firefox52.0 2
+firefox31.0 2
+chrome46.0.2490.76 10
+iphone 200
+chrome61.0.3163.100 14
+firefox6.0.2 1
+chrome34.0.1847.116 3
+chrome40.0.2214.85 1
+msie9.0 89
+firefox27.0 17
+Unknown 2
+firefox32.0 1
+chrome53.7.2920.8292 1
+chrome34.0.1847.114 1
+safari10.0 21
+chrome51.0.2704.79 35
+chrome59.0.3071.125 10
+firefox61.0 45
+chrome45.0.2454.94 1
+chrome67.0.3396.99 312
+chrome46.0.2754.75 2
+chrome39.0.2171.99 15
+firefox3.6.8 16
+chrome64.0.3282.140 38
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla 20180721220937
+curl/7.47.1 20180702161442
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180703151458
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180714120030
+curl/7.47.0 20180721142214
+Mozilla/5.0_(compatible;_ips-agent) 20180714063634
+A6-Indexer 20180714185418
+Dispatch/0.11.3 20180726142306
+Mozilla/3.0_(compatible;_Indy_Library) 20180707092025
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+A6-Indexer 20180714185418
+Dispatch/0.11.3 20180726142306
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 660 683
+From1 5 5
+From2 46 46
+From3 25 25
+From4 328 1275
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 45 45
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://l.instagram.com 8 8
+http://arcadiamgroup.com 4 4
+http://r.duckduckgo.com 3 3
+http://wordpress.bitcoinlaa.com 1 1
+https://na76.salesforce.com 1 1
+http://wp.bitcoinlaa.com 1 1
+http://blog.bitcoinlaa.com 1 1
+http://news.bitcoinlaa.com 1 1
+http://burger-imperia.com 1 1
+http://l.facebook.com/l.php 1 1
+https://www.cjb.net 1 1
+http://forum.bitcoinlaa.com 1 1
+http://test.bitcoinlaa.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+dictionary+english 31
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+english 31
+dictionary 31
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 103 0
+302 1 0
+206 14 359284
+405 1 42
+301 70 0
+404 607 2171812
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 212
+/wp-content/uploads/login.php 1 bitcoinlaa.com
+/blog/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/apikey/sup_wp.php 1 -
+/wordpress/ 3 -
+/author/rajuinoram/feed/ 1 -
+/wp-content/plugins/all-in-one-seo/aioseop_class.php 1 -
+/wp-uti.php 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+/wp-includes/generalwtemplate.php 1 bitcoinlaa.com
+/wp-content/plugins/three-column-screen-layout/sup_wp.php 1 -
+/wp-content/yt.php 2 -
+/wp-content/themes/drizzle-business/js/skip-link-focus-fix.min.js 5 http://bitcoinlaa.com/buy-bitcoin/
+/wp-content/themes/zwater/login.php 1 bitcoinlaa.com
+/wp-content/plugins/JumanNafis/Vand.php 1 http://bitcoinlaa.com/wp-content/plugins/JumanNafis/Vand.php
+/wp-admin/images/w-logo-blue.png%202x 1 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/gruppen/ 1 bitcoinlaa.com/gruppen/
+/groupes/ 1 bitcoinlaa.com/groupes/
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/manager/index.php 1 http://bitcoinlaa.com/manager/index.php
+/wp-json/oembed/1.0/%5C/%5C/bitcoinlaa.com%5C/%5C%22 1 -
+/wp-ontent/plugins/wp-db-ajax-made/login.php 1 bitcoinlaa.com
+/wp-content/plugins/woocommerce-checkout-manager/includes/pickers/css/backend_css.css 1 bitcoinlaa.com
+/wp-admin/yt.php 1 -
+/wp-config.php_bak 1 -
+/tmp.php 1 -
+/wp-config.php.save 1 -
+/wp-content/uploads/2018/04/Blake.jpg 2 -
+/xmlrpc.php 146 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/wp-content/plugins/apikey/login.php 1 bitcoinlaa.com
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-cson.php 1 -
+/wp-config.php.old 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/config.php.suspected 2 http://site.ru
+/wp-content/plugins/ubh/up.php 1 http://bitcoinlaa.com/wp-content/plugins/ubh/up.php
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/kickstart.php 1 -
+/news/html 1 http://bitcoinlaa.com/news/html
+/test/ 3 -
+/mod_ariimageslidersa.php 1 http://site.ru
+/wp-content/plugins/shortcodes-ultimate/assets/css/rtl-admin.css 1 http://bitcoinlaa.com/wp-content/plugins/shortcodes-ultimate/assets/css/rtl-admin.css
+/media/system/js/calendar-setup.js 1 bitcoinlaa.com
+/wp-content/themes/zwaters/login.php 1 bitcoinlaa.com
+/wp-content/plugins/page-google-maps/css/default.css 1 http://bitcoinlaa.com/wp-content/plugins/page-google-maps/css/default.css
+/code.php.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/uploads/2018/04/sup_wp.php 1 -
+/wp-config.php.bak 1 -
+/wp-includes/Text/Tiff.php 1 -
+/wp-includes/sup_wp.php 1 -
+/js/show.bs.collapse 1 -
+/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js 1 -
+/wp-login.php 84 -
+/wp-includes/js/wp-embed.min.js 5 http://bitcoinlaa.com/buy-bitcoin/
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/sq52zr.php 1 -
+/wp-content/themes/drizzle-business/vendors/cycle2/js/jquery.cycle2.min.js 5 http://bitcoinlaa.com/buy-bitcoin/
+/content-post.php 1 -
+/wp-content/uploads/2018/04/wE0H7qUP_400x400.jpg 3 -
+/wp-content/themes/drizzle-business/vendors/slick/slick.min.css 4 http://bitcoinlaa.com/buy-bitcoin/
+/modules/mod.php 2 http://site.ru
+/wp-content/plugins/woocommerce-products-filter/css/front.css 1 http://bitcoinlaa.com/wp-content/plugins/woocommerce-products-filter/css/front.css
+/wp-content/uploads/2018/06/wp-insert.php 1 bitcoinlaa.com
+/blog/xmlrpc.php 1 -
+/consystem.php 1 -
+/wp-includes/wlwmanifest.xml 2 -
+/plug/comment/commentList.asp 1 http://bitcoinlaa.com/plug/comment/commentList.asp
+/wp-config.orig 1 -
+/wp-admin/admin-ajax.php 1 bitcoinlaa.com
+/js/mage/cookies.js 2 bitcoinlaa.com
+/wp-admin/network/links-list-table.php 1 -
+/wp-content/plugins/temp.php 1 http://bitcoinlaa.com/wp-content/plugins/temp.php
+/wp-content/themes/pikture/login.php 1 bitcoinlaa.com
+/wp-config.php.orig 1 -
+/buy-bitcoin/ 1 -
+/ads.txt 1 -
+/sys.php.php 1 -
+/wp-post.php 1 -
+/wp-content/plugins/wp-time-capsule/tc-ui.css 1 bitcoinlaa.com
+/e107_admin/admin.php 1 http://bitcoinlaa.com/e107_admin/admin.php
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-json/oembed/1.0/%5C/%5C/bitcoinlaa.com%5C/start-now%5C/%5C%22 1 -
+/yt.php 1 -
+/wp-dbs.php 1 -
+/js/ 1 -
+/administrator/index.php 1 -
+/wp-includes/wp-simple.php 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 1 http://bitcoinlaa.com/buy-bitcoin/
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-includes/js/wpdialog.js 1 bitcoinlaa.com
+/wp-logos.php 1 -
+/wp-admin/includes/wp-insert.php 1 bitcoinlaa.com
+/wp-icoud.php 1 -
+/wp-content/themes/twentyfourteen/404.php 1 -
+/wp-content/themes/drizzle-business/vendors/slick/slick.min.js 4 http://bitcoinlaa.com/buy-bitcoin/
+/forum.php 1 -
+/category/uncategorized/feed/ 1 -
+/bitrix/admin/ 1 http://bitcoinlaa.com/bitrix/admin/
+/wp-content/uploads/2018/07/wp-insert.php 1 bitcoinlaa.com
+/wp-content/login.php 1 bitcoinlaa.com
+/news/ 1 http://bitcoinlaa.com/news/
+/wp-config.bak 1 -
+/sitemap.xml 1 -
+/robots.txt 83 -
+/wp-content/plugins/apikey/apikey.php 1 http://bitcoinlaa.com/wp-content/plugins/apikey/apikey.php
+/wp-content/uploads/kc_extensions/reup/upload.php 1 -
+/manager/ 1 http://bitcoinlaa.com/manager/
+/wp-includes/pomo/login.php 1 bitcoinlaa.com
+/wp-config.original 1 -
+/wp-content/plugins/wp-uninstall.php 1 -
+/options.php 1 -
+/feed/ 1 -
+/admin/login.php 3 -
+/new/ 1 -
+/user/login 1 http://bitcoinlaa.com/user/login
+/wp-content/themes/drizzle-business/js/custom.min.js 5 http://bitcoinlaa.com/buy-bitcoin/
+/wp-content/plugins/hello.php 1 -
+/mobile_detect.php 1 -
+/wp-content/plugins/login.php 1 bitcoinlaa.com
+/wp-includes/pomo/pictur.php 1 bitcoinlaa.com
+/old/ 2 -
+/wp-includes/login.php 1 bitcoinlaa.com
+/wp-content/plugins/three-column-screen-layout/login.php 1 bitcoinlaa.com
+/http:/ 2 http://bitcoinlaa.com
+/main/ 1 -
+/wp-content/test.php 1 http://bitcoinlaa.com/wp-content/test.php
+/wp-admin/wp-insert.php 1 bitcoinlaa.com
+/feed 1 -
+/wp-includes/js/jquery/jquery.js 1 http://bitcoinlaa.com/buy-bitcoin/
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-dba.php 1 -
+/wp-content/uploads/2018/05/login.php 1 bitcoinlaa.com
+/cache.php 1 -
+/wp-content/themes/drizzle-business/vendors/font-awesome/css/font-awesome.min.css 5 http://bitcoinlaa.com/buy-bitcoin/
+/pictur.php 1 bitcoinlaa.com
+/wp-config.php.original 1 -
+/wp-content/themes/drizzle-business/vendors/sidr/css/jquery.sidr.dark.min.css 4 http://bitcoinlaa.com/buy-bitcoin/
+/wp-includes/class-wp-customize.php 1 bitcoinlaa.com
+/wp-content/uploads/2018/07/test.php 1 http://bitcoinlaa.com/wp-content/uploads/2018/07/test.php
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/2017/11/20/hello-world/ 1 -
+/wp-includes/IXR/login.php 1 bitcoinlaa.com
+//wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/admin/images/cal_date_over.gif 3 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-config.old 1 -
+/wp-admin/includes/sup_wp.php 1 -
+/.smileys/license.php 1 http://site.ru
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/author/rajuinoram/ 1 -
+/connectors/system/phpthumb.php 1 bitcoinlaa.com
+/wp-content/uploads/2018/05/sup_wp.php 1 -
+/404.php 1 -
+/wp-config.save 1 -
+/wp-content/uploads/404.php 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/templates/system/css/system.css 3 -
+/wp-content/themes/drizzle-business/vendors/sidr/js/jquery.sidr.min.js 5 http://bitcoinlaa.com/buy-bitcoin/
+/2017/11/ 2 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/js/hidden.bs.collapse 1 -
+/login.php 2 http://bitcoinlaa.com/login.php
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/blog/ 3 -
+/site/ 1 -
+/wp-config.php~ 1 -
+/wp-content/uploads/2018/06/login.php 1 bitcoinlaa.com
+/wp-content/sup_wp.php 1 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/config.php 1 -
+/wp-content/themes/drizzle-business/style.css 4 http://bitcoinlaa.com/buy-bitcoin/
+/wp/ 3 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp-includes/js/wp-emoji-release.min.js 4 http://bitcoinlaa.com/buy-bitcoin/
+/wp-ajax.php 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/eladm.php 1 http://site.ru
+/wp-content/uploader.php.suspected 1 http://bitcoinlaa.com/wp-content/uploader.php.suspected
+/wp-content/plugins/yana12/pictur.php 2 bitcoinlaa.com
+/demo/ 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/categories.php 2 http://site.ru
+/user/register/ 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/2017/ 1 -
+/wp-cahce.php 1 http://bitcoinlaa.com/wp-cahce.php
+/category/uncategorized/ 3 -
+/wp-content/plugins/mailpress/mp-admin/css/user.css 1 http://bitcoinlaa.com/wp-content/plugins/mailpress/mp-admin/css/user.css
+/wp-content/plugins/log.php 2 http://bitcoinlaa.com/wp-content/plugins/log.php
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/sup_wp.php 1 -
+/wp-includes/wp-insert.php 1 bitcoinlaa.com
+/wp-content/plugins/delete-all-comments/readme.txt 1 http://bitcoinlaa.com/wp-content/plugins/delete-all-comments/readme.txt
+/%22%27 2 -
+/assets/components/gallery/connector.php 1 bitcoinlaa.com
+/index.php 1 http://bitcoinlaa.com/index.php
+//blog/ 2 http://bitcoinlaa.com/
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 bitcoinlaa.com
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/2017/11/20/ 1 -
+/start-now/ 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 375
+h79-nl9.fcsrv.net 108 108 296847 20180712014646
+185.234.217.31 34 34 125979 20180702133541
+185.234.217.29 31 31 116193 20180710022815
+193.169.252.187 31 31 116193 20180706185312
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com 26 26 355230 20180729155316
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com 18 18 190656 20180730124140
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com 18 18 304110 20180731140546
+146.185.223.113 17 18 32760 20180707011756
+191.96.249.195 17 17 54519 20180705061848
+lstlambert-657-1-107-87.w92-154.abo.wanadoo.fr 16 72 4598148 20180712173134
+hosting-by.xwinnet.biz 8 8 51120 20180718141427
+88.230.5.102.dynamic.ttnet.com.tr 2 2 27562 20180703120315
+94.76.52.8 2 2 27562 20180708121211
+p1709089-ipngn200610fukuokachu.fukuoka.ocn.ne.jp 2 2 27562 20180709184837
+host130.tornadonet.sk 2 2 27562 20180712145251
+slot0.coremail.tk 1 1 6390 20180720155141
+203.101.181.237 2 2 27562 20180706012448
+62.29.15.188 2 2 27562 20180712231422
+ogopogo.relay.coldhak.com 1 1 25299 20180705174212
+ab165143.dynamic.ppp.asahi-net.or.jp 2 2 27562 20180703163933
+189-18-208-60.dsl.telesp.net.br 2 2 27562 20180708000713
+175.100.11.164 2 2 27562 20180705185518
+c-69-243-102-139.hsd1.md.comcast.net 1 10 2931612 20180717024250
+209-30-151-9.lightspeed.austtx.sbcglobal.net 2 20 5863224 20180729231544
+modemcable116.159-59-74.mc.videotron.ca 2 2 27562 20180712045210
+124.49.114.89.rev.vodafone.pt 2 2 27562 20180709160618
+h110.93.184.173.dynamic.ip.windstream.net 1 10 2931612 20180724014418
+172.56.7.35 1 8 2704748 20180723001044
+36.75.175.88 2 2 27562 20180712045718
+178.209.30.37 2 2 27562 20180705184831
+customer-189-216-142-123.cablevision.net.mx 2 2 27562 20180702050302
+google-proxy-66-249-88-23.google.com 1 3 2291680 20180718023712
+71-35-11-198.phnx.qwest.net 2 20 5863224 20180714020513
+ec2-18-144-34-142.us-west-1.compute.amazonaws.com 1 1 6390 20180731130128
+demur136.vds 1 1 6390 20180725182249
+173.252.84.88 3 14 455746 20180705015212
+cpe-70-119-145-111.tx.res.rr.com 12 94 16903878 20180725231203
+054546e1.skybroadband.com 6 34 2256972 20180701203051
+20.191.108.93.rev.vodafone.pt 2 2 27562 20180705215501
+123.231.120.119 1 1 6390 20180713153046
+117.216.89.128 1 1 6390 20180713192121
+46.101.9.216 1 1 6390 20180717080348
+107.77.94.107 1 10 2931612 20180715100215
+36-225-148-4.dynamic-ip.hinet.net 1 1 6390 20180715051318
+spice91-129.spicenet.co.tz 1 10 2931612 20180713084650
+static.vnpt.vn 2 2 27562 20180706071241
+40.77.190.59 1 1 165548 20180707073546
+bit243.neoplus.adsl.tpnet.pl 2 2 27562 20180705000959
+102.124.136.95.rev.vodafone.pt 2 2 27562 20180704041412
+13-82-56-46-dynamic-pool.internet.mts.by 2 2 27562 20180705102545
+bl21-165-252.dsl.telepac.pt 2 2 27562 20180712050309
+abayonne-654-1-179-19.w90-55.abo.wanadoo.fr 2 2 27562 20180702204644
+125.165.12.11 2 2 27562 20180706013641
+46-119-120-176.broadband.kyivstar.net 4 4 25560 20180731133436
+46.98.49.60.jb03-home.tm.net.my 2 2 27562 20180706080934
+103.212.235.18 2 2 27562 20180709232240
+105.101.52.15 2 2 27562 20180707050130
+host-41.47.50.101.tedata.net 2 2 27562 20180710221613
+ec2-54-191-224-145.us-west-2.compute.amazonaws.com 1 2 7485 20180730191503
+cpe-70-93-254-15.natsow.res.rr.com 8 36 2304091 20180711012611
+31-202-101-40-kh.maxnet.ua 6 6 38340 20180725132344
+93-40-196-142.ip40.fastwebnet.it 2 2 27562 20180711203625
+a89-153-120-225.cpe.netcabo.pt 2 2 27562 20180708091259
+broadband.time.net.my 4 4 55124 20180710081229
+203.215.122.152 2 2 27562 20180703125250
+213.16.224.105.dsl.dynv6.forthnet.gr 2 2 27562 20180707181645
+78.190.225.198.static.ttnet.com.tr 2 2 27562 20180712234529
+2.153.83.221.dyn.user.ono.com 2 2 27562 20180703205955
+188-143-63-40.pool.digikabel.hu 2 2 27562 20180707133815
+82.6.148.33 2 2 27562 20180703204103
+dynamic-201-245-251-215.dynamic.etb.net.co 2 2 27562 20180710165257
+ths-177-223-255-113.v4.thsprovider.com.br 2 2 27562 20180708232131
+104.244.227.65 1 1 6390 20180714001857
+109.98.166.177 1 1 6390 20180713115327
+176.14.37.74 1 10 2931612 20180728180440
+124-149-166-130.dyn.iinet.net.au 2 2 27562 20180708060430
+122.ip-46-105-92.eu 1 1 6390 20180726075930
+103.212.140.224 2 2 27562 20180709015850
+google-proxy-66-249-88-27.google.com 0 5 424291 
+ip-166-62-45-148.ip.secureserver.net 11 11 4433 20180707111427
+185.53.252.155 2 2 27562 20180711170349
+173.252.84.89 1 13 1418949 20180705015212
+wiebe.tor-exit.calyxinstitute.org 1 1 6390 20180716212612
+218.red-83-33-132.dynamicip.rima-tde.net 2 2 27562 20180703232411
+182.220.101.148.d.dyn.claro.net.do 2 2 27562 20180705060430
+c91110dc.virtua.com.br 2 2 27562 20180704072252
+84.126.225.14.dyn.user.ono.com 2 2 27562 20180711114807
+103.99.206.188 2 2 27562 20180708173715
+7.87.148.91.adsl.dyn.beotel.net 1 1 6390 20180713115321
+217.61.227.34 2 2 27562 20180703213430
+mobile-166-137-136-112.mycingular.net 1 10 2931612 20180725205510
+103.46.194.133 2 2 27562 20180704051115
+195-154-166-8.rev.poneytelecom.eu 1 1 25299 20180705130432
+athedsl-4408686.home.otenet.gr 2 2 27562 20180706160710
+60.53.4.122 2 2 27562 20180712115229
+static24-72-13-237.r.rev.accesscomm.ca 1 10 2931612 20180718003654
+58.65.218.202 2 2 27562 20180710155933
+36.80.163.59 1 1 6390 20180730060213
+174.127.135.253 1 1 6390 20180730180200
+93-86-237-181.dynamic.isp.telekom.rs 2 2 27562 20180709202428
+6.sub-97-47-68.myvzw.com 1 10 2931612 20180718205516
+ip-89-234-68-100.broadband.digiweb.ie 2 2 44934 20180702173027
+103.196.220.202.rev.pcpli.net 2 2 27562 20180711005402
+host72-124-dynamic.21-87-r.retail.telecomitalia.it 2 2 27562 20180707212944
+69.171.224.251 1 2 160277 20180713095800
+202.86.119.232 2 2 27562 20180710153648
+201-79-220-77.user.veloxzone.com.br 2 2 27562 20180710205739
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com 14 14 184005 20180731170441
+149-202-86-188.serverhub.ru 3 3 19170 20180717081454
+177-177-68-131.user.veloxzone.com.br 2 2 27562 20180706174514
+112.134.39.115 2 2 27562 20180711170131
+ec2-34-217-99-226.us-west-2.compute.amazonaws.com 1 2 160277 20180730191922
+94.96.140.25 2 2 27562 20180704094849
+104.192.74.38 2 2 12780 20180721220937
+103.24.127.9 2 2 27562 20180711132228
+79.sub-174-232-131.myvzw.com 10 38 2410029 20180705165751
+static.masmovil.com 2 2 27562 20180710171506
+static.belong.com.au 2 2 27562 20180709043931
+118.210.197.164 2 2 27562 20180712154955
+103.112.148.254 2 2 27562 20180707210850
+222.223.204.47 2 2 5525 20180702044750
+213.6.151.14 2 2 27562 20180705104246
+dynamic-adsl-78-15-152-114.clienti.tiscali.it 2 2 27562 20180701074111
+40.77.188.71 1 1 53224 20180707073545
+99-16-248-204.lightspeed.hstntx.sbcglobal.net 6 34 2256972 20180712092020
+dhcp-089-099-080-093.chello.nl 2 2 27562 20180707191141
+c-73-44-145-29.hsd1.il.comcast.net 2 2 27562 20180713020639
+li477-188.members.linode.com 1 1 6390 20180727140812
+mta-98-7-11-100.nyc.rr.com 2 2 27562 20180702090947
+113.203.174.188 2 2 27562 20180705164901
+42.190.182.52 2 2 27562 20180704173017
+bb42-61-159-70.singnet.com.sg 2 2 27562 20180707025608
+wn-campus-nat-129-97-124-30.dynamic.uwaterloo.ca 2 2 27562 20180701230958
+212-129-15-92.rev.poneytelecom.eu 1 1 6390 20180721020601
+107-203-160-166.lightspeed.tukrga.sbcglobal.net 6 34 2256972 20180706130345
+107-142-158-12.lightspeed.sndgca.sbcglobal.net 2 20 5863224 20180727002717
+host-151-250-215-192.reverse.superonline.net 2 2 27562 20180706053447
+38.94.184.0 1 1 6390 20180726142306
+172.56.34.218 1 10 2931612 20180713184702
+apn-31-1-20-226.dynamic.gprs.plus.pl 2 2 27562 20180708055423
+62.209.230.55 2 2 27562 20180710115743
+mx-ll-180.183.251-150.dynamic.3bb.co.th 2 2 27562 20180704095219
+42.112.86.22 2 2 27562 20180707132206
+5.178.177.135 2 2 27562 20180704195716
+188.161.229.125 1 1 6390 20180713142539
+74.30.166.190.f.sta.codetel.net.do 2 2 27562 20180707171717
+65-33-66-12.res.bhn.net 2 2 27562 20180703054642
+89-239.adsl.static.espeed.com.bn 2 2 27562 20180707131911
+46.246.241.67.dsl.dyn.forthnet.gr 2 2 27562 20180702151622
+61.5.94.255 2 2 27562 20180711220131
+ame-bb-cable-3-116.dsl.airstreamcomm.net 1 10 6390 20180714005609
+131.sub-174-219-2.myvzw.com 1 10 2931616 20180713043931
+77-120-176-171.dynamic-fttb.kharkov.volia.com 1 1 25299 20180707092025
+210.195.35.5 2 2 27562 20180711064502
+rate-limited-proxy-66-249-89-90.google.com 1 1 25299 20180703151458
+183.103.189.187 1 1 6394 20180713045402
+95.68.81.74 2 2 27562 20180710010718
+41.136.241.190 2 2 27562 20180701095559
+194.red-83-59-109.dynamicip.rima-tde.net 2 2 27562 20180704033804
+186.179.151.145 2 2 27562 20180709000354
+188-173-45-190.next-gen.ro 2 2 27562 20180704060318
+static.243.140.130.94.clients.your-server.de 1 1 6390 20180724235540
+ec2-34-219-117-121.us-west-2.compute.amazonaws.com 1 1 6390 20180714185418
+27.72.86.109.triolan.net 1 1 6390 20180728154121
+138.68.180.18 1 1 25299 20180702024701
+89.123.76.94 2 2 27562 20180712031457
+111.207.7.14 2 2 5525 20180712054319
+178-220-18-218.dynamic.isp.telekom.rs 2 2 27562 20180702221801
+bzq-79-181-1-69.red.bezeqint.net 2 2 27562 20180710010731
+nat.sbb.rs 2 2 27562 20180711095741
+103.78.22.49 2 2 27562 20180703103854
+customer-mred-247.static.metrored.net.mx 2 2 27562 20180712153813
+201.206.82.134 1 1 6390 20180713094237
+host-213-74-252-181.superonline.net 1 1 6390 20180713115218
+14.0.231.217 2 20 5863224 20180713104438
+241.64-240-81.adsl-dyn.isp.belgacom.be 2 2 27562 20180708220103
+177.37.227.46 2 2 27562 20180710061338
+122.228.10.51 1 1 6390 20180721015431
+172.58.111.163 1 10 2931612 20180716030607
+80.169.52.45 2 2 27562 20180705075733
+202.112.30.6 2 2 27562 20180707160350
+ec2-54-160-125-170.compute-1.amazonaws.com 1 1 6390 20180713230322
+175.196.127.153 1 1 6390 20180727131544
+208.74.140.125 6 34 2256972 20180703023425
+198-57-152-218.unifiedlayer.com 1 1 25299 20180703161332
+232.76.35.179.isp.timbrasil.com.br 2 2 27562 20180701140431
+cpe-67-251-112-10.stny.res.rr.com 1 10 2931612 20180713061253
+245.187.151.89.chtts.ru 1 1 25299 20180709030203
+103.87.56.165 2 2 27562 20180704091115
+mobile-166-137-010-132.mycingular.net 1 10 2931612 20180715002921
+c-67-181-146-231.hsd1.ca.comcast.net 2 2 27562 20180712174430
+ec2-54-183-72-157.us-west-1.compute.amazonaws.com 1 1 6390 20180730130252
+modemcable226.65-48-24.mc.videotron.ca 1 10 2931612 20180713133005
+bas1-joliette17-174-89-227-43.dsl.bell.ca 2 2 27562 20180713031847
+109-93-71-124.dynamic.isp.telekom.rs 2 2 27562 20180707123454
+123.121.39.213 2 2 27562 20180707092933
+host250-199-static.34-79-b.business.telecomitalia.it 2 2 27562 20180711165012
+net-93-65-162-204.cust.vodafonedsl.it 2 2 27562 20180713030623
+mobile-166-137-118-058.mycingular.net 3 30 8794844 20180713185120
+88.244.206.244.dynamic.ttnet.com.tr 2 2 27562 20180708082308
+119.200.167.97 2 2 27562 20180712050241
+d51533e3d.access.telenet.be 2 2 27562 20180709130354
+138.197.202.197 1 1 25299 20180709012448
+undefined.hostname.localhost 1 1 403 20180713003637
+31.206.51.7 2 2 27562 20180703210721
+nat-29-207.ingram.com.pl 2 2 27562 20180709164224
+security.lightspeedsystems.com 0 2 34707 
+159.192.222.136 2 2 27562 20180707131506
+91eca63a.dsl.pool.telekom.hu 2 2 27562 20180703001659
+d54c5772a.access.telenet.be 6 34 2256972 20180701205246
+112.200.241.50.pldt.net 1 1 6390 20180713060231
+188.49.252.48 2 2 27562 20180706141242
+c91108de.rjo.static.virtua.com.br 2 2 27562 20180703125428
+194.44.144.98 2 2 27562 20180710222704
+128.199.41.245 1 1 6390 20180731031551
+static-host202-61-38-102.link.net.pk 2 2 27562 20180705181342
+191.35.41.109.dynamic.adsl.gvt.net.br 2 2 27562 20180713020230
+220.79.102.112 2 2 27562 20180713035606
+69.171.224.246 0 2 2273281 
+c-73-184-148-219.hsd1.ga.comcast.net 2 2 27562 20180702183151
+ec2-52-91-67-61.compute-1.amazonaws.com 1 1 6390 20180723102440
+nz26l63.bb60246.ctm.net 1 1 6390 20180713204324
+173.252.84.87 1 3 158927 20180705015212
+196.75.43.255 2 2 27562 20180702010212
+fm-dyn-111-95-154-32.fast.net.id 2 2 27562 20180710034546
+79.126.231.122 2 2 27562 20180702234051
+150-36-117-138.loginternet.com.br 2 2 27562 20180709052128
+pc-228-2-46-190.cm.vtr.net 2 2 27562 20180704235055
+p4fc2ddb9.dip0.t-ipconnect.de 2 2 27562 20180702165012
+2.89.224.127 2 2 27562 20180702085743
+dsl.49.148.227.154.pldt.net 2 2 27562 20180708103629
+40.77.190.145 0 1 11721 
+140.79.115.89.rev.vodafone.pt 2 2 27562 20180711212700
+5-14-181-230.residential.rdsnet.ro 2 2 27562 20180704192552
+2.26.166.204 2 11 2938002 20180719074429
+24.114.29.174 2 2 27562 20180707035128
+254-0-144-85.ftth.glasoperator.nl 2 2 5470 20180711185006
+41.136.159.241 2 2 27562 20180704115228
+host.26.88.68.195.rev.coltfrance.com 1 10 2931612 20180713180938
+www.whois.sc 2 2 31689 20180719084837
+s0106602ad0753963.cg.shawcable.net 2 2 27562 20180708161249
+google-proxy-66-249-88-29.google.com 0 2 215641 
+166-175-201-123.static.youbroadband.in 2 2 27562 20180704144356
+host-213-74-188-211.superonline.net 2 2 27562 20180710162609
+lx-217-129-149-230.netvisao.pt 2 2 27562 20180708124531
+89-156-51-177.rev.numericable.fr 2 2 27562 20180710161214
+120.136.5.107.host.layer2.co.nz 2 2 27562 20180708185431
+118.101.97.13 2 2 27562 20180712183834
+210.220.150.102 2 2 27562 20180712092032
+254c2fe8.nat.pool.telekom.hu 2 2 27562 20180709161849
+po1-84-91-251-170.netvisao.pt 2 2 27562 20180707192923
+202.58.99.50 2 2 27562 20180701222702
+cpe-67-245-43-178.nyc.res.rr.com 6 34 2256972 20180710164604
+cm56-197-100.liwest.at 2 2 27562 20180706210655
+173.252.84.91 1 4 223350 20180705015212
+69.171.224.250 0 6 498054 
+195.242.80.126 1 1 21330 20180702205137
+ec2-52-53-245-134.us-west-1.compute.amazonaws.com 1 1 6390 20180724030756
+197.red-83-49-99.dynamicip.rima-tde.net 2 2 27562 20180710192542
+61.134.52.164 2 2 5525 20180702043329
+47-221-8-141.kngwcmtk01.res.dyn.suddenlink.net 2 2 27562 20180711213040
+103.55.146.131 2 2 27562 20180707235845
+d216-121-208-119.home3.cgocable.net 2 2 27562 20180713010326
+192.119.14.90 2 2 12780 20180728043450
+c-98-199-143-47.hsd1.tx.comcast.net 1 10 2931612 20180713053544
+ec2-54-213-198-242.us-west-2.compute.amazonaws.com 2 4 16138 20180730191834
+175.137.101.210 2 2 27562 20180701223322
+dynamic-ip-186862598.cable.net.co 2 2 27562 20180710140744
+ool-18e41ae5.dyn.optonline.net 2 2 27562 20180707165259
+104.238.217.130 8 36 2282271 20180702161445
+186.49.broadband7.iol.cz 2 2 27562 20180701213310
+dsl-189-180-208-136-dyn.prod-infinitum.com.mx 2 2 27562 20180706222433
+69.58.178.57 1 1 6390 20180714063634
+103.16.228.16 1 10 2931612 20180713111149
+fixed-187-188-155-98.totalplay.net 2 2 27562 20180710183318
+s0106bc4dfbcb12b3.ed.shawcable.net 2 2 27562 20180710061845
+c-24-14-229-247.hsd1.il.comcast.net 2 2 27562 20180703100842
+174.127.135.249 1 1 6390 20180730191039
+41.141.12.75 2 2 27562 20180702164801
+78.133.56.220 2 2 27562 20180709163554
+061244114180.ctinets.com 2 2 5525 20180707221921
+161.63.60.94.rev.vodafone.pt 2 2 27562 20180702032323
+123.21.211.160 1 1 2263 20180711064033
+67.108.178.186.static.anycast.cnt-grms.ec 2 2 27562 20180712145913
+1-168-41-182.dynamic-ip.hinet.net 2 2 27562 20180712030410
+210-185-109-52.tpgi.com.au 2 2 27562 20180709232139
+152.158.116.91.dynamic.reverse-mundo-r.com 2 2 27562 20180711054759
+bl17-9-50.dsl.telepac.pt 2 2 27562 20180708144558
+static-198.132.93.111-tataidc.co.in 2 2 27562 20180702093904
+198.154.85.241 2 2 12780 20180725110505
+52.247.118.138.static.netcol.com.br 2 2 27562 20180708001215
+server8.info 2 2 50598 20180710174148
+69-90-15-51.rev.cloud.scaleway.com 1 1 0 20180721142214
+38.100.21.67 1 2 160277 20180713191012
+89.211.163.178 2 2 27562 20180704161823
+c-73-128-84-58.hsd1.md.comcast.net 2 2 27562 20180707123046
+151.53.10.179 2 2 27562 20180711045828
+185.217.171.42 6 34 2256972 20180710140537
+192.162.102.25 1 1 6390 20180730043519
+14.139.92.114 2 2 27562 20180704131132
+185.67.191.41 2 2 27562 20180707114326
+167.99.75.245 2 2 0 20180714211849
+226.red-83-48-109.staticip.rima-tde.net 2 2 27562 20180706143836
+li1018-115.members.linode.com 1 1 25299 20180704095917
+185.65.134.165 6 34 2256972 20180712173203
+broadband.actcorp.in 4 16 489962 20180713064816
+amontpellier-654-1-256-220.w92-133.abo.wanadoo.fr 2 2 27562 20180704200318
+c-73-208-64-190.hsd1.il.comcast.net 2 2 27562 20180707065146
+42.115.19.85 2 2 27562 20180707030313
+mobile-166-137-143-034.mycingular.net 1 12 3086976 20180717225614
+41.142.157.5 2 2 27562 20180710211014
+118.32.175.178 2 2 27562 20180710202019
+221.226.50.162 2 2 5525 20180707224938
+83.71.247.38 2 2 44934 20180702172559
+c-66-176-228-3.hsd1.fl.comcast.net 2 2 27562 20180705042006
+slt-bb-cust.slt.lk 2 2 27562 20180706094807
+93-143-51-154.adsl.net.t-com.hr 1 1 6390 20180713201024
+adsl196-218-126-206-196.adsl196-4.iam.net.ma 2 2 27562 20180707161607
+27.subnet110-138-95.speedy.telkom.net.id 2 2 27562 20180711063849
+196.43.135.55 2 2 27562 20180703200332
+host216-29-237-212.serverdedicati.aruba.it 1 1 25299 20180707174952
+c-71-56-54-56.hsd1.ga.comcast.net 8 54 8120200 20180713053051
+178.157.250.77 2 2 27562 20180705142802
+212-83-165-19.rev.poneytelecom.eu 1 1 6390 20180714105738
+ip177-46-111-225.anid.com.br 2 2 27562 20180702191259
+intermx-199-167-96-110.rev.intermaxnetworks.com 1 10 2931612 20180718150944
+180.191.146.134 2 2 27562 20180701195827
+szpakowski.pl 1 1 25299 20180712093002
+162-195-120-81.lightspeed.irvnca.sbcglobal.net 2 2 27562 20180704212224
+163-172-4-153.rev.poneytelecom.eu 1 1 6390 20180727204024
+202.43.147.245 2 2 5525 20180702052445
+107-181-176-108.atl.gtsmanaged.com 2 2 12780 20180730045312
+103.248.175.132 2 2 27562 20180709012447
+cpc76912-dals22-2-0-cust726.20-2.cable.virginm.net 2 2 27562 20180710211426
+82.169.81.94 2 2 27562 20180704001416
+external-12-prod.plob.cz 1 1 6390 20180731150834
+unassigned.psychz.net 1 15 384583 20180712131240
+185.182.81.79 1 10 2931612 20180717003337
+ec2-75-101-180-120.compute-1.amazonaws.com 1 1 6390 20180723183740
+188-24-200-234.rdsnet.ro 2 2 27562 20180710002417
+clients-mgn-75.freedom1.ru 2 2 27562 20180712060924
+74-94-152-105-newengland.hfc.comcastbusiness.net 1 10 2931612 20180718161940
+117.201.45.203 1 1 6390 20180713180115
+c-24-30-125-9.hsd1.ga.comcast.net 15 43 2450679 20180702235151
+170.52.129.68 2 2 27562 20180711083734
+c-73-186-19-128.hsd1.ct.comcast.net 3 30 5869618 20180723193139
+162.243.69.215 1 1 52831 20180709012450
+ns153.naxza.com 1 1 6390 20180720134023
+115.134.222.122 2 2 27562 20180704163742
+172.56.6.163 1 10 2931612 20180714014741
+spider-3.lipperhey.com 3 3 19170 20180714120031
+c-73-255-114-76.hsd1.tx.comcast.net 2 2 27562 20180708002201
+ec2-34-211-128-143.us-west-2.compute.amazonaws.com 1 1 25299 20180707143555
+123.86.modemcable.oricom.ca 2 2 27562 20180704233430
+42.188.27.132 2 2 27562 20180701183206
+45-248-151-226.dotinternetbd.com 2 2 27562 20180709005256
+rrcs-70-117-50-170.sw.biz.rr.com 2 20 5863224 20180717232220
+115.134.147.186 2 2 27562 20180712113004
+80.94.55.2 2 2 27562 20180705022646
+host-195-155-241-246.reverse.superonline.net 2 2 27562 20180711201320
+134-249-50-185.broadband.kyivstar.net 2 2 12780 20180730051934
+120.29.112.160 2 2 27562 20180707001349
+77.126.93.236 2 2 27562 20180708232400
+45.72.156.86 1 1 6390 20180713202836
+d172-218-1-110.bchsia.telus.net 2 2 27562 20180704234453
+157.51.133.233 2 2 27562 20180709095120
+193.106.30.99 4 4 55266 20180709063710
+ec2-18-207-198-28.compute-1.amazonaws.com 1 1 6390 20180720173642
+bb119-74-19-81.singnet.com.sg 2 2 27562 20180702191205
+40.77.190.176 4 4 609352 20180707073548
+189-211-179-22.static.axtel.net 2 2 27562 20180707004022
+84.125.73.248.dyn.user.ono.com 2 2 27562 20180708172757
+152.red-213-99-80.dynamicip.rima-tde.net 2 2 27562 20180707103946
+dhcp-089-099-182-252.chello.nl 2 2 27562 20180706164439
+cpc122234-seve27-2-0-cust92.13-3.cable.virginm.net 2 2 27562 20180703233526
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180701 34 90 4863198 14
+20180702 107 163 5531959 32
+20180703 43 71 2797703 22
+20180704 51 51 687735 28
+20180705 72 156 7464099 26
+20180706 67 95 2782875 19
+20180707 85 87 1727165 37
+20180708 39 39 572013 20
+20180709 39 41 680324 22
+20180710 99 183 7622231 30
+20180711 43 55 1055313 23
+20180712 178 304 10371060 26
+20180713 59 304 67169598 41
+20180714 15 42 5933514 11
+20180715 9 27 5907954 5
+20180716 6 24 5888784 5
+20180717 13 58 14709180 8
+20180718 12 59 14858154 8
+20180719 5 14 2957172 3
+20180720 6 6 38340 5
+20180721 7 7 38340 5
+20180722 3 3 19170 2
+20180723 6 22 5661920 5
+20180724 6 24 5888784 5
+20180725 14 32 5939904 7
+20180726 4 4 25560 3
+20180727 7 16 2969952 6
+20180728 6 15 2963562 4
+20180729 4 13 2950782 3
+20180730 15 19 254190 11
+20180731 10 10 63900 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 1
+15mn-30mn 1
+2mn-5mn 1
+30s-2mn 5
+0s-30s 429
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 480 8540717 191 388
+/wp-login.php 448 1173311 231 18
+/xmlrpc.php 28 11252 12 13
+/wp-content/themes/oneline-lite/font/Roboto-Regular.ttf 18 2616264 1 2
+/wp-content/themes/oneline-lite/font/Roboto-Light.ttf 18 2927448 1 3
+/wp-content/themes/oneline-lite/font/Montserrat-Regular.ttf 18 958032 1 3
+/wp-content/themes/oneline-lite/font/Roboto-Bold.ttf 18 2444760 1 8
+/wp-content/plugins/lead-form-builder/font-awesome/fonts/fontawesome-webfont.woff2 17 1311720 1 1
+/start-now/ 11 215985 0 3
+/author/rajuinoram/ 4 85320 1 1
+/wp-content/themes/oneline-lite/css/font-awesome/fonts/fontawesome-webfont.ttf 1 165548 0 0
+/wp-content/themes/oneline-lite/css/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-json/ 1 52831 1 1
+/wp-content/plugins/lead-form-builder/font-awesome/fonts/fontawesome-webfont.ttf 1 165548 1 1
+END_SIDER

@@ -1,0 +1,323 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bitcoinlaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2670                
+POS_VISITOR 7276                
+POS_DAY 8620                
+POS_DOMAIN 3245                
+POS_LOGIN 3529                
+POS_ROBOT 3684                
+POS_WORMS 4025                
+POS_EMAILSENDER 4156                
+POS_EMAILRECEIVER 4299                
+POS_SESSION 8771                
+POS_SIDER 8918                
+POS_FILETYPES 4434                
+POS_DOWNLOADS 4585                
+POS_OS 4633                
+POS_BROWSER 4727                
+POS_SCREENSIZE 5063                
+POS_UNKNOWNREFERER 5137                
+POS_UNKNOWNREFERERBROWSER 5254                
+POS_ORIGIN 5366                
+POS_SEREFERRALS 5499                
+POS_PAGEREFS 5654                
+POS_SEARCHWORDS 5802                
+POS_KEYWORDS 5975                
+POS_MISC 2334                
+POS_ERRORS 6057                
+POS_CLUSTER 3385                
+POS_SIDER_404 6150                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180904110829 70 12497 8095469967330
+FirstTime 20180901015805
+LastTime 20180904084919
+LastUpdate 20180911073155 0 0 0 0 0
+TotalVisits 23                  
+TotalUnique 21                  
+MonthHostsKnown 15                  
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 5 0
+1 1 10 2931756 2 11 7629
+2 1 1 6534 1 2 160421
+3 1 1 6534 16 16 98010
+4 1 1 6534 1 1 0
+5 2 11 2938290 5 7 6534
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 1 1 6534 0 0 0
+9 0 0 0 1 2 0
+10 1 10 2931756 1 5 440736
+11 1 1 6534 5 9 0
+12 1 1 6534 0 0 0
+13 0 0 0 15 18 6534
+14 4 4 26136 0 1 0
+15 1 5 164874 4 7 0
+16 0 0 0 0 0 0
+17 0 0 0 8 8 0
+18 3 3 19602 1 1 0
+19 4 4 26136 2 4 0
+20 2 2 13068 0 0 0
+21 1 1 6534 0 0 0
+22 1 1 6534 0 0 0
+23 2 2 13068 1 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+com 15 24 3023232
+ip 8 30 6061056
+eu 2 2 13068
+net 2 2 13068
+de 1 1 6534
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+java\/[0-9] 15 98010 20180902030028 0
+no_user_agent 4 440736 20180902100046 0
+googlebot 4 168050 20180901023441 0
+seznambot 2 0 20180903190202 0
+python 1 6534 20180902132325 0
+netcraft 1 6534 20180903052606 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 28 182952 0 0
+css 4 615548 0 0
+png 6 1114224 0 0
+js 12 17812 0 0
+jpg 9 7186422 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 24
+winlong 1
+winnt 12
+Unknown 1
+linux 7
+win7 14
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 17
+firefox50.0 1
+chrome54.0.2840.71 4
+chrome61.0.3163.100 2
+safari11.0 10
+mozilla 10
+msie7.0 1
+chrome34.0.1847.131 1
+chrome60.0.3112.101 1
+firefox6.0 1
+chrome58.0.3029.96 1
+chrome66.0.3359.181 6
+msie9.0 2
+chrome40.0.2214.93 2
+Unknown 1
+chrome62.0.3198.0 1
+safari 10
+chrome65.0.3325.181 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+}__test|O:21:\ 20180902184212
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+}__test|O:21:\ 20180902184212
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 21 25
+From1 0 0
+From2 5 5
+From3 0 0
+From4 2 29
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+dictionary+english 3
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+dictionary 3
+english 3
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 24 0
+404 46 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 28
+/wp-content/themes/twentyeleven/seo_script.php 1 bitcoinlaa.com
+/blog/robots.txt 1 -
+/robots.txt 10 -
+/wordpress/ 2 -
+/demo/ 1 -
+/wp-includes/class-wp-bar.php 1 bitcoinlaa.com
+/wp-content/plugins/background-image-cropper/image/ico/seo_script.php 1 bitcoinlaa.com
+/test/ 1 -
+/new/ 1 -
+//wp-login.php 1 -
+/backup/ 1 -
+/assets/images/seo_script.php 1 bitcoinlaa.com
+/wp-content/uploads/2018/08/seos.php 1 bitcoinlaa.com
+/libraries/sfn.php 1 -
+/wp-content/uploads/2018/08/st.php 1 bitcoinlaa.com
+/seos.php 1 bitcoinlaa.com
+/site/ 1 -
+/blog/ 2 -
+/.DS_Store 2 -
+/wp/ 2 -
+/wp-content/themes/clean-commerce/test2.php 1 bitcoinlaa.com
+/wp-content/themes/sketch/wp-telemetry.php 1 -
+/xmlrpc.php 5 -
+/index.php 1 bitcoinlaa.com
+/old/ 1 -
+/wp-login.php 2 -
+/wp-content/uploads/2018/08/seo_script.php 1 bitcoinlaa.com
+/main/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com 4 4 26136 20180902143208
+185.234.217.160 3 3 19602 20180902184212
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com 2 2 13068 20180904032724
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com 2 2 13068 20180903141517
+ec2-54-160-112-7.compute-1.amazonaws.com 1 1 6534 20180902231627
+12.235.47.66 1 10 2931756 20180903052044
+107-175-1-85-host.colocrossing.com 1 1 6534 20180901050030
+gw-cluster013.ovh.net 1 1 6534 20180901191810
+ec2-18-144-57-39.us-west-1.compute.amazonaws.com 1 1 6534 20180901195736
+sapsait.com 1 1 6534 20180903124438
+31.13.115.6 0 2 3358 
+static.27.225.201.138.clients.your-server.de 1 1 6534 20180901045249
+159.65.35.16 1 5 164874 20180901153310
+31.13.115.7 0 2 214855 
+31.13.115.2 1 3 173525 20180902100014
+91.207.175.48 1 1 6534 20180904084919
+re01.gconex.net 1 1 6534 20180901233740
+188.166.116.151 1 1 6534 20180903215357
+31.13.115.9 0 1 110184 
+62-210-142-48.rev.poneytelecom.eu 1 1 6534 20180901022103
+ec2-13-57-179-178.us-west-1.compute.amazonaws.com 1 1 6534 20180902193707
+31.13.115.10 0 2 2429834 
+rrcs-172-254-56-210.nyc.biz.rr.com 1 10 2931756 20180901015805
+ec2-18-216-205-16.us-east-2.compute.amazonaws.com 1 1 6534 20180901112503
+163-172-4-153.rev.poneytelecom.eu 1 1 6534 20180903194545
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20180901 12 25 3161970 11
+20180902 8 17 2977494 5
+20180903 6 15 2964426 5
+20180904 2 2 13068 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 28 182952 23 23
+END_SIDER

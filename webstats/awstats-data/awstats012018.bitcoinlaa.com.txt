@@ -1,0 +1,1937 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201801 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.bitcoinlaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1994                
+POS_TIME 2677                
+POS_VISITOR 15488               
+POS_DAY 82137               
+POS_DOMAIN 3527                
+POS_LOGIN 4289                
+POS_ROBOT 4444                
+POS_WORMS 5005                
+POS_EMAILSENDER 5136                
+POS_EMAILRECEIVER 5279                
+POS_SESSION 83030               
+POS_SIDER 83230               
+POS_FILETYPES 5414                
+POS_DOWNLOADS 5663                
+POS_OS 5733                
+POS_BROWSER 5932                
+POS_SCREENSIZE 8351                
+POS_UNKNOWNREFERER 8425                
+POS_UNKNOWNREFERERBROWSER 8826                
+POS_ORIGIN 9104                
+POS_SEREFERRALS 9250                
+POS_PAGEREFS 9429                
+POS_SEARCHWORDS 9666                
+POS_KEYWORDS 9840                
+POS_MISC 2340                
+POS_ERRORS 9924                
+POS_CLUSTER 4145                
+POS_SIDER_404 10071               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180201000156 845 149732 8110778973771
+FirstTime 20180101000902
+LastTime 20180131232202
+LastUpdate 20180201033045 228 0 227 0 0
+TotalVisits 2273                
+TotalUnique 1337                
+MonthHostsKnown 785                 
+MonthHostsUnknown 556                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 22 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 141 141 439922 12 14 33523
+1 141 156 1046058 8 13 26041
+2 135 135 338982 2 3 885
+3 91 106 791611 7 18 209628
+4 109 123 950288 9 22 301693
+5 167 167 469227 4 7 33615
+6 161 161 465194 6 23 374450
+7 288 314 1787236 57 63 379486
+8 255 264 955694 23 24 28631
+9 348 616 9302190 10 11 37066
+10 268 277 1011280 79 86 720671
+11 303 324 1822619 89 93 668398
+12 305 305 1001714 50 50 435629
+13 304 319 1419471 19 24 103979
+14 255 255 898799 22 35 88793
+15 264 264 825474 42 46 379765
+16 229 229 809381 17 29 100802
+17 264 280 1502215 20 33 148650
+18 192 192 598944 16 38 505262
+19 157 172 970563 19 41 406246
+20 184 185 739852 28 45 337668
+21 146 160 1173390 12 13 57262
+22 153 168 972722 61 66 468066
+23 156 156 486337 30 31 41031
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 38
+ip 1892 2259 17620444
+ru 1720 1748 5645485
+ua 522 522 1402713
+com 282 310 3081247
+net 249 279 1910219
+kz 62 62 170562
+by 42 42 115542
+fr 34 34 93534
+su 26 26 71526
+ge 18 18 49518
+il 1 1 0
+uk 2 2 5539
+tr 2 2 16701
+cn 1 1 16298
+kg 2 2 5502
+kr 1 1 12070
+mx 4 4 11004
+ro 16 16 6448
+in 2 2 5502
+id 5 5 27302
+co 2 2 5502
+ie 6 6 87227
+br 3 3 21837
+org 14 14 38514
+de 9 9 49505
+pro 2 2 16701
+md 16 16 44016
+jp 6 6 16506
+adsl 2 2 5539
+eu 1 1 7413
+tv 12 12 33012
+at 1 1 0
+ee 2 2 5502
+info 16 16 44016
+it 15 15 52125
+ca 2 2 5502
+pl 10 10 40576
+arpa 14 14 38514
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+wordpress 115 1210 20180131232202 0
+yandex 100 685638 20180131162329 48
+googlebot 41 769995 20180126150219 6
+bot[\s_+:,\.\;\/\\-] 41 683772 20180116190815 11
+nutch 18 98592 20180131171901 12
+favicon 15 244470 20180129191131 0
+unknown 5 335 20180123093137 5
+crawl 5 65259 20180130055606 1
+python 2 32596 20180126062254 0
+surveybot 2 16365 20180120105034 1
+no_user_agent 1 16298 20180122104434 0
+netcraft 1 16298 20180104122612 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+eot 1 165742 0 0
+css 124 3554119 0 0
+png 6 519828 0 0
+ttf 2 331096 0 0
+woff 21 2058504 0 0
+woff2 7 540120 0 0
+php 4984 16405465 0 0
+html 1 7413 0 0
+js 314 6539378 0 0
+jpg 9 657498 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 84 0 5628
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 15
+linuxandroid 1
+winxp 390
+winlong 4011
+unix 18
+win2000 17
+winnt 513
+winvista 54
+linux 13
+win7 246
+macosx 82
+winme 1
+winunknown 12
+win95 3
+win2003 6
+Unknown 102
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 127
+msie6.0 2
+firefox28.0 27
+chrome57.4.9019.5382 1
+chrome55.1.6418.1146 1
+chrome34.0.1847.137 5
+firefox45.65.28 1
+chrome31.0.1650.57 12
+safari5.0 1
+firefox34.0 3966
+chrome56.1.6167.1895 1
+chrome56.2.6518.1246 1
+chrome53.6.1778.6040 1
+chrome58.0.3029.110 12
+chrome56.1.6488.1115 1
+msie8.0 46
+chrome63.0.3239.84 17
+opera9.20 1
+chrome53.8.3409.8671 1
+firefox45.68.05 1
+chrome57.4.9499.4127 1
+msie7.0 2
+chrome40.0.818.0 1
+safari5.5.1 4
+chrome60.0.3112.101 1
+chrome57.4.9642.4370 1
+chrome37.0.2062.120 2
+chrome53.6.0613.5341 1
+chrome62.0.3202.89 1
+safari5.4.9 1
+chrome57.4.0987.5259 1
+chrome50.0.2661.75 32
+chrome42.0.2311.152 1
+chrome53.6.1765.5493 1
+safari5.6.1 2
+netscape 11
+chrome56.1.6196.1824 1
+firefox48.0 1
+firefox53.0 1
+firefox52.50.97 1
+firefox52.56.09 1
+firefox45.63.10 1
+chrome56.2.6437.1165 1
+chrome34.0.1847.131 2
+chrome57.5.0179.6431 1
+opera9.78 2
+chrome63.0.3239.132 37
+firefox29.0 75
+chrome62.0.3202.94 16
+chrome55.1.6685.0313 1
+chrome56.2.6121.1859 1
+firefox52.55.08 1
+chrome54.0.2840.71 32
+chrome56.3.9394.4566 1
+firefox33.0 34
+mozilla 17
+safari4.6.2 1
+chrome63.0.3239.116 17
+safari5.0.4 309
+chrome55.1.6983.0611 1
+firefox45.78.21 1
+chrome37.0.864.0 1
+chrome53.6.1693.7965 1
+chrome56.2.6446.1174 1
+safari5.3.7 1
+opera9.11 1
+chrome54.8.3966.8238 1
+chrome11.0.696.71 2
+firefox36.0 21
+chrome57.4.9699.5962 1
+firefox35.0 2
+safari7.0 1
+safari11.0 18
+chrome57.4.9351.5623 1
+android 2
+firefox52.45.92 1
+chrome57.5.0363.5635 1
+chrome57.4.0432.5704 1
+firefox52.51.14 1
+chrome55.1.6846.0574 1
+chrome56.0.2924.87 1
+chrome36.0.1985.125 17
+safari5.3.8 5
+chrome57.4.9170.5443 1
+firefox31.0 16
+iphone 5
+firefox52.43.90 1
+chrome61.0.3163.100 13
+safari3.0.5 1
+chrome55.0.5372.0100 1
+chrome34.0.1847.116 1
+chrome53.7.3081.8353 1
+chrome56.0.2924.76 29
+firefox45.76.29 1
+chrome58.0.1145.75 1
+chrome57.5.1164.6436 1
+msie5.0 1
+msie9.0 1
+chrome57.4.9911.4283 1
+firefox52.51.08 1
+firefox27.0 1
+chrome55.1.6618.0446 1
+Unknown 82
+safari4.6.1 1
+chrome57.5.0174.4802 1
+firefox52.59.96 1
+chrome57.5.0743.6015 1
+chrome54.8.4233.9505 1
+safari5.4.8 4
+chrome53.0.2785.143 452
+chrome53.6.1923.5651 1
+chrome38.0.844.0 1
+firefox18.0.1 1
+chrome56.2.7925.2653 1
+chrome45.0.2454.94 1
+safari4.0 2
+msie11.0 3
+firefox52.50.03 2
+chrome55.1.5241.0979 1
+safari4.7.2 3
+firefox37.0 2
+safari5.2.7 4
+msie10.0 16
+chrome46.0.2754.75 1
+opera8.46 2
+chrome27.0.1453.116 1
+firefox3.6.8 6
+chrome56.4.9675.4947 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla 20180113113627
+Poster 20180117033025
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180117011538
+}__test|O:21:\ 20180124114231
+Mozilla/5.0_(compatible;_ips-agent) 20180113163900
+wp-iphone 20180115224029
+Scrapy/1.4.0_(_http://scrapy.org) 20180118180825
+wp-android 20180117141354
+Magic_Browser 20180131101814
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+wp-windowsphone 20180114010322
+Poster 20180117033025
+Windows_Live_Writer 20180117223109
+}__test|O:21:\ 20180124114231
+Magic_Browser 20180131101814
+Scrapy/1.4.0_(_http://scrapy.org) 20180118180825
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2248 2249
+From1 3 3
+From2 165 165
+From3 6 6
+From4 2594 3046
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 162 162
+bing 1 1
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://arcadiamgroup.com 4 4
+http://burger-imperia.com 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+dictionary+english 29
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+english 29
+dictionary 29
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 10 0
+503 1 288
+302 7 0
+405 3 126
+400 86 86
+301 88 0
+404 265 3255912
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 90
+/sitemap.xml 1 -
+/upload/_dispatch.php 1 -
+/wp-content/plugins/cardoza-facebook-like-box/custom-css/xo.php 4 -
+/wp-content/plugins/font-uploader/font-upload.php 6 -
+/manager/ 1 http://bitcoinlaa.com/manager/
+/modules/simpleslideshow/uploadimage.php 3 -
+/wp-content/plugins/real3d-flipbook/includes/process.php 5 -
+/modules/pk_vertflexmenu/ajax/upload.php 2 -
+/wp-content/uploads/user_uploads/hOEmr.php.png 1 -
+/wp-content/plugins/wp-symposium/server/php/index.php 6 -
+/.ftpconfig 1 -
+/modules/columnadverts/uploadimage.php 2 -
+/wp-style.php 1 bitcoinlaa.com
+/wp-content/plugins/apikey/switch-security.php 1 bitcoinlaa.com
+/wp-content/plugins/mailpress/mp-includes/action.php 5 -
+/wp-content/plugins/index.lib.php 1 http://bitcoinlaa.com/wp-content/plugins/index.lib.php
+/wp-content/plugins/dzs-videogallery/upload.php 14 -
+/wp-content/plugins/simple-dropbox-upload-form/dragup/ 6 -
+/wp-content/wp-object-cache.php 1 http://bitcoinlaa.com/wp-content/wp-object-cache.php
+/wp-content/plugins/cardoza-facebook-like-box/cardoza_facebook_like_box.php 8 -
+/wp-content/plugins/page-google-maps/pr.php 4 -
+/modules/vtemslideshow/uploadimage.php 1 -
+/xx2.php 1 http://bitcoinlaa.com/xx2.php
+/wp-includes/widgets/class-wp-widget-content.php 1 bitcoinlaa.com
+/wp-content/plugins/ubh/up.php 1 http://bitcoinlaa.com/wp-content/plugins/ubh/up.php
+/KlfhsYYs 1 http://www.bitcoinlaa.com/KlfhsYYs
+/wp-content/uploads/AAPL/loaders/1gvxn.php 1 -
+/wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/single-upload.php 5 -
+/wp-admin/includes/images.php 1 bitcoinlaa.com
+/modules/fieldvmegamenu/ajax/upload.php 2 -
+/wp-content/plugins/wp-handy-lightbox/begin.php 6 -
+/wp-content/plugins/google-maps-by-daniel-martyn/inuse.php 6 -
+/wp-content/plugins/cherry-plugin/admin/import-export/17ytF.php 1 -
+/wp-content/plugins/sharexy/ajaxresponder.php 6 -
+/wp-content/plugins/dzs-videogallery/admin/upload.php 10 -
+/wp-content/jssor-slider/jssor-uploads/NlV8Y.php 1 -
+/wp-content/themes/wp-update.php 1 bitcoinlaa.com
+/wp-includes/Text/Tiff.php 1 bitcoinlaa.com
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 6 -
+/modules/wdoptionpanel/wdoptionpanel_ajax.php 2 -
+/wp-content/plugins/codecanyon-157782-video-gallery-wordpress-plugin-w-youtube-vimeo-/admin/upload.php 5 -
+/wp-content/plugins/email-subscribers/changelog.txt 1 bitcoinlaa.com
+/modx.php 1 http://bitcoinlaa.com/modx.php
+/wp-content/plugins/showbiz/temp/update_extract/FqO0Z.php 1 -
+/wp-content/plugins/linklove/linklove.php 2 http://bitcoinlaa.com/wp-content/plugins/linklove/linklove.php
+/modules/megamenu/uploadify/uploadify.php 2 -
+/wp-content/plugins/cherry-plugin/admin/import-export/wtuqP.php 2 -
+/modules/homepageadvertise2/uploadimage.php 3 -
+/wp-content/plugins/dzs-portfolio/upload.php 12 -
+/aboutt-us/ 2 -
+/modules/attributewizardpro/file_upload.php 2 -
+/wp-content/plugins/tevolution/tmplconnector/monetize/templatic-custom_fields/single-upload.php 3 -
+/wp-content/uploads/AAPL/loaders/e5w6Q.php 1 -
+/wp-content/plugins/wpstorecart/php/upload.php 7 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 7 -
+/modules/advancedslider/ajax_advancedsliderUpload.php 3 -
+/wp-content/plugins/apikey/path_config.php 1 bitcoinlaa.com
+/components/com_adsmanager/js/noconflict.js 2 -
+/components/com_sexycontactform/fileupload/index.php 4 -
+/wp-content/uploads/AAPL/loaders/b6eq0.php 1 -
+/modules/pk_flexmenu/ajax/upload.php 2 -
+/wp-content/uploads/2018/01/path_config.php 1 bitcoinlaa.com
+/wp-content/plugins/uploader/uploadify/uploadify.php 3 -
+/wp-link.php 1 http://bitcoinlaa.com/wp-link.php
+/modules/homepageadvertise/uploadimage.php 2 -
+/wp-content/plugins/gallery-slider/launch.php 1 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 3 -
+/wp-content/uploads/AAPL/loaders/QkZuh.php 1 -
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 4 -
+/wp-content/uploader.php.suspected 1 http://bitcoinlaa.com/wp-content/uploader.php.suspected
+/wp-content/plugins/codecanyon-157782-video-gallery-wordpress-plugin-w-youtube-vimeo-/upload.php 3 -
+http://bitcoinlaa.com/wp-content/plugins/font-uploader/font-upload.php 1 -
+/wp-content/jssor-slider/jssor-uploads/4gOoZ.php 1 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 5 -
+/wp-content/plugins/apikey/openweb.php 1 bitcoinlaa.com
+/wp-content/uploader.php 1 http://bitcoinlaa.com/wp-content/uploader.php
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 5 -
+/wp-content/plugins/contus-hd-flv-player/uploadVideo.php 5 -
+/wp-content/uploads/2018/01/switch-security.php 1 bitcoinlaa.com
+/wp-content/uploads/2018/01/openweb.php 1 bitcoinlaa.com
+/wp-content/plugins/gallery-plugin/upload/php.php 6 -
+/wp-info.php 1 http://bitcoinlaa.com/wp-info.php
+/wp-content/plugins/php-event-calendar/server/file-uploader/ 7 -
+/wp-content/plugins/dzs-portfolio/admin/upload.php 9 -
+/path_config.php 1 bitcoinlaa.com
+/wp-includes/pomo/so.php 1 bitcoinlaa.com
+/index.php 1 -
+/.vscode/ftp-sync.json 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/JJNwc.php 1 -
+/wp-content/plugins/gallery-slider/register.php 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1341
+95.145.dynamic.pppoe.fregat.ua 456 456 1179169 20180127012808
+client.yota.ru 158 158 434658 20180131220018
+181.214.87.244 81 81 262204 20180111053017
+64.74.215.50 40 308 8406196 20180123094410
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com 28 28 456344 20180130075308
+104.192.74.43 22 22 315580 20180113113627
+185.202.213.88 20 20 55020 20180130194406
+91.234.62.57 20 20 55020 20180125221143
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com 18 18 293364 20180131101814
+188-169-123-74.dsl.utg.ge 18 18 49518 20180124073622
+host31-51-170-161.range31-51.btcentralplus.com 8 8 22008 20180127151004
+109-233-205-132.donnetwork.ru 2 2 5502 20180119200116
+69.58.178.56 10 10 141492 20180113163900
+5.140.44.214 2 2 5502 20180103025808
+120-175-184-178.pppoe.irtel.ru 2 2 5502 20180102024307
+tor-relay-002.parckwart.de 1 1 16298 20180131152530
+128-72-255-181.broadband.corbina.ru 4 4 11004 20180131200337
+mm-111-1-127-178.mogilev.dynamic.pppoe.byfly.by 2 2 5502 20180130200512
+87.76.239.222 2 2 5502 20180102140734
+89.250.166.104 2 2 5502 20180121135700
+94.50.194.47 2 2 5502 20180113110145
+ppp109-252-1-10.pppoe.spdop.ru 4 4 11004 20180120182730
+well.extremhost.net 2 2 16701 20180117141354
+92.244.224.73 2 2 5502 20180130140406
+5x166x196x129.dynamic.nn.ertelecom.ru 2 2 5502 20180127124326
+bdk3-out.vfp.ru 6 6 16506 20180126110342
+91.250.22.42 2 2 5502 20180126134748
+ppp109-252-68-89.pppoe.spdop.ru 6 6 16506 20180131174412
+ip-83-246-166-20.intelbi.ru 2 2 5502 20180113134254
+41.230.47.97 2 2 5502 20180131100519
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com 1 1 16298 20180123115118
+83.149.44.144 4 4 11004 20180117161546
+46.173.64.157 4 4 11004 20180118201449
+188.168.81.241 6 6 16506 20180127103932
+dynamicip-176-215-3-166.pppoe.ekat.ertelecom.ru 10 10 27510 20180130153419
+ppp109-252-105-7.pppoe.spdop.ru 10 10 27510 20180127130750
+81.88.144.71 4 4 11004 20180130144045
+ppp91-122-167-96.pppoe.avangarddsl.ru 2 2 5502 20180130130121
+a2plcpnl0614.prod.iad2.secureserver.net 2 2 16701 20180111110611
+47.89.107.38 1 1 16298 20180112213351
+5x164x103x105.dynamic.spb.ertelecom.ru 2 2 5502 20180113113759
+195.91.214.145 4 4 11004 20180130081907
+109x195x50x24.static-business.voronezh.ertelecom.ru 2 2 5502 20180122130243
+ec2-34-217-10-33.us-west-2.compute.amazonaws.com 2 2 5484 20180120124620
+178.204.43.144 2 2 5502 20180116124423
+ip-188-113-165-201.z37.ysk.scts.tv 4 4 11004 20180131045359
+undefined.datagroup.com.ua 2 2 5502 20180113091934
+178.91.162.130.megaline.telecom.kz 2 2 5502 20180116093428
+188.18.113.55 2 2 5502 20180131124335
+83.220.239.138 2 2 5502 20180131142937
+dynamicip-46-0-172-1.pppoe.samara.ertelecom.ru 2 2 5502 20180123143426
+186-250-52-37.pool.ukrtel.net 2 2 5502 20180123171956
+c26084.sgvps.net 2 2 16701 20180114010322
+130.180.210.216 2 2 5502 20180112075644
+147.30.47.160 2 2 5502 20180117113937
+ec2-54-165-243-216.compute-1.amazonaws.com 2 2 5539 20180118153519
+87.76.52.113 2 2 5502 20180131035859
+37-147-128-213.broadband.corbina.ru 4 4 11004 20180129082306
+5.141.120.182 2 2 5502 20180127153752
+broadband-46-242-5-237.moscow.rt.ru 2 2 5502 20180122223242
+host-88-215-157-34.stavropol.ru 2 2 5502 20180114034404
+89.175.168.47 6 6 16506 20180118080252
+93.84.78.217 2 2 5502 20180131002741
+109.105.66.60.rikt.ru 2 2 5502 20180112162253
+mm-141-21-214-37.mogilev.dynamic.pppoe.byfly.by 2 2 5502 20180128014113
+dynamicip-37-113-164-109.pppoe.chel.ertelecom.ru 2 2 5502 20180119203211
+a2plcpnl0037.prod.iad2.secureserver.net 2 2 16701 20180109055537
+35.pool-157.kaluga.ru 2 2 5502 20180115185918
+95.84.25.245 2 2 5502 20180130091940
+89.169.20.154 6 6 16506 20180130163222
+150-70-188-177.trendmicro.com 1 1 16298 20180124114917
+ec2-54-89-207-211.compute-1.amazonaws.com 2 2 5539 20180118094750
+176.108.182.121 2 2 5502 20180112151024
+176x213x150x188.dynamic.ufa.ertelecom.ru 2 2 5502 20180120143213
+94-75-151-x.dynamic.b-domolink.net 2 2 5502 20180116003618
+84-52-110-14.westcall.net 8 8 22008 20180131221438
+0895211332.static.corbina.ru 6 6 16506 20180129094648
+84.95.87.84.static.012.net.il 1 1 0 20180122104354
+46-37-128-73.pptp.vladlink.net 16 16 44016 20180122152035
+95-181-2-179.goodline.info 8 8 22008 20180124173853
+217.118.91.37 2 2 5502 20180101101244
+95.106.69.128 2 2 5502 20180126081216
+node-212-160-35-212.domolink.tula.net 2 2 5502 20180130211510
+194.190.42.65 2 2 5502 20180114103033
+b-internet.90.189.249.143.snt.ru 4 4 11004 20180123140937
+85.26.209.200 4 4 11078 20180124111439
+94.228.246.49 2 2 5502 20180125124708
+net-1-213.sprintinet.ru 10 10 27510 20180128164754
+188.16.85.138 2 2 5502 20180111170522
+88-147-152-228.dynamic.152.147.88.in-addr.arpa 2 2 5502 20180131105757
+cloudserver160888.online.pro 2 2 16701 20180109234054
+84-53-198-222.elcom.ru 2 2 5502 20180127202504
+mm-242-154-85-93.dynamic.pppoe.mgts.by 4 4 11004 20180120010617
+128-74-61-245.broadband.corbina.ru 2 2 5502 20180114013005
+ip-193-93-217-22.astra.in.ua 2 2 5502 20180116132811
+2.93.66.205 4 4 11004 20180120095858
+pppoe.178-67-44-23.avangarddsl.ru 2 2 5502 20180115185734
+fttb-dynamic-195.218.183.55.ranetka.ru 2 2 5502 20180102063603
+77.51.13.85 2 2 5502 20180122054318
+77.35.232.8 2 2 5502 20180121025458
+213.24.127.213 2 2 5502 20180131160318
+171.255.199.129 1 1 0 20180129150820
+37.21.3.29 2 2 5502 20180118141623
+ip-141-198-122-091.pools.atnet.ru 2 2 5502 20180131174107
+217.114.184.170.ip.tele-plus.ru 2 2 5502 20180110131948
+30.52.75.178.akado-ural.ru 2 2 5502 20180112133435
+ec2-13-56-229-65.us-west-1.compute.amazonaws.com 12 12 195576 20180130212807
+105.103.216.133 2 2 5502 20180128185003
+176.59.110.60 2 2 5502 20180117135110
+188.170.73.206 6 6 16506 20180112152759
+host-62-135-117-229.static.link.net 2 2 5539 20180130165907
+ip-194.cifra1.ru 2 2 5502 20180124144210
+nat-sol.novi.uz.ua 4 4 11004 20180126155013
+broadband-95-106-144-45.atc.tvcom.ru 2 2 5502 20180127110446
+31.163.108.234 2 2 5502 20180128123436
+84.41.106.116 2 2 5502 20180119131248
+95x153x135x230.kubangsm.ru 2 2 5502 20180120110507
+79-104-201-110.ranetka.ru 2 2 5502 20180127043636
+ec2-52-221-242-26.ap-southeast-1.compute.amazonaws.com 1 1 16298 20180113232938
+line11.dialup.hiperion.lsi.ru 2 2 5502 20180126123736
+host-static-178-132-143-98.moldtelecom.md 4 4 11004 20180129145514
+194.54.160.13 2 2 5502 20180129162603
+178.187.63-247.xdsl.ab.ru 2 2 5502 20180128155916
+212.1.109.104 4 4 11004 20180122171119
+acaen-156-1-24-80.w83-115.abo.wanadoo.fr 4 4 11004 20180131014122
+ec2-54-187-18-119.us-west-2.compute.amazonaws.com 6 6 16507 20180127224711
+188.124.240.45 2 2 5502 20180124133143
+129.115.195.16 1 3 106405 20180126170208
+ip-109-63-141-83.bb.netbynet.ru 2 15 488770 20180126073429
+nat212.sevtelecom.ru 2 2 5502 20180125130242
+user-93-170-19-74.mayaknet.ru 2 2 5502 20180123221116
+dynamicip-121-78-95-187.pppoe.chelny.ertelecom.ru 2 2 5502 20180118125133
+ppp83-237-36-1.pppoe.mtu-net.ru 2 2 5502 20180113202015
+178.218.29.71 2 2 5502 20180120181718
+broadband-90-154-68-64.moscow.rt.ru 4 4 11004 20180121172255
+h109-187-184-216.dyn.bashtel.ru 2 2 5502 20180129180115
+91.247.148.1 4 4 11004 20180131202254
+188.170.196.46 2 2 5502 20180131125656
+82-208-100-46.pg-nat-pool2.mts-nn.ru 2 2 5502 20180121204957
+31.173.120.105 2 2 5502 20180101065636
+176.210.248.22 2 2 5502 20180123175955
+170.mtsnet.ru 4 4 11004 20180119063431
+broadband-178-140-39-119.moscow.rt.ru 2 2 5502 20180116082928
+64.74.215.162 1 10 208379 20180123100414
+194.135.5.202 8 8 22008 20180130235532
+31.181.94.17 2 2 5502 20180115090008
+ec2-18-218-192-110.us-east-2.compute.amazonaws.com 2 2 5484 20180121223746
+67.subnet110-136-227.speedy.telkom.net.id 1 1 16298 20180126124341
+41.230.63.52 2 2 5502 20180125093150
+147.88.28.194.natpool.agronet.com.ru 2 2 5502 20180122083710
+207.pool-157.kaluga.ru 4 4 11004 20180122112532
+178.187.153-140.xdsl.ab.ru 2 2 5502 20180130123956
+78.140.205.180 2 2 5502 20180125123635
+host-77-39-127-154.stavropol.ru 2 2 5502 20180125113942
+node-81-227-139-95.domolink.tula.net 2 2 5502 20180102120454
+119.203.c10008-a53.dsl-dynamic.vsi.ru 4 4 11004 20180124094417
+83-234-149-59.saransk-com.ru 6 6 16506 20180128152937
+static.77-129-138-78.kgts.ru 6 6 16506 20180131123622
+178.219.41.32 6 6 16506 20180114171347
+gw.thermocool.ru 2 2 5502 20180115081354
+dsl-85-174-112-36.avtlg.ru 2 2 5502 20180124050108
+178.72.70.59 2 2 5502 20180101051417
+191.233.c10008-a53.dsl-dynamic.vsi.ru 2 2 5502 20180130172550
+13.47-245-62.ftth.rus-com.net 6 6 16506 20180123104033
+95-190-180-21-bbc-dynamic.kuzbass.net 2 2 5502 20180126082301
+176.14.226.57 2 2 5502 20180119152601
+69-35.pppoe.novator.ru 2 2 5539 20180124090706
+160-147-179-94.pool.ukrtel.net 2 2 5502 20180122144254
+188.168.81.156 2 2 5502 20180130215503
+h94-75-2-245.dyn.bashtel.ru 2 2 5502 20180122053754
+176.209.159.38 2 2 5502 20180126091037
+pppoe-213-80-225-12-fix-srv.volgaline.ru 4 4 11004 20180117172741
+host-5-2-48-79.ugmk-telecom.ru 2 2 5502 20180118110047
+ip-79-111-176-40.bb.netbynet.ru 2 2 5502 20180123172618
+172.243.19.231 12 12 33012 20180125150340
+nat-pharmacies-giphar-1.cegedim.fr 4 4 11004 20180122164043
+67-197-202-205.ln1.cm.dyn.comporium.net 2 2 5502 20180124153437
+shpd-178-69-217-213.vologda.ru 2 2 5502 20180123194132
+whub25.webhostinghub.com 2 2 16701 20180108103212
+37.79.244.172 4 4 11004 20180116025857
+213-155-200-x.dynamic.b-domolink.net 2 2 5502 20180114132215
+node-199-175-35-212.domolink.tula.net 2 2 5502 20180128141358
+94.140.244.51 4 4 10910 20180119090525
+ec2-52-37-108-158.us-west-2.compute.amazonaws.com 2 2 5484 20180123134120
+net16-60.perm.ertelecom.ru 2 2 5502 20180110200457
+ec2-54-188-33-142.us-west-2.compute.amazonaws.com 1 1 1615 20180125211221
+host-46-172-195-80.mirgiga.net 2 2 5502 20180102064956
+170.122.198.109.convex-tagil.ru 4 4 11004 20180131092301
+185.150.14.70 2 2 5502 20180118184504
+188.18.13.172 2 2 5502 20180130234906
+194.165.19.157 2 2 5502 20180125222013
+5.35.30.176 6 6 16506 20180117143629
+dynamicip-37-113-164-101.pppoe.chel.ertelecom.ru 2 2 5502 20180124064618
+95-37-58-12.dynamic.mts-nn.ru 2 2 5502 20180129135439
+68.3.175.79spb.ptl.ru 2 2 5502 20180130214932
+shpd-178-69-214-107.vologda.ru 2 2 5502 20180111200953
+50-203-117-22-static.hfc.comcastbusiness.net 1 1 16298 20180129150541
+92.126.41.35 2 2 5502 20180115054347
+p8574p130.median.ru 8 8 22008 20180122185856
+46.39.53.18 2 2 5502 20180110082938
+h83-174-203-108.static.bashtel.ru 2 2 5502 20180131081920
+211-133-142-5.baltnet.ru 2 2 5502 20180116123652
+45.108.80.95.belgorod.ptl.ru 10 10 27510 20180119041352
+ppp78-37-137-140.pppoe.avangarddsl.ru 2 2 5502 20180116112328
+dsl-85-174-55-253.avtlg.ru 4 4 11004 20180110165059
+217.107.124.38 2 2 5502 20180131094326
+37-144-152-160.broadband.corbina.ru 6 6 16506 20180127181256
+5.136.126.127 2 2 5502 20180114223709
+45.174.44.5.sta.211.ru 6 6 16506 20180122125618
+31.173.103.112 2 2 5502 20180128062145
+nat-w.g-service.ru 10 10 27510 20180130235531
+2.135.193.221.megaline.telecom.kz 2 2 5502 20180129074713
+95.182.83.250 2 2 5502 20180130135743
+95x78x255x185.static-business.nsk.ertelecom.ru 2 2 5502 20180129073241
+109.106.143.133 2 2 5502 20180114073330
+120-114.xdsl.primorye.ru 2 2 5502 20180111141852
+noname.trancom.ru 2 2 5502 20180122212142
+fttb-dynamic-195.218.183.36.ranetka.ru 2 2 5502 20180125143806
+5.74.82.121 2 2 5502 20180124174903
+94.247.248.78 6 6 16506 20180123043332
+5.227.7.45 2 2 5502 20180112173150
+host-79-78-143-1.static.as9105.net 4 4 11004 20180119163410
+31.173.120.209 2 2 5502 20180110101700
+91.198.130.230 2 2 5502 20180129141224
+host89-222-242-222.netorn.net 6 6 16506 20180125074913
+195.26.82.133 6 6 16506 20180120164830
+pppoe.178-67-25-165.avangarddsl.ru 2 2 5502 20180101111348
+85.26.235.80 2 2 5502 20180123095941
+176.59.54.22 2 2 5502 20180121092036
+mm-211-27-214-37.mogilev.dynamic.pppoe.byfly.by 2 2 5502 20180119041331
+ip-176-192-64-242.bb.netbynet.ru 2 2 5502 20180113114145
+host-185-23.nat-pool.telecet.ru 4 4 11004 20180118050018
+host-87-255-31-253.bigtelecom.ru 2 2 5502 20180121035518
+118-163-216-107.hinet-ip.hinet.net 16 16 22343 20180130023907
+65.3.175.79spb.ptl.ru 2 2 5502 20180119170011
+office.render.ur.ru 4 4 11004 20180126134349
+89.188.110.72 2 2 5502 20180119112330
+ec2-52-55-68-210.compute-1.amazonaws.com 4 4 11078 20180118040726
+unlim.electrostal.vpn.flex.ru 2 2 5502 20180120100127
+ec2-34-207-216-183.compute-1.amazonaws.com 1 1 16298 20180115172126
+178.90.29.74.megaline.telecom.kz 2 2 5502 20180122071901
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com 12 12 195576 20180124151904
+212.100.129.115 6 6 16506 20180127151416
+ip122.5.52.176.kzn.tbt.ru 2 2 5502 20180115113950
+188.124.240.64 2 2 5502 20180122104854
+41.107.5.30 2 2 5502 20180110070115
+199.116.173.196 1 1 16298 20180125221054
+89-188-124-119.pppoe.fds.filanco.ru 2 2 5502 20180122175713
+66.mtsnet.ru 2 2 5502 20180122110135
+static-84-9-52-191.vodafonexdsl.co.uk 2 2 5539 20180124203455
+83-234-149-2.saransk-com.ru 8 8 22008 20180130102856
+host-95-170-148-242.avantel.ru 2 2 5502 20180110065457
+ppp94-29-1-179.pppoe.spdop.ru 6 6 16506 20180117210826
+ec2-54-87-134-53.compute-1.amazonaws.com 2 2 5539 20180117050919
+95-183-64-72.dynvpn.flex.ru 1 1 0 20180129150738
+176.59.109.135 6 6 16506 20180116160711
+54.115.198.109.convex-tagil.ru 8 8 22008 20180131160917
+31.41.165.203 4 4 11004 20180131140808
+185.49.240.174 2 2 5502 20180120004847
+b-internet.176.49.165.142.nsk.rt.ru 4 4 11004 20180117013314
+dynamicip-176-215-107-227.pppoe.krsk.ertelecom.ru 4 4 11004 20180124052136
+176.210.254.167 2 2 5502 20180125051437
+ec2-54-201-62-145.us-west-2.compute.amazonaws.com 2 2 5539 20180116053141
+185x42x80x253.static-business.tmn.ertelecom.ru 2 2 5502 20180126092237
+85.172.10.51 6 6 16506 20180126223636
+94.79.7.4 2 2 5502 20180112225610
+174.70.241.14 1 1 16298 20180124114203
+95.67.227.145 2 2 5502 20180101194747
+185.136.41.62 2 2 5502 20180119123638
+95.182.77.175 4 4 11004 20180116122253
+176.59.113.44 2 2 5502 20180124120212
+94.50.196.40 2 2 5502 20180120055416
+ip-69.cifra1.ru 6 6 16506 20180120131752
+38-217-236-178.rev.ruscomp.net 4 4 11004 20180112055053
+114.38.32.95.dsl-dynamic.vsi.ru 2 2 5502 20180112055353
+ip-107-180-126-66.ip.secureserver.net 2 2 16701 20180111021208
+213.151.2.43 2 2 5502 20180118130023
+pppoe-dyn-85-113-214-179.kosnet.ru 2 2 5502 20180110095915
+41.107.14.143 2 2 5502 20180114000813
+178.68.67.169 2 2 5502 20180114030822
+178.46.208.236 4 4 11004 20180131071214
+178.186.154.108 2 2 5502 20180101083541
+98-136.telenettv.ru 6 6 16506 20180130160258
+176.59.98.45 2 2 5502 20180122064935
+95-27-68-0.broadband.corbina.ru 4 4 11004 20180113155625
+109.62.162.160 4 4 11004 20180111082936
+80.250.213.58 8 8 22008 20180123084614
+178.207.247.214 2 2 5502 20180131092525
+91.229.111.48 8 8 22008 20180129142136
+41.107.43.65 2 2 5502 20180131054643
+ec2-18-220-13-47.us-east-2.compute.amazonaws.com 2 2 5484 20180126090952
+ip212-109-0-133.sampo.ru 4 4 11004 20180115063532
+176.28.67.43 2 2 5502 20180131120223
+181.177.244.51 2 2 5539 20180123163426
+mm-252-24-121-178.dynamic.pppoe.mgts.by 2 2 5502 20180131141042
+178.72.73.17 6 6 16506 20180118085707
+145.249.171.69 2 2 5502 20180126163838
+217.107.127.182 4 4 11004 20180110092044
+msnbot-131-253-25-216.search.msn.com 1 1 16298 20180115023625
+94.79.7.39 2 2 5502 20180113043400
+94.79.7.40 2 2 5502 20180111055233
+ppp109-252-76-54.pppoe.spdop.ru 2 2 5502 20180126113654
+5x164x235x193.dynamic.nn.ertelecom.ru 6 6 16506 20180131152712
+83.139.147.77 2 2 5502 20180119125329
+47.91.252.239 1 1 0 20180122104257
+31.173.80.113 2 2 5502 20180122134944
+ec2-18-218-17-194.us-east-2.compute.amazonaws.com 2 2 5539 20180116180841
+95-37-84-20.dynamic.mts-nn.ru 2 2 5502 20180113160111
+ip2-75.ethernet.wplus.ru 6 6 16506 20180124080229
+host-109-200-101-13.ugmk-telecom.ru 10 10 27510 20180130121333
+46.39.46.19 2 2 5502 20180131132842
+188.94.174.93 10 10 27510 20180124125411
+152.151-73-188.telenet.ru 2 2 5502 20180130065807
+host-88-215-149-2.stavropol.ru 2 2 5502 20180112101728
+5x166x144x231.dynamic.spb.ertelecom.ru 6 6 16506 20180117035304
+62.176.13.188 2 2 5502 20180129154734
+host-46-229-66-54.avantel.ru 4 4 11004 20180125072547
+host123.pool82-215-173.xdsl-cust.uno.it 2 2 5502 20180131173949
+31.173.80.142 2 2 5502 20180120222903
+85.26.165.103 2 2 5502 20180117022933
+95.182.43.176 2 2 5502 20180125162942
+109.75.253.78 2 2 5502 20180118131127
+ppp89-110-53-175.pppoe.avangarddsl.ru 2 2 5539 20180126015600
+n20-c128.client.tomica.ru 4 4 11004 20180119054005
+ec2-54-172-130-5.compute-1.amazonaws.com 4 4 11078 20180119224625
+194.135.149.177 12 12 33012 20180131175956
+dynamicip-109-195-122-61.pppoe.ertelecom.ru 2 2 5502 20180129123548
+5.141.120.155 2 2 5502 20180112083447
+178-167-99-59.dynvpn.flex.ru 2 2 5502 20180120145412
+134.19.230.118 2 2 5539 20180122201553
+185.17.135.93 2 2 5502 20180121094026
+host-5.197.231.174.katv1.net 1 1 16298 20180129150519
+5.141.200.109 2 2 5502 20180129163734
+89.232.71.61 2 2 5502 20180101162859
+41.109.81.134 2 2 5502 20180118172334
+145.255.30.169.static.ufanet.ru 2 2 5502 20180118075447
+130.180.208.34 2 2 5502 20180116090815
+ec2-18-216-96-104.us-east-2.compute.amazonaws.com 6 6 16507 20180122123719
+172.38.35.120.broad.fz.fj.dynamic.163data.com.cn 1 1 16298 20180119081353
+46.173.67.128 4 4 11004 20180124144151
+92x255x238x20.static-business.kirov.ertelecom.ru 2 2 5502 20180125143437
+79-104-199-20.ranetka.ru 2 2 5502 20180130034021
+37.151.175.136.megaline.telecom.kz 2 2 5502 20180127094720
+61.8.129.206 2 2 5502 20180101120703
+5.104.206.2 16 16 44016 20180127123819
+x189.bbn07-182.lipetsk.ru 2 2 5502 20180123061701
+31.210.220.210 6 6 16506 20180119073958
+145.255.3.189.dynamic.ufanet.ru 2 2 5502 20180122100152
+nat102.sevtelecom.ru 2 2 5502 20180131193859
+mail.rosstour.ru 10 10 27510 20180123085746
+hlfxns016cw-156-57-136-191.dhcp-dynamic.fibreop.ns.bellaliant.net 2 2 5502 20180111131855
+dynamicip-85-113-45-66.pppoe.samara.ertelecom.ru 2 2 5502 20180123131206
+93.81.253.26 2 2 5502 20180103113814
+81.23.120.2 2 2 5502 20180130211952
+ppp17-8.pppoe.mtu-net.ru 2 2 5502 20180130161322
+62.118.139.4 2 2 5502 20180113184757
+157-25-68-178.baltnet.ru 2 2 5502 20180116132705
+129.115.195.22 0 3 24774 
+128-72-21-227.broadband.corbina.ru 2 2 5502 20180113190411
+ec2-34-227-149-12.compute-1.amazonaws.com 1 1 2270 20180113000258
+65-254-225-146.yourhostingaccount.com 2 2 16701 20180113112827
+ec2-54-149-36-203.us-west-2.compute.amazonaws.com 2 2 5484 20180122184853
+hn.ly.kd.adsl 2 2 5539 20180130155551
+217.mtsnet.ru 2 2 5502 20180117145814
+94.79.7.5 2 2 5502 20180110130525
+31.173.81.46 2 2 5502 20180131040720
+ec2-54-147-49-196.compute-1.amazonaws.com 2 2 5484 20180121050933
+95.56.17.154.megaline.telecom.kz 2 2 5502 20180101122937
+87-127-188-57.static.enta.net 2 2 5539 20180125020946
+176.116.209.17 2 2 5502 20180101224707
+host-91-202-199-198.baza.net 2 2 5502 20180101161927
+156-196-53-37.pool.ukrtel.net 2 2 5502 20180130071656
+wimax-client.yota.ru 8 8 22008 20180122075241
+85-143-156-40.tecom.ru 2 2 5502 20180125111642
+178.47.25.248 2 2 5502 20180119003107
+217.118.78.84 2 2 5502 20180125172324
+31.173.103.195 2 2 5502 20180116171137
+217-151-235-153.k-telecom.org 2 2 5502 20180127150454
+92.37.188.143 4 4 11004 20180130041159
+109-127-146-71.dyn.adsl.kursknet.ru 2 2 5502 20180127171835
+dnm.114.78.185.178.dsl.krasnet.ru 8 8 22008 20180131140551
+31.148.218.62 2 2 5502 20180115123534
+213.24.134.117 4 4 11004 20180119081839
+128-72-145-99.broadband.corbina.ru 2 2 5502 20180127152739
+83.169.216.110 2 2 5502 20180126045419
+187-56-251-80.pride-net.ru 2 2 5502 20180130100818
+31.173.242.134 2 2 5502 20180126210951
+l49-169-158.cn.ru 2 2 5502 20180110094633
+188.18.69.101 2 2 5502 20180115095637
+85.26.165.238 2 2 5502 20180120201347
+dynamicip-176-215-10-207.pppoe.ekat.ertelecom.ru 2 2 5502 20180129102850
+94.125.90.34 6 6 16506 20180125044719
+66.130.dts.net.ua 4 4 11004 20180129101342
+ec2-34-209-136-220.us-west-2.compute.amazonaws.com 2 2 5484 20180129101751
+176x214x214x160.dynamic.ufa.ertelecom.ru 2 2 5502 20180111144741
+ip154.net218.ivn.ttksever.ru 2 2 5502 20180130175352
+128-68-93-132.broadband.corbina.ru 2 2 5502 20180124063427
+85.115.248.105 2 2 5502 20180114110623
+178.187.1.156 2 2 5502 20180112154133
+95-31-71-84.broadband.corbina.ru 10 10 27510 20180124105926
+93.84.44.60 2 2 5502 20180109213058
+2.63.28.106 10 10 27510 20180131093947
+ppp83-237-34-169.pppoe.mtu-net.ru 2 2 5502 20180120210720
+ip-46-72-158-9.static.netbynet.ru 16 16 44016 20180130192738
+45.55.169.78 1 1 0 20180126124311
+dynamicip-95-79-66-88.pppoe.nn.ertelecom.ru 2 2 5502 20180120083401
+109.111.75.41 2 2 5502 20180116123635
+197.14.55.198 2 2 5502 20180125063643
+93.84.34.27 2 2 5502 20180103032513
+dynamic-nat95.88.kurgan.mts.ru 6 6 16506 20180130073139
+95.106.31.92 2 2 5502 20180117200232
+85.26.164.169 2 2 5502 20180130052250
+85.26.164.21 2 2 5502 20180121114206
+nat-24-0.nsk.sibset.net 2 2 5502 20180131161859
+145.255.30.52.static.ufanet.ru 4 4 11004 20180115084705
+ppp94-29-126-93.pppoe.spdop.ru 2 2 5502 20180131132429
+2.135.58.97.megaline.telecom.kz 2 2 5502 20180123220658
+host209-19-static.12-188-b.business.telecomitalia.it 6 6 16506 20180123132820
+188.243.110.164.pool.sknt.ru 4 4 11004 20180131144639
+79.133.105.40 2 2 5502 20180111154722
+213.141.244.204 6 6 16506 20180129143936
+117.64.236.95 1 1 16298 20180127223018
+usr-5-144-97-4.lanck.net 12 12 33012 20180131170042
+a2plcpnl0630.prod.iad2.secureserver.net 2 2 16701 20180108014309
+aafg249.neoplus.adsl.tpnet.pl 2 2 5502 20180113174617
+pat-31-128-131-41.pool.powernet.com.ru 2 2 5502 20180119011333
+129.115.195.25 0 3 116133 
+195-154-168-130.rev.poneytelecom.eu 1 1 7413 20180114212809
+2.133.189.22.megaline.telecom.kz 2 2 5502 20180119080030
+host-194.187.149.95.ardinvest.net 10 10 27510 20180131115006
+93.188.81.220 6 6 16506 20180131045125
+pool-46-63-104-25.x-city.ua 2 2 5502 20180101032540
+3-52-251-80.pride-net.ru 2 2 5502 20180127070037
+176.118.119.2 2 2 5502 20180119203717
+broadband-37-110-103-87.moscow.rt.ru 4 4 11004 20180128003032
+ec2-18-217-36-4.us-east-2.compute.amazonaws.com 2 2 5539 20180118011104
+mm-66-214-45-37.grodno.dynamic.pppoe.byfly.by 2 2 5502 20180131115642
+67.205.148.143 2 2 0 20180129074247
+178.216.163.50 4 4 11004 20180101075409
+mm-206-197-122-178.brest.pppoe.byfly.by 2 2 5502 20180117091347
+ec2-18-218-136-173.us-east-2.compute.amazonaws.com 2 2 5539 20180119005456
+5.76.182.214 2 2 5502 20180112113606
+178.46.212.41 4 4 11004 20180124020043
+188-113-45-6.dyn.adsl.kursknet.ru 2 2 5502 20180111172821
+178.187.77-8.xdsl.ab.ru 2 2 5502 20180122134041
+dynamicip-176-213-242-3.pppoe.ufa.ertelecom.ru 2 2 5502 20180124131832
+188.226.129.55 1 1 16298 20180115193052
+81.88.116.30 4 4 11004 20180131181427
+93.84.29.111 4 4 11004 20180117073933
+188.18.115.31 2 2 5502 20180110180657
+176.107.84.226 4 4 11004 20180131065021
+213.147.213.62 6 6 16506 20180117143846
+host62-70.lease.p-t-k.net 2 2 5502 20180111230220
+ip194.6.52.176.kzn.tbt.ru 2 2 5502 20180128192340
+ppp158-255-137-217.pppoe.spdop.ru 6 6 16506 20180115091819
+46.61.242.181 2 2 5502 20180131185003
+188.18.110.216 2 2 5502 20180131062919
+109.238.80.51 2 2 5502 20180119095207
+147.30.119.176 2 2 5502 20180119085530
+46.42.222.57 2 2 5502 20180129101436
+31.173.100.68 2 2 5502 20180126175635
+177-68-217-27.dsl.telesp.net.br 1 1 16298 20180103205618
+95-161-151-134.obit.ru 8 8 22008 20180118111916
+176.59.98.74 2 2 5502 20180118153126
+185.13.44.233 2 2 5502 20180125183408
+46.61.242.150 2 2 5502 20180121073713
+95.167.3.39 2 2 5502 20180125060844
+109.106.143.122 2 2 5502 20180120231212
+176.223.77.157 2 2 5502 20180124145205
+178.57.114.154 2 2 5502 20180123150441
+85-192-188-123.dsl.esoo.ru 2 2 5502 20180109201821
+94.233.225.76 4 4 11004 20180102003349
+m90-143-146-154.cust.tele2.kz 2 2 5502 20180127100650
+a2plcpnl0653.prod.iad2.secureserver.net 2 2 16701 20180110082027
+ec2-107-21-76-225.compute-1.amazonaws.com 1 1 2270 20180114044145
+90.151.87.225 2 2 5502 20180118135534
+host-213-14-62-146.reverse.superonline.net 2 17 501886 20180102195201
+dynamicip-37-113-172-103.pppoe.chel.ertelecom.ru 4 4 11004 20180127223301
+5-28-19-221.clients.tlt.100megabit.ru 2 2 5502 20180124150739
+185.150.14.6 4 4 11004 20180129144839
+5.59.56.207 2 2 5502 20180130125949
+212.118.40.117 16 16 44016 20180128031327
+92.126.131.91.stbur.ru 2 2 5502 20180113131304
+195.234.203.131 2 2 5502 20180112013804
+85-192-188-137.dsl.esoo.ru 2 2 5502 20180123090147
+pppoe-88-147-215-77.san.ru 2 2 5502 20180128154136
+unallocated.sta.lan.ua 6 6 16506 20180130222045
+host-178-34-247-209.stavropol.ru 2 2 5502 20180116101031
+laubervilliers-656-1-157-104.w82-127.abo.wanadoo.fr 10 10 27510 20180126003947
+95.106.113.74 4 4 11004 20180115095834
+pool-5-79-243-24.is74.ru 2 2 5502 20180114111114
+83.220.239.111 2 2 5502 20180110084415
+95-28-149-176.broadband.corbina.ru 2 2 5502 20180109212632
+host-2-60-251-234.pppoe.omsknet.ru 2 2 5502 20180128160523
+195.93.144.146 2 2 5502 20180118013636
+host-2-60-58-228.pppoe.omsknet.ru 2 2 5502 20180123210239
+195.189.196.56 2 2 5502 20180120170459
+46-161-151-146.nts.su 6 6 16506 20180131232202
+pool-77-222-108-127.is74.ru 2 2 5502 20180111072930
+ec2-52-91-239-56.compute-1.amazonaws.com 2 2 5539 20180118183450
+95-161-253-10.broadband.spb.tiera.org 4 4 11004 20180123214148
+89.169.6.182 2 2 5502 20180131185818
+mm-167-168-215-37.mfilial.dynamic.pppoe.byfly.by 2 2 5502 20180119153132
+xtp-56-ip41.atel76.ru 4 4 11004 20180122151421
+95.58.189.35.megaline.telecom.kz 2 2 5502 20180127075852
+lfbn-1-4314-197.w92-169.abo.wanadoo.fr 2 2 5502 20180112172224
+ec2-54-202-47-12.us-west-2.compute.amazonaws.com 4 4 11023 20180120173928
+95.84.39.32 2 2 5502 20180131060612
+pppoe-88-147-153-154.san.ru 2 2 5502 20180119132711
+130.0.218.228 2 2 5502 20180126151508
+79.133.105.33 4 4 11004 20180125183531
+pool-77-222-101-163.is74.ru 2 2 5502 20180126112234
+net91.79.95-104.izhevsk.ertelecom.ru 2 2 5502 20180110134656
+176.104.231.167 2 2 5502 20180114115750
+41.104.91.0 2 2 5502 20180120053415
+5-226-70-68.static.ip.netia.com.pl 1 1 16298 20180126124209
+ppp78-37-31-208.pppoe.avangarddsl.ru 2 2 5502 20180103235436
+213.24.127.157 2 2 5502 20180113222826
+nat-t.g-service.ru 8 8 22008 20180125061628
+h95-110-7-35.dyn.bashtel.ru 2 2 5502 20180118174428
+195.68.163.154 2 2 5502 20180131183705
+89.18.156.157 2 2 5502 20180125090240
+nat-0-0.nsk.sibset.net 10 10 27510 20180127164018
+31.173.103.67 2 2 5502 20180128224955
+109x194x1x160.static-business.bryansk.ertelecom.ru 4 4 11004 20180131144042
+xplr-192-95-168-172.xplornet.com 6 6 16506 20180117133656
+94.79.7.3 2 2 5502 20180111140035
+188.170.196.53 2 2 5502 20180126114534
+95-31-35-93.broadband.corbina.ru 16 16 44016 20180125092226
+185.220.101.12 1 1 16298 20180128005725
+host-91-105-172-236.bbcustomer.zsttk.net 4 4 11004 20180126155301
+129.sub-174-219-0.myvzw.com 2 17 501886 20180123010439
+host190-lan-193-169-5.svsreut.ru 8 8 22008 20180118141924
+92.gprs.mts.ru 2 2 5502 20180129074807
+196.203.219.138 4 4 11004 20180123150926
+89.232.118.239 2 2 5502 20180103180741
+95-181-3-111.goodline.info 4 4 11004 20180119045831
+93.85.213.245 2 2 5502 20180101000902
+5.143.214.82 2 2 5502 20180128173649
+37.151.17.114 4 4 11004 20180130115118
+176.59.78.138 2 2 5502 20180114150159
+87.243.36.235 2 2 5502 20180124065704
+dyn-ip-35-114-176-243.feonet.net 2 2 5502 20180130185441
+148.62.pppoe.mari-el.ru 2 2 5502 20180125111513
+229.137.129.77.rev.sfr.net 2 2 5502 20180119111847
+pool-78-29-18-102.is74.ru 2 2 5502 20180115121808
+31.173.100.126 2 2 5502 20180123201207
+5x166x220x198.dynamic.nn.ertelecom.ru 2 2 5502 20180116080008
+62.176.13.150 2 2 5502 20180126122819
+ip-188-113-151-221.z23.ysk.scts.tv 8 8 22008 20180126081004
+ip-193-93-217-60.astra.in.ua 2 2 5502 20180101174116
+84-53-198-218.elcom.ru 2 2 5502 20180122232023
+tru.truepresence.com 2 2 16701 20180112063009
+port-50-adslby-pool45.infonet.by 4 4 11004 20180118150847
+102.181.32.95.dsl-dynamic.vsi.ru 2 2 5502 20180102001410
+77.34.43.110 2 2 5502 20180115123458
+ec2-18-216-156-223.us-east-2.compute.amazonaws.com 2 2 5539 20180117022906
+ip-160-153-193-91.ip.secureserver.net 1 1 16298 20180115043133
+wl37-f234.wedos.net 2 2 16701 20180112155852
+235.42.54.195.simstar.net 2 2 5502 20180110080637
+93.170.103.18 2 2 5502 20180131100423
+83.139.147.54 2 2 5502 20180130084428
+193.169.22.204 2 2 5502 20180110115800
+211.mtsnet.ru 2 2 5502 20180128023837
+broadband-90-154-68-122.moscow.rt.ru 2 2 5502 20180131132713
+ppp91-76-188-49.pppoe.mtu-net.ru 2 2 5502 20180126163004
+228-80-12-194.zeus.poltava.ua 4 4 11004 20180131103621
+union-tel.207.145.ru 2 2 5502 20180126074257
+ip-83-246-167-26.intelbi.ru 6 6 16506 20180128100550
+109-61-145-15.dsl.orel.ru 2 2 5502 20180122204611
+104.92.140.85.in-addr.arpa 2 2 5502 20180113171520
+217.25.233.185 4 4 11004 20180127112136
+b-internet.90.189.237.170.snt.ru 2 2 5502 20180122193647
+kirovgrad-clients.ural.ru 6 6 16506 20180116170141
+host223-105-46-89.serverdedicati.aruba.it 2 2 16701 20180116092614
+79-134-207-42.obit.ru 4 4 11004 20180118142610
+host-12-247-30-78.sevstar.net 2 2 5502 20180114143407
+host-2-60-254-31.pppoe.omsknet.ru 2 2 5502 20180115145413
+176.123.195.137.satkom.ru 2 2 5502 20180131090539
+node-3-179-139-95.domolink.tula.net 2 2 5502 20180120134328
+178.17.206.38 2 2 5502 20180121222725
+ec2-52-91-115-91.compute-1.amazonaws.com 1 1 16298 20180124114101
+91.231.233.187 2 2 5502 20180115023843
+185.13.112.113 2 2 5502 20180103135244
+178.161.165.208.sta.v4.saturn-internet.ru 8 8 22008 20180124232455
+185.44.216.117 2 2 5539 20180124173517
+dsl-187-208-102-230-dyn.prod-infinitum.com.mx 2 2 5502 20180102193145
+host168-175-213-188.serverdedicati.aruba.it 1 1 2412 20180129013727
+host-41-180.podolsknet.ru 2 2 5502 20180121184136
+87.76.241.222 6 6 16506 20180119222936
+212-112-118-193.aknet.kg 2 2 5502 20180126132948
+dynamicip-95-79-150-139.pppoe.nn.ertelecom.ru 2 2 5502 20180111031044
+31.200.233.144 2 2 5502 20180121010932
+89.42.206.182 2 2 5502 20180120092610
+178.76.243.219 6 6 16506 20180116012738
+109x195x131x130.static-customer.kurgan.ertelecom.ru 4 4 11004 20180112132119
+194-135-17-93.dynamic.ktkru.ru 2 2 5502 20180116173107
+pppoe.178-67-95-5.avangarddsl.ru 2 2 5502 20180119161824
+81.177.126.41 2 2 5502 20180109205439
+83.149.44.51 2 2 5502 20180120104021
+185.72.188.204 2 2 5502 20180126144525
+80.76.242.196 2 2 5502 20180110150702
+35.64.172.46.customer.rostnet.net 4 4 11004 20180125141215
+109.167.129.14 1 1 0 20180122104333
+user13128.corp.orn.ru 6 6 16506 20180128145355
+mx-03.samadm.ru 6 6 16506 20180129151927
+83.149.19.183 2 2 5502 20180129130613
+hlfxns016cw-142-134-92-9.dhcp-dynamic.fibreop.ns.bellaliant.net 4 4 11004 20180131211414
+91.193.239.193 2 2 5502 20180117195914
+185.76.108.187 2 2 5502 20180125143307
+7.145.150.178.triolan.net 6 6 16506 20180131211152
+93-170-247-149.proximanet.ru 10 10 27510 20180126171714
+ip-176-192-28-198.bb.netbynet.ru 2 2 5502 20180131111041
+178.207.54.149 2 2 5416 20180119093602
+broadband-46-188-25-27.2com.net 4 4 11004 20180110091831
+95.174.44.5.sta.211.ru 4 4 11004 20180127190339
+5.227.7.14 2 2 5502 20180102131944
+46.32.85.213 4 4 11004 20180127150603
+40.77.177.252 1 1 165548 20180110213838
+194.165.18.89 2 2 5502 20180124110954
+p3plcpnl0966.prod.phx3.secureserver.net 2 2 16701 20180109144545
+178.91.22.55.megaline.telecom.kz 2 2 5502 20180112093449
+79.120.76.114 14 14 38514 20180130102555
+95x79x97x141.static-customer.nn.ertelecom.ru 2 2 5502 20180111054328
+5x18x206x238.static-business.iz.ertelecom.ru 2 2 5502 20180130185548
+mm-205-22-214-37.mogilev.dynamic.pppoe.byfly.by 2 2 5502 20180125144833
+msnbot-131-253-27-40.search.msn.com 1 2 177463 20180116200858
+95.56.54.135.megaline.telecom.kz 2 2 5502 20180118113109
+line148-107.adsl.kirov.ru 2 2 5502 20180118124925
+164.subnet110-138-71.speedy.telkom.net.id 2 2 5502 20180121010316
+241.gprs.mts.ru 2 2 5502 20180126170249
+new.mega.nn.ru 12 12 33012 20180128122757
+37.21.5.102 4 4 11004 20180127071642
+188.18.65.4 2 2 5502 20180101213130
+host-92-25-220-180.as13285.net 2 2 5502 20180113120720
+client-31-40-132-110.orange-net.ru 2 2 5502 20180103170222
+94.79.7.15 2 2 5502 20180118215444
+85.172.98.88 2 2 5502 20180131094403
+195.209.50.248 4 4 11004 20180113074050
+adsl-90-150-174-119.nojabrsk.ru 2 2 5502 20180118143344
+5.76.196.99 6 6 16506 20180130164012
+93-171-160-79.dynamic.unet.by 4 4 11004 20180128170907
+2.134.4.158.megaline.telecom.kz 2 2 5502 20180119100201
+37x113x224x107.dynamic.ufa.ertelecom.ru 2 2 5502 20180102130018
+5.138.254.102 4 4 11004 20180124000718
+13.73.1.69 1 1 16298 20180131073100
+5x164x239x14.dynamic.nn.ertelecom.ru 2 2 5502 20180125175605
+82.147.78.11 4 4 11004 20180124101852
+92.37.209.151 2 2 5502 20180120013130
+acaen-156-1-5-112.w90-17.abo.wanadoo.fr 8 8 22008 20180118234110
+178.69.62.229 2 2 5502 20180128140043
+46.8.138.30 2 2 5502 20180101214241
+109-127-164-174.dyn.adsl.kursknet.ru 2 2 5502 20180121183625
+176.50.166-55.xdsl.ab.ru 2 2 5502 20180131103713
+ppp109-252-206-123.pppoe.spdop.ru 2 2 5502 20180111102237
+5.141.213.144 2 2 5502 20180111073645
+197.200.225.150 2 2 5502 20180130151029
+modemcable249.34-178-173.mc.videotron.ca 2 2 5502 20180130062841
+65-130-169-226.slkc.qwest.net 1 1 0 20180127223113
+94.76.125.54.freenet.com.ua 6 6 16506 20180123155724
+66-131-178-94.pool.ukrtel.net 2 2 5502 20180125113130
+14.mtsnet.ru 2 2 5502 20180125145815
+185.23.66.110 2 2 5502 20180124194632
+81.203.113.37.dyn.user.ono.com 2 2 5502 20180124182128
+37.23.117-172.xdsl.ab.ru 2 2 5502 20180129081142
+188.164.136.231 2 2 5502 20180125133743
+dsl-187-208-176-146-dyn.prod-infinitum.com.mx 2 2 5502 20180116022634
+95.173.41.39 2 2 5502 20180103073814
+115.95.175.126 2 2 5502 20180101022738
+99-98-137-211.lightspeed.wpbhfl.sbcglobal.net 2 2 5502 20180121204339
+kaizen-pharma.com 1 1 16298 20180122104429
+mail.satro-paladin.com 2 2 5502 20180130145704
+host-80-43-230-156.as13285.net 4 4 11004 20180125111929
+62.118.139.7 6 6 16417 20180119092351
+194.165.19.193 2 2 5502 20180123123329
+line199-6.adsl.kirov.ru 2 2 5502 20180126071750
+185.48.114.254 2 2 5502 20180118104141
+84-53-198-29.elcom.ru 2 2 5502 20180113132535
+chomsky.torservers.net 1 1 16298 20180123120243
+31.173.100.159 2 2 5502 20180115184930
+188x187x20x58.dynamic.spb.ertelecom.ru 2 2 5502 20180115183947
+104.236.232.32 1 1 16298 20180131023605
+195.211.236.33 4 4 11004 20180122004914
+b-internet.95.191.184.105.nsk.sibirtelecom.ru 2 2 5502 20180112154250
+79.122.168.14 2 2 5502 20180129070604
+p3plcpnl0056.prod.phx3.secureserver.net 2 2 16701 20180107170223
+ppp85-140-79-22.pppoe.mtu-net.ru 2 2 5502 20180111083623
+ip-37-28-166-250.nwgsm.ru 6 6 16506 20180127075827
+178.90.226.238.megaline.telecom.kz 2 2 5502 20180115170414
+ppp109-252-99-222.pppoe.spdop.ru 8 8 22008 20180125113147
+31.173.120.213 2 2 5502 20180130182107
+5-143-110-197.dynamic.primorye.net.ru 2 2 5502 20180128071923
+128-68-24-192.broadband.corbina.ru 2 2 5502 20180110232129
+212.3.156.41 6 6 16506 20180129120644
+176.59.13.249 2 2 5502 20180125190753
+xdsl-31-180-1-104.soes.su 2 2 5502 20180114210709
+95.182.73.124 4 4 11004 20180113085742
+94.139.100.110 4 4 11004 20180124083921
+91.232.217.48 2 2 5502 20180119120720
+195.210.158.130 2 2 5502 20180116132712
+dynamicip-109-195-134-64.pppoe.kurgan.ertelecom.ru 2 2 5502 20180127080311
+ip-89-234-68-91.broadband.digiweb.ie 6 6 87227 20180126143950
+ip-104-62.mlzone.ru 2 2 5502 20180111061751
+84-53-198-208.elcom.ru 4 4 11004 20180117173247
+121-146.xdsl.primorye.ru 2 2 5502 20180111110848
+ec2-18-218-115-47.us-east-2.compute.amazonaws.com 2 2 5539 20180116234606
+pool-77-222-113-75.is74.ru 2 2 5502 20180116200406
+54.140.143.85.telrostelecom.ru 4 4 11004 20180121112404
+185.202.213.85 4 4 11004 20180130162300
+obl92-36.92.255.89.in-addr.arpa 6 6 16506 20180125092948
+85.172.12.129 4 4 11004 20180118224812
+95.139.69.68 2 2 5502 20180117204532
+arya.guzelhosting.com 2 2 16701 20180105185002
+136-95-15-51.rev.cloud.scaleway.com 1 1 0 20180128195302
+95-190-140-70-bbc-dynamic.kuzbass.net 4 4 11004 20180118144815
+2.132.17.79.megaline.telecom.kz 2 2 5502 20180130120539
+185.31.60.190.host.ifxnetworks.com 2 2 5539 20180130163456
+213.33.203.178 16 16 44016 20180127035948
+2.93.188.157 2 2 5502 20180131152757
+188.0.175.73 2 2 5502 20180122175830
+5.139.101.47 2 2 5502 20180110151235
+7.sub-174-198-4.myvzw.com 1 1 16298 20180123041108
+176.59.47.55 2 2 5502 20180112105000
+s5.sibhoster.ru 2 2 16701 20180106033918
+85-192-162-158.dsl.esoo.ru 2 2 5502 20180111064616
+42-222-13-217.pppoe.kmv.ru 2 2 5502 20180112134503
+spider-2.lipperhey.com 5 5 74963 20180117011539
+31.185.4.47 10 10 27510 20180131175118
+ip17.6.52.176.kzn.tbt.ru 2 2 5502 20180126100232
+82.200.40.68 12 12 33012 20180119184336
+91.217.2.246 2 2 5502 20180110001502
+109.235.211.14 4 4 11004 20180119151337
+ip-176-193-32-222.bb.netbynet.ru 2 2 5502 20180110222225
+dynamicip-46-0-180-62.pppoe.samara.ertelecom.ru 2 2 5502 20180122135857
+73.gprs.mts.ru 2 2 5502 20180131230102
+176.59.148.4 2 2 5502 20180114121104
+91.203.238.208 4 4 11004 20180121025649
+176.12.97.86 8 8 22008 20180126090854
+188x187x24x126.dynamic.spb.ertelecom.ru 2 2 5502 20180113131117
+94.102.117.13 4 4 11004 20180119065212
+92x255x254x123.static-business.chelny.ertelecom.ru 8 8 22008 20180129233153
+47.89.253.170 1 1 16298 20180127223024
+37-147-171-187.broadband.corbina.ru 4 4 11004 20180112133907
+ogniirk.pppoe.cust.dsi.ru 4 4 11004 20180129025640
+195.242.80.32 1 1 13000 20180123234725
+92.47.23.138.megaline.telecom.kz 2 2 5502 20180123074831
+union-tel.207.177.ru 8 8 22008 20180131063656
+5.76.28.103 2 2 5502 20180122062606
+93.85.63.66 2 2 5502 20180112000446
+178.175.248.129 4 4 11004 20180123073049
+84x201x255x236.static-business.izhevsk.ertelecom.ru 2 2 5502 20180111153712
+85.175.46.210 14 14 38514 20180130045138
+host-178-34-243-101.stavropol.su 2 2 5502 20180115162511
+static-212.232.50.224.yarnet.ru 6 6 16506 20180130073821
+ec2-18-218-180-75.us-east-2.compute.amazonaws.com 2 2 5539 20180117163646
+109.252.206.0 2 2 5502 20180129161306
+host86-143-203-2.range86-143.btcentralplus.com 2 2 5502 20180123114101
+3.160.111.109.sta.211.ru 8 8 22008 20180122232116
+176.209.150.168 2 2 5502 20180121125034
+net.nat3.net.kht.ru 4 4 11004 20180126042445
+217.196.20.82 8 8 22008 20180117085556
+109.248.190.217 2 2 5502 20180101101509
+81.28.170.249 2 2 5502 20180129132519
+ppp-static7-114.tis-dialog.ru 2 2 5502 20180119030605
+dynamicip-176-215-224-87.pppoe.irkutsk.ertelecom.ru 4 4 11004 20180124223355
+91.198.175.3 2 2 5502 20180110111108
+176.124.146.249 8 8 22008 20180131093506
+mail.kia-piter.ru 2 2 5502 20180127130639
+176.118.119.199 2 2 5502 20180115121024
+84.23.62.90 4 4 11004 20180122091513
+host-static-109-185-116-65.moldtelecom.md 4 4 11004 20180128021337
+93.171.8.12 6 6 16506 20180120131105
+176.100.102.5 2 2 5502 20180125062307
+195.91.206.107 4 4 11004 20180129155420
+129.115.195.19 1 2 201310 20180126170446
+5.227.15.52 2 2 5502 20180110210009
+134.19.230.201 2 2 5539 20180130161309
+185-11-48-246.in-addr.netone.ru 4 4 11004 20180124102436
+webpool1.lcn.com 2 2 16701 20180115224029
+109.206.138.23 2 2 5502 20180127123938
+129.115.195.60 0 3 46596 
+217.118.78.91 2 2 5502 20180131173430
+195.208.151.224 4 4 11004 20180116100459
+mm-53-206-212-37.grodno.dynamic.pppoe.byfly.by 2 2 5502 20180116090356
+skstrategiya.pppoe.cust.dsi.ru 6 6 16506 20180125133751
+5-143-39-32.dynamic.primorye.net.ru 2 2 5502 20180125164717
+86-102-42-52.xdsl.primorye.ru 4 4 11004 20180122023908
+217.112.29.35 10 10 27510 20180121090955
+5.141.225.157 2 2 5502 20180115144139
+124.195.19.18 2 2 16298 20180126124318
+host-39.pool22.poig.ru 10 10 27510 20180120160444
+31.173.84.72 2 2 5502 20180118074541
+mm-220-152-215-37.mfilial.dynamic.pppoe.byfly.by 4 4 11004 20180114201614
+pool.luga.net.ua 4 4 11004 20180116052755
+ec2-34-216-141-92.us-west-2.compute.amazonaws.com 2 2 5484 20180125054612
+114-207-113-80.tongkni.co.kr 1 1 12070 20180118001131
+host-static-93-116-213-23.moldtelecom.md 2 2 5502 20180102090024
+static.5.83.188.95.dsl.krasnet.ru 2 2 5502 20180111062807
+83.149.47.2 2 2 5502 20180112235626
+dynamicip-70-78-95-151.pppoe.chelny.ertelecom.ru 2 2 5502 20180121195140
+ip-176-192-58-14.bb.netbynet.ru 6 6 16506 20180113095936
+64.74.215.1 1 19 400460 20180124085645
+31.173.233.126 6 6 16506 20180124130221
+ec2-54-146-190-240.compute-1.amazonaws.com 2 2 5539 20180119042506
+browser.tallink.ee 2 2 5502 20180131094728
+178.91.22.190.megaline.telecom.kz 2 2 5502 20180123035136
+31.173.101.52 2 2 5502 20180110170958
+user1-14.tynda.ru 6 6 16506 20180131054652
+host46-81.miran.ru 8 8 22008 20180125093310
+ec2-52-214-32-97.eu-west-1.compute.amazonaws.com 4 4 54631 20180104012030
+pppoe116.net109-37.omkc.ru 6 6 16506 20180129051742
+dynamicip-188-235-144-250.pppoe.saratov.ertelecom.ru 4 4 11004 20180124131946
+178.206.176.79 2 2 5502 20180130071254
+188.170.83.200 2 2 5502 20180126134305
+88-201-171-160.cable.pakt.spb.ru 2 2 5502 20180114171429
+host-2-60-215-129.pppoe.omsknet.ru 2 2 5502 20180130200905
+104-237-243-135-host.colocrossing.com 1 1 16298 20180122104504
+31.173.87.208 4 4 11004 20180113212315
+188.18.73.232 2 2 5502 20180127075609
+ec2-54-175-168-38.compute-1.amazonaws.com 2 2 5539 20180119074628
+188.124.126.207 2 2 5502 20180122185906
+lmontsouris-656-1-118-184.w193-252.abo.wanadoo.fr 2 2 5502 20180112122605
+pool-5-79-250-119.is74.ru 2 2 5502 20180121123808
+homeuser247-99.ccl.perm.ru 2 2 5502 20180117143618
+37-146-119-97.broadband.corbina.ru 2 2 5502 20180121182955
+62-140-230-163.fiord.ru 2 2 5502 20180116181227
+195.26.82.128 4 4 11004 20180111004946
+host-static-86-105-60-72.moldtelecom.md 4 4 11004 20180120145957
+87.76.240.222 2 2 5502 20180129143428
+5.188.155.226 2 2 5502 20180119075657
+213.87.101.187 2 2 5502 20180116075126
+n236h220.ipmedia.net.pl 1 1 2270 20180122202024
+5.136.121.241 2 2 5502 20180130021832
+dca123.neoplus.adsl.tpnet.pl 2 2 5502 20180112142329
+5x3x210x0.dynamic.nn.ertelecom.ru 2 2 5502 20180124020525
+178.218.117.142 2 2 5502 20180122134258
+217.107.106.80 2 2 5502 20180101210237
+mail.nsk.rostagroup.ru 4 4 11004 20180102065000
+176.210.225.2 4 4 11004 20180117053844
+176.101.1.8 6 6 16506 20180130221654
+109.254.254.88 6 6 16506 20180124141655
+95-52-49-232.dynamic.murmansk.dslavangard.ru 2 2 5502 20180122190648
+188.18.109.59 8 8 22008 20180125120230
+109.248.196.58 2 2 5502 20180121090507
+r1-nat73.ust.tke.pl 2 2 5502 20180120232855
+95.154.155.70 8 8 22008 20180131132124
+217.118.64.55 4 4 11004 20180115123247
+213.24.133.88 2 2 5502 20180123214017
+176x213x150x87.dynamic.ufa.ertelecom.ru 2 2 5502 20180122192543
+dialin.customers.u-l.ru 6 6 16506 20180117000537
+185.14.100.84 2 2 5502 20180129024841
+46.158.53.23 2 2 5502 20180116102408
+clients-vpn-48.freedom1.ru 2 2 5502 20180127105822
+ip-210-024.users.r2tv.ru 4 4 11004 20180124163106
+ec2-54-234-142-161.compute-1.amazonaws.com 2 2 5484 20180125123234
+85-95-185-42.saransk.ru 6 6 16506 20180125150120
+infong90.kundenserver.de 2 2 16701 20180114192425
+95.171.4.108 2 2 5502 20180117094123
+mm-242-201-212-37.grodno.dynamic.pppoe.byfly.by 2 2 5502 20180130115340
+46.39.50.185 2 2 5502 20180110102745
+acaen-156-1-28-67.w83-115.abo.wanadoo.fr 4 4 11004 20180126081624
+85-238-108-11.broadband.tenet.odessa.ua 2 2 5502 20180112113437
+37x112x57x17.dynamic.bryansk.ertelecom.ru 4 4 11004 20180110030806
+128-68-200-198.broadband.corbina.ru 2 2 5502 20180121221725
+user-93-170-21-184.mayaknet.ru 2 2 5502 20180113221324
+ec2-54-172-105-25.compute-1.amazonaws.com 6 6 16562 20180120025858
+145.255.22.111.dynamic.o56.ru 2 2 5502 20180112050252
+5.141.226.86 2 2 5502 20180122072202
+5.141.214.133 2 2 5502 20180109213454
+128-70-33-243.broadband.corbina.ru 2 2 5502 20180126081747
+176.59.197.215 2 2 5502 20180126060228
+94.79.7.7 2 2 5502 20180110200323
+89.42.62.172 2 2 5502 20180125064312
+host-2-60-61-172.pppoe.omsknet.ru 2 2 5502 20180110153631
+dynamicip-95-79-33-65.pppoe.nn.ertelecom.ru 8 8 22008 20180126031814
+ppp91-122-163-44.pppoe.avangarddsl.ru 2 2 5502 20180121093748
+176x213x249x113.dynamic.ufa.ertelecom.ru 2 2 5502 20180112182424
+5.175.104.187 2 2 5502 20180113122326
+mm-173-17-121-178.dynamic.pppoe.mgts.by 2 2 5502 20180120232946
+178.120.73.239 2 2 5502 20180131145910
+b-internet.176.51.121.97.nsk.rt.ru 2 2 5502 20180124221113
+188.170.73.9 2 2 5502 20180119160132
+37.150.1.235.megaline.telecom.kz 2 2 5502 20180110073910
+rev-67-7-12-212.tula.net 2 2 5502 20180127160343
+195.209.44.4 4 4 11004 20180103185314
+host-178-159-127-204.mirgiga.net 2 2 5502 20180115112140
+141.81.23.31.donpac.ru 2 2 5502 20180123081137
+12.230.124.185.rightside.ru 8 8 22008 20180123072021
+static-ip-17.189.195-173.feonet.net 2 2 5502 20180115114949
+178.46.213.201 2 2 5502 20180130180551
+77.87.102.77 2 2 5502 20180101044000
+85-95-178-49.saransk.ru 2 2 5502 20180122154823
+188.170.81.130 2 2 5502 20180126122434
+128-72-148-47.broadband.corbina.ru 10 10 27510 20180124161231
+178-137-17-67.broadband.kyivstar.net 1 1 16298 20180130012658
+85.140.93.182 2 2 5502 20180113220136
+europe-50.banahosting.com 4 4 33402 20180115140219
+85-114-17-218.obit.ru 2 2 5502 20180119080455
+broadband-95-106-144-155.atc.tvcom.ru 2 2 5502 20180129130446
+ec2-54-175-128-138.compute-1.amazonaws.com 2 2 5539 20180120052512
+host-46-63-206-33.stavropol.ru 2 2 5502 20180117235011
+2.95.12.152 2 2 5502 20180124113651
+88-240-124-91.pool.ukrtel.net 4 4 11004 20180126120426
+85-192-161-136.dsl.esoo.ru 2 2 5502 20180121174036
+93.185.17.240 2 2 5502 20180103115832
+85.115.248.253 2 2 5502 20180117090202
+62.9.17.81.ekb.enforta.com 2 2 5502 20180126073223
+194.165.18.237 2 2 5502 20180110091426
+37-144-74-173.broadband.corbina.ru 2 2 5502 20180117123719
+194.67.33.26 2 2 5502 20180115014614
+a2plcpnl0030.prod.iad2.secureserver.net 2 2 16701 20180117223109
+217.147.21.158.tel.ru 2 2 5502 20180110100817
+92x255x231x72.static-business.kirov.ertelecom.ru 10 10 27510 20180130052503
+broadband.actcorp.in 2 2 5502 20180129102703
+adsl-88-205-227-97.purpe.ru 2 2 5502 20180101085453
+41.pool-157.kaluga.ru 2 2 5502 20180113193008
+178.44.192.254 2 2 5502 20180128165836
+ec2-18-220-132-95.us-east-2.compute.amazonaws.com 2 2 5484 20180126155929
+shpd-178-69-218-42.vologda.ru 2 2 5502 20180128194057
+176.209.188.183 4 4 11004 20180124015734
+217.107.124.202 2 2 5502 20180115202103
+134.19.230.103 2 2 5539 20180125191412
+178.44.13.83 2 2 5502 20180112175057
+185.107.173.8 2 2 5502 20180129181058
+5-28-21-205.clients.tlt.100megabit.ru 2 2 5502 20180119213556
+scenter.sequoia.ru 8 8 22008 20180131104527
+ec2-34-209-155-187.us-west-2.compute.amazonaws.com 4 4 11078 20180118214350
+93.91.112.172 4 4 11004 20180125130819
+021.130.151.89.chtts.ru 2 2 5502 20180110144055
+ec2-54-91-187-190.compute-1.amazonaws.com 2 2 5539 20180119181017
+233.net-94.242.171.kaluga.ru 2 2 5502 20180129150859
+5x164x204x215.dynamic.nn.ertelecom.ru 6 6 16506 20180129165122
+77.94.221.60 2 2 5502 20180128115437
+92.46.134.148 2 2 5502 20180118180809
+37-144-82-198.broadband.corbina.ru 4 4 11004 20180120171756
+net108.233.188-38.ertelecom.ru 2 2 5502 20180101013708
+37.29.101.26 6 6 16506 20180130023835
+85.115.248.247 2 2 5502 20180128163627
+93.159.216.150 2 2 5502 20180115074629
+37.78.146.215 2 2 5502 20180113095334
+213.24.132.33 4 4 11004 20180122165743
+80.67.250.109 10 10 27510 20180126065554
+ec2-54-145-162-147.compute-1.amazonaws.com 2 2 5539 20180116070651
+mail.trustmsk.ru 4 4 11004 20180122124313
+46.219.99.56.freenet.com.ua 14 14 38514 20180131184545
+5x18x97x248.static-business.iz.ertelecom.ru 2 2 5502 20180113091416
+ip-193-93-217-27.astra.in.ua 4 4 11004 20180116083508
+ppp91-122-73-222.pppoe.avangarddsl.ru 2 2 5502 20180124051814
+176.118.115.224 4 4 11004 20180131120626
+193.106.94.124 2 2 5502 20180130114947
+125.165.75.38 2 2 5502 20180113045543
+dynamicip-176-215-244-90.pppoe.irkutsk.ertelecom.ru 2 2 5502 20180126193145
+109.172.30.247 6 6 16506 20180121060829
+5f44f686.static.mv.ru 2 2 5502 20180113091415
+84.51.71.194 2 2 5502 20180120134205
+81.28.171.108 2 2 5502 20180129130225
+dsl-5-139-21-3.avtlg.ru 2 2 5502 20180103180220
+176.123.200.35.satkom.ru 2 2 5502 20180124064158
+75.gprs.mts.ru 2 2 5502 20180112115323
+188.170.74.119 1 1 2270 20180112174351
+95.154.180.14 2 2 5502 20180129133713
+178.187.38-126.xdsl.ab.ru 4 4 11004 20180123181515
+nat.mxc.ru 4 4 11004 20180123193441
+145.255.11.141.dynamic.ufanet.ru 4 4 11004 20180119100200
+92.244.224.102 10 10 27510 20180122160726
+128-75-31-180.broadband.corbina.ru 2 2 5502 20180124095843
+nat-pool.maxnet.ru 2 2 5502 20180130165411
+ppp91-122-14-81.pppoe.avangarddsl.ru 4 4 11004 20180117145953
+h94-75-22-55.dyn.bashtel.ru 2 2 5502 20180130065237
+81.23.107.110 4 4 11004 20180129114838
+static-47-206-51-67.tamp.fl.frontiernet.net 1 1 0 20180124114246
+77.72.244.71 10 10 27510 20180126220605
+195.9.51.62 8 8 22008 20180118121412
+5x19x186x154.static-business.iz.ertelecom.ru 4 4 11004 20180125203800
+185.78.34.221 2 2 5502 20180126112810
+197.14.49.138 8 8 22008 20180131164703
+user-31-148-47-82.mayaknet.ru 2 2 5502 20180101174436
+178.44.255.213 2 2 5502 20180102155853
+xtp-53-ip16.atel76.ru 2 2 5502 20180103211449
+41.105.200.137 2 2 5502 20180126200230
+185.22.152.37 2 2 15270 20180103201407
+176.209.161.37 2 2 5502 20180119075721
+ec2-54-244-59-161.us-west-2.compute.amazonaws.com 2 2 5539 20180118065017
+node-79-170-139-95.domolink.tula.net 2 2 5502 20180124171230
+5x3x153x65.dynamic.kazan.ertelecom.ru 1 16 424726 20180125131710
+176.118.113.93 2 2 5502 20180131181508
+80.91.166.224 10 10 27510 20180121125759
+ip-95-220-81-117.bb.netbynet.ru 4 4 11004 20180115123404
+221.231.109.40 1 1 0 20180126124457
+94.50.198.190 2 2 5502 20180126103919
+pppoe-dyn-85-113-214-18.kosnet.ru 2 2 5502 20180114204448
+mail.intermedcrew.ro 16 16 6448 20180130022722
+a2plcpnl0906.prod.iad2.secureserver.net 2 2 16701 20180105095947
+host-213-137-237-179.cttc-ryazan.ru 2 2 5502 20180112082525
+185-59-58-44.k-telecom.org 4 4 11004 20180130164549
+95-37-101-31.dynamic.mts-nn.ru 2 2 5502 20180130045035
+31.173.103.184 2 2 5502 20180112083450
+ec2-54-159-225-92.compute-1.amazonaws.com 4 4 10968 20180126232437
+178.68.223.207 2 2 5502 20180129100508
+176.123.206.160.satkom.ru 2 2 5502 20180110054351
+dynamic-ip-18159194180.cable.net.co 2 2 5502 20180126133630
+173.227.72.99 2 17 501886 20180113034105
+178.57.114.152 2 2 5502 20180112124505
+5.141.124.88 2 2 5502 20180118122425
+mm-128-23-214-37.mogilev.dynamic.pppoe.byfly.by 2 2 5502 20180123223326
+95.165.128.79 1 1 0 20180131073055
+apple.boostonemobile.com 2 2 16701 20180110172609
+pool-77-222-104-35.is74.ru 2 2 5502 20180112143406
+37x112x233x223.dynamic.rostov.ertelecom.ru 2 2 5502 20180114133918
+31.173.243.61 2 2 5502 20180124211414
+188.0.169.98 2 2 5502 20180129054917
+ip-176-194-194-139.bb.netbynet.ru 2 2 5502 20180122214329
+41.107.62.12 2 2 5502 20180124021925
+79.105.163.19 2 2 5502 20180116024937
+5.140.235.105 2 2 5502 20180127163043
+185.44.11.95.dynamic.ufanet.ru 8 8 22008 20180127180139
+pool-77-222-106-24.is74.ru 2 2 5502 20180102141450
+94.79.7.30 2 2 5502 20180113192505
+79.120.37.34 8 8 22008 20180124142555
+5.141.212.183 2 2 5502 20180122123943
+194.mtsnet.ru 2 2 5502 20180131130411
+85.140.40.253 10 10 27510 20180121174638
+176.125.208.254 2 2 5502 20180118093227
+h77-94-107-181.dyn.bashtel.ru 2 2 5502 20180118092205
+213.227.139.199 1 1 16298 20180109180931
+5.53.127.218 4 4 11004 20180118090919
+147.30.135.223 2 2 5502 20180129064313
+ec2-18-216-117-199.us-east-2.compute.amazonaws.com 2 2 5484 20180120151539
+xdsl-31-180-103-89.soes.su 2 2 5502 20180110212900
+b-internet.87.103.242.29.snt.ru 6 6 16506 20180124105508
+client.5.102.218.91.kvartal-net.ru 12 12 33012 20180122114144
+82-208-100-177.pg-nat-pool2.mts-nn.ru 2 2 5502 20180124091004
+dhcp-11-161-253-92.metrosg.ru 2 2 5502 20180118122557
+ppp109-252-70-192.pppoe.spdop.ru 2 2 5502 20180117122834
+185-52-76-178.krasnodar.telecomsky.ru 2 2 5502 20180129083633
+cpe-107-184-63-126.socal.res.rr.com 2 2 5502 20180122031332
+73-112.nat.mks-chel.ru 4 4 11004 20180115093755
+178.90.69.202.megaline.telecom.kz 2 2 5502 20180113081745
+82-112-40-5.k-telecom.org 2 2 5502 20180117134924
+178.90.171.240.megaline.telecom.kz 6 6 16506 20180130061942
+5.175.109.214 6 6 16506 20180123203519
+31.185.2.180 2 2 5502 20180110124550
+37-146-88-123.broadband.corbina.ru 2 2 5502 20180124013518
+31.185.12.105 2 2 5502 20180130150436
+94.253.4.116 2 2 5502 20180118071613
+nat-91-137-25-10.net.encoline.de 6 6 16506 20180130145612
+193.8.79.225 2 2 5502 20180121094424
+net-85-173-96-243.kbrnet.ru 4 4 11004 20180122100645
+88.204.141.238 4 4 11004 20180116102823
+188x234x183x84.dynamic.kursk.ertelecom.ru 2 2 5502 20180129205924
+ip-31-163-8-131.dsl.surnet.ru 2 2 5502 20180117104527
+ec2-18-216-199-85.us-east-2.compute.amazonaws.com 2 2 5484 20180123201221
+ec2-18-221-150-25.us-east-2.compute.amazonaws.com 2 2 5484 20180124092932
+129.115.195.27 1 3 88614 20180126170212
+87.245.166.242 2 2 5502 20180110123303
+112.15.190.94.interra.ru 10 10 27510 20180130113317
+a2plcpnl0439.prod.iad2.secureserver.net 2 2 16701 20180113010131
+ip212-109-16-228.sampo.ru 6 6 16506 20180131104006
+82-208-100-24.pg-nat-pool2.mts-nn.ru 2 2 5502 20180103172615
+ec2-54-161-105-168.compute-1.amazonaws.com 2 2 5484 20180126021621
+ppp109-252-72-255.pppoe.spdop.ru 2 2 5502 20180122161544
+net55.195.109-218.voronezh.ertelecom.ru 2 2 5502 20180113125728
+static.elcom.ru 2 2 5502 20180120081104
+46.32.67.136 6 6 16506 20180128102100
+178.187.57-141.xdsl.ab.ru 2 2 5502 20180102115442
+protonob.vpn.mgn.ru 6 6 16506 20180129094350
+5x166x218x192.dynamic.nn.ertelecom.ru 2 2 5502 20180115170135
+5x164x142x49.dynamic.samara.ertelecom.ru 2 2 5502 20180116164740
+59.73.7.51.dyn.plus.net 2 2 5502 20180123113702
+50-246-174-233-static.hfc.comcastbusiness.net 2 2 5502 20180102042524
+188.170.83.120 8 8 22008 20180117202759
+ws26.zone153.zaural.ru 6 6 16506 20180124162626
+5.140.235.236 2 2 5502 20180113010812
+89.250.212.86 14 14 38514 20180128093420
+115.97.112.198 2 2 5502 20180103132630
+m212-96-92-118.cust.tele2.kz 2 2 5502 20180110104123
+90.151.88.198 2 2 5502 20180116170930
+185.76.80.165 12 12 33012 20180131155921
+79-104-199-115.ranetka.ru 2 2 5502 20180125124403
+37.29.88.240 2 2 5502 20180114050451
+138-78-197-91.reinfokom.ru 2 2 5502 20180130083554
+188-163-108-217.broadband.kyivstar.net 1 1 13000 20180121191810
+89-178-238-120.broadband.corbina.ru 2 2 5502 20180120110322
+62.89.28.108 2 2 5502 20180113145632
+customers-nat-ip185-184-114.tagan.ru 12 12 33012 20180131083220
+host167-24-151-46.t4d.ru 6 6 16506 20180131051729
+95-27-93-33.broadband.corbina.ru 2 2 5502 20180115025739
+31.181.247.62 2 2 5502 20180118185222
+pppoe.95-54-161-157.dynamic.murmansk.avangarddsl.ru 2 2 5502 20180130170420
+78.109.36.49 2 2 5502 20180116140509
+90.151.89.125 2 2 5502 20180125100624
+118.pool-157.kaluga.ru 2 2 5502 20180114130000
+83.239.96.82 2 2 5502 20180117131712
+188.191.24.174 8 8 22008 20180122071453
+dsl-5-139-6-15.avtlg.ru 2 2 5502 20180111152559
+155.70.32.95.dsl-dynamic.vsi.ru 6 6 16506 20180118012753
+217.23.187.103 2 2 5502 20180114110157
+46.39.50.180 2 2 5502 20180128173809
+sg2plcpnl0083.prod.sin2.secureserver.net 2 2 16701 20180116180459
+95.154.84.10 2 2 5502 20180122061040
+pool-77-222-104-24.is74.ru 2 2 5502 20180129000806
+85.93.59.12 2 2 5502 20180130074854
+174.155.32.95.dsl-dynamic.vsi.ru 2 2 5502 20180124042056
+m212-247-224-79.cust.tele2.kz 2 2 5502 20180129090958
+185.196.c10008-a53.dsl-dynamic.vsi.ru 2 2 5502 20180101034253
+77.82.39.194 2 2 5502 20180117130152
+ec2-18-218-189-157.us-east-2.compute.amazonaws.com 4 4 11078 20180118124049
+109x195x81x143.static-business.spb.ertelecom.ru 2 2 5502 20180119144852
+95x153x132x205.kubangsm.ru 2 2 5502 20180130091641
+phf.mpei.ac.ru 2 2 5502 20180124111850
+ip-176-193-156-147.bb.netbynet.ru 2 2 5502 20180131172910
+80.64.18.225 10 10 27510 20180123203643
+pppoe-95.189.100.31.chittel.su 6 6 16506 20180121004223
+176.209.184.9 2 2 5502 20180124113700
+176x212x16x68.dynamic.irkutsk.ertelecom.ru 2 2 5502 20180119205422
+host-45-219.podolsknet.ru 4 4 11004 20180110145019
+mm-197-7-214-37.mogilev.dynamic.pppoe.byfly.by 2 2 5502 20180115093352
+90.151.90.207 2 2 5502 20180114075905
+188-113-31-112.dyn.adsl.kursknet.ru 4 4 11004 20180126234018
+185.71.68.10 10 10 27510 20180129153412
+128-70-43-9.broadband.corbina.ru 2 2 5502 20180117075125
+ip-91-205-168-44.bb.netbynet.ru 2 2 5502 20180123100443
+52.mtsnet.ru 2 2 5502 20180123120025
+188x235x153x21.static-business.saratov.ertelecom.ru 2 2 5502 20180123100949
+box413.bluehost.com 1 1 16298 20180108192618
+host-212-96-109-13.stavropol.ru 2 2 5502 20180119200007
+pool-94.24.233-26.is74.ru 6 6 16506 20180124073049
+193-100.plus.kerch.net 2 2 5502 20180122205409
+mail.kuhni-premier.ru 2 2 5502 20180111095749
+194.135.211.170 2 2 5502 20180126123752
+ec2-52-35-144-229.us-west-2.compute.amazonaws.com 2 2 5484 20180121123145
+188x187x16x104.dynamic.spb.ertelecom.ru 2 2 5502 20180125162329
+91.227.46.187 4 4 11004 20180125221403
+46.39.35.70 4 4 11004 20180129123113
+91.239.68.225.delfintelecom.ru 2 2 5502 20180118063808
+77.35.153.207 2 2 5502 20180103073219
+ec2-52-14-116-97.us-east-2.compute.amazonaws.com 2 2 5484 20180123005909
+79.105.55.15 4 4 11004 20180119113539
+95x78x118x44.static-business.chelny.ertelecom.ru 2 2 5502 20180131113314
+host143-31-134-35.ironnet.info 2 2 5502 20180113213310
+213.151.6.31 2 2 5502 20180102105135
+31.173.100.155 2 2 5502 20180120073550
+ec2-18-218-70-174.us-east-2.compute.amazonaws.com 2 2 5484 20180124230137
+217.118.78.94 2 2 5502 20180111133307
+212.41.62.138 2 2 5502 20180123154755
+91.211.209.139 4 4 11004 20180129084056
+153.mtsnet.ru 2 2 5502 20180116065755
+178.90.84.139.megaline.telecom.kz 2 2 5502 20180111195122
+5.227.7.81 2 2 5502 20180101141106
+91.233.46.177 4 4 11004 20180116065157
+b-internet.176.51.236.184.nsk.rt.ru 2 2 5502 20180102235934
+169.145.dynamic.pppoe.fregat.ua 4 4 31993 20180121174821
+109x194x199x3.static-business.kirov.ertelecom.ru 6 6 16506 20180129103145
+ec2-52-200-221-20.compute-1.amazonaws.com 1 1 16298 20180123115112
+nat-001.intronex.ru 4 4 11004 20180131181934
+aip-139.trustwave.com 1 13 311113 20180123114837
+iccom3-net-pa.486.iccom.it 4 4 11004 20180126230134
+90.188.4-53.xdsl.ab.ru 6 6 16506 20180131040411
+ec2-52-88-168-157.us-west-2.compute.amazonaws.com 1 1 16298 20180126151200
+188.0.169.212 2 2 5502 20180123160025
+host-185-170.nat-pool.telecet.ru 2 2 5502 20180111044926
+pool-77-222-109-196.is74.ru 2 2 5502 20180101093359
+83.149.37.173 2 2 5502 20180102002735
+client.fttb.2day.kz 8 8 22008 20180128032057
+pat-31-128-130-125.pool.powernet.com.ru 6 6 16506 20180111181838
+213.24.125.113 4 4 11004 20180110093139
+host-197.50.59.218.tedata.net 2 2 5539 20180124172345
+ppp78-37-17-201.pppoe.avangarddsl.ru 2 2 5502 20180103173603
+85.140.93.35 2 2 5502 20180124115716
+ip-246-60.scont.ru 6 6 16506 20180128100835
+74-216-249-70.dedicated.allstream.net 2 17 501886 20180125221057
+95.72.219.145 2 2 5502 20180102174537
+106.56.102.131 1 1 16298 20180126124120
+dynamicip-176-215-224-26.pppoe.irkutsk.ertelecom.ru 4 4 11004 20180130150359
+46x146x244x222.static-business.perm.ertelecom.ru 2 2 5502 20180113124954
+185.202.212.90 16 16 44016 20180131093346
+server408.webhostingpad.com 2 2 16701 20180117033025
+93.90.42.158 2 2 5502 20180110232842
+geotekhnologia.iks.ru 2 2 5502 20180127190331
+212.42.217.233 6 6 16506 20180129082757
+www.nekoplaza.com 2 2 5539 20180125170844
+ppp109-252-44-244.pppoe.spdop.ru 2 2 5502 20180130191703
+ppp109-252-71-152.pppoe.spdop.ru 2 2 5502 20180103234041
+72-119.nat.mks-chel.ru 8 8 22008 20180129080958
+19.113.170.213.ptl.ru 2 2 5502 20180125104832
+95.72.82.36 2 2 5502 20180125134812
+ec2-54-186-68-84.us-west-2.compute.amazonaws.com 2 2 5484 20180123070549
+83.139.147.132 2 2 5502 20180123220814
+5.239.17.239 2 2 5502 20180120131505
+95.165.254.62 8 8 22008 20180125132034
+188-122-243-157.clients.tlt.100megabit.ru 2 2 5502 20180126103702
+176.118.112.65 2 2 5502 20180130090545
+70.42.131.170 2 30 1145872 20180125041131
+host-static-93-116-212-103.moldtelecom.md 2 2 5502 20180112153956
+5.141.98.229 6 6 16506 20180131085315
+176-197-78-250.goodline.info 2 2 5502 20180131075653
+109x195x135x189.static-business.kurgan.ertelecom.ru 8 8 22008 20180116093242
+188x186x128x119.dynamic.ufa.ertelecom.ru 2 2 5502 20180123211515
+mail.museumtech.ru 2 2 5502 20180123121613
+ns1.vyazma.ti.ru 6 6 16506 20180125085918
+91.220.145.213 2 2 5502 20180123091354
+95x79x44x222.static-business.nn.ertelecom.ru 2 2 5502 20180121104638
+gw-sovremennye-tehnologii.ll-nkz.zsttk.ru 2 2 5502 20180114151839
+85.26.234.254 2 2 5502 20180118103859
+62.183.116.175 2 2 5502 20180128174144
+128-71-72-186.broadband.corbina.ru 2 2 5502 20180111153614
+129.115.195.26 0 2 119364 
+ec2-54-200-196-125.us-west-2.compute.amazonaws.com 2 2 5484 20180120195704
+195.158.250.202 16 16 44016 20180130081536
+35.147.dynamic.pppoe.fregat.ua 4 4 31993 20180122004730
+195.211.244.13 2 2 5502 20180123150748
+vps1.websolvent.net 2 2 16701 20180106122220
+host-19-102.podolsknet.ru 6 6 16506 20180122093540
+46.39.50.242 2 2 5502 20180111064426
+l37-192-242-69.novotelecom.ru 2 2 5502 20180129055130
+185.148.100.123 2 2 5539 20180123073935
+ec2-34-238-125-255.compute-1.amazonaws.com 2 2 5539 20180120074506
+230.mtsnet.ru 2 2 5502 20180120115741
+85.94.0.112 2 2 5502 20180124101353
+93.157.144.80 2 2 5502 20180127074008
+nat-75-4.nsk.sibset.net 2 2 5502 20180117104130
+145.249.164.180 8 8 22008 20180116062953
+c34-68.ntt.ru 2 2 5502 20180112213313
+host-176-100-244-152.masterbit.su 8 8 22008 20180131163008
+176.108.177.26 2 2 5502 20180117101836
+ppp109-252-68-66.pppoe.spdop.ru 2 2 5502 20180121174531
+ec2-18-217-155-172.us-east-2.compute.amazonaws.com 2 2 5539 20180117222357
+84-53-198-32.elcom.ru 2 2 5502 20180110172510
+ppp1-42.tis-dialog.ru 2 2 5502 20180103042451
+220.181.132.180 2 15 421052 20180103070334
+90.102-229-46.telenet.ru 6 6 16506 20180127163939
+pppoe9.net221.omkc.ru 2 2 5502 20180131050200
+188.0.135.155 4 4 11004 20180122183504
+185.42.99.251 2 2 5502 20180131102123
+83.220.236.69 2 2 5502 20180116100100
+62-173-57-210.rv.ipnxtelecoms.com 2 2 5502 20180119133033
+212.20.41.54 4 4 11004 20180117034623
+46.181.167.10 2 2 5502 20180102031958
+46.32.66.3 12 12 33012 20180124094257
+net163.255.92-232.tmn.ertelecom.ru 2 2 5502 20180131221014
+79.142.96.240 1 1 2270 20180118180825
+omegafertil.static.gvt.net.br 2 2 5539 20180125235408
+ppp109-252-206-69.pppoe.spdop.ru 10 10 27510 20180129122941
+dynamicip-94-180-112-217.pppoe.nsk.ertelecom.ru 2 2 5502 20180129095610
+188.18.115.22 2 2 5502 20180115064216
+5.141.121.185 2 2 5502 20180124134404
+85-192-188-158.dsl.esoo.ru 2 2 5502 20180117123649
+165-100-154-53.tokyo.otk.vectant.ne.jp 6 6 16506 20180129003758
+ip-176-195-176-38.bb.netbynet.ru 2 2 5502 20180102130244
+reseller01.ni.net.tr 2 2 16701 20180106211846
+host-84-54-232-182.stavropol.ru 2 2 5502 20180126062203
+pppoe.178-67-123-4.avangarddsl.ru 2 2 5502 20180124033416
+ip-193-93-217-31.astra.in.ua 2 2 5502 20180110130730
+broadband-46-242-48-148.moscow.rt.ru 4 4 11004 20180127104605
+dynamicip-109-195-197-36.pppoe.ulsk.ertelecom.ru 14 14 38514 20180129011520
+124.124.14.93 1 1 16298 20180128000823
+46.173.71.89 2 2 5502 20180129125108
+141.101.234.250 6 6 16506 20180122113958
+245.206.221.83.donpac.ru 2 2 5502 20180118121715
+ppp94-29-126-81.pppoe.spdop.ru 8 8 22008 20180118154850
+190-78-23-161.dyn.dsl.cantv.net 1 1 16298 20180124114121
+93-157-168-31.avk-wellcom.com 2 2 5502 20180129101209
+5x165x238x90.dynamic.ufa.ertelecom.ru 2 2 5502 20180102185035
+109-61-248-3.dsl.orel.ru 2 2 5502 20180120075129
+234.net-94.242.149.kaluga.ru 2 2 5502 20180115083735
+188-113-15-183.dyn.adsl.kursknet.ru 2 2 5502 20180116190227
+static-91-229-51-146.tel.ru 2 2 5502 20180112100950
+host86-181-233-119.range86-181.btcentralplus.com 2 2 5502 20180124055242
+93.185.18.201 2 2 5502 20180123174902
+ec2-18-218-177-228.us-east-2.compute.amazonaws.com 2 2 5484 20180124024011
+89.208.90.38 8 8 22008 20180131024514
+188.112.226.58.customer.freshtel.ru 2 2 5502 20180124132411
+ec2-52-25-177-96.us-west-2.compute.amazonaws.com 2 2 5484 20180127073510
+41.107.45.83 2 2 5502 20180120200716
+46.61.152.185 14 14 38514 20180130024636
+46.250.74.56 4 4 11004 20180121230110
+3956.rt-barnaul-02.dianet.ru 4 4 11004 20180121110852
+h212.pool20663.1baza.ru 2 2 5502 20180124124238
+b-internet.212.20.10.162.nsk.rt.ru 2 2 5502 20180101080030
+95.58.147.1.megaline.telecom.kz 2 2 5502 20180119101857
+31.173.120.208 2 2 5502 20180129124346
+dynamicip-94-180-153-59.pppoe.kzn.ertelecom.ru 2 2 5502 20180101235705
+ec2-52-23-254-110.compute-1.amazonaws.com 4 4 11078 20180119110840
+host-189-49.nat-pool.telecet.ru 2 2 5502 20180124095944
+node-14-190-35-212.domolink.tula.net 2 2 5502 20180123205652
+95.84.16.113 2 2 5502 20180115084512
+93.91.113.119 6 6 16506 20180129114524
+ppp91-78-26-160.pppoe.mtu-net.ru 2 2 5502 20180130144309
+web532.opentransfer.com 1 1 16298 20180111200000
+c-98-194-150-152.hsd1.tx.comcast.net 6 6 16506 20180119012258
+31.173.120.44 2 2 5502 20180131055221
+153.199.c10008-a53.dsl-dynamic.vsi.ru 4 4 11004 20180122112253
+102.mtsnet.ru 2 2 5502 20180110120743
+119.92.140.85.in-addr.arpa 4 4 11004 20180115094904
+95.58.191.42 2 2 5502 20180126142439
+83.139.170.83 2 2 5502 20180130015203
+35.208.23.31.donpac.ru 2 2 5502 20180114222449
+ip-61-82.hyper.net.id 2 2 5502 20180103021340
+104.130.124.209 2 2 32596 20180111184240
+5x165x229x28.dynamic.ufa.ertelecom.ru 2 2 5502 20180130100514
+95-27-180-104.broadband.corbina.ru 2 2 5502 20180131193708
+176-115-156-92.dynamic.vyatkatelecom.ru 2 2 5502 20180128050339
+93.85.210.12 2 2 5502 20180117061332
+95.59.154.215.megaline.telecom.kz 2 2 5502 20180119085434
+222.223.204.52 2 2 5539 20180130191845
+101.mtsnet.ru 2 2 5502 20180128090215
+5-43-146-219.k-telecom.org 2 2 5502 20180116081858
+95.182.44.198 2 2 5502 20180102230537
+stroykomplekt2.cust.smartspb.net 2 2 5502 20180115124734
+83-64-253-171.static.upcbusiness.at 1 1 0 20180131073132
+dynamicip-37-113-156-60.pppoe.chel.ertelecom.ru 6 6 16506 20180118112301
+88.147.129.234 2 2 5502 20180126085019
+185.57.28.35 4 4 11004 20180124081310
+207-148.rosintel.net 2 2 5502 20180125160022
+188.0.175.63 2 2 5502 20180120004940
+37-145-0-74.broadband.corbina.ru 2 2 5502 20180127124223
+94.141.238.62 2 2 5502 20180118101500
+ec2-54-173-25-31.compute-1.amazonaws.com 2 2 5484 20180122065458
+185.13.112.101 4 4 11004 20180125201404
+178.44.189.2 2 2 5502 20180125083136
+134.19.230.108 2 2 5539 20180123070948
+90.151.139.222 2 2 5502 20180103190144
+91.247.192.112 2 2 5502 20180103190555
+194.165.19.38 2 2 5502 20180125071434
+178-167-106-115.dynvpn.flex.ru 2 2 5502 20180110133909
+5x166x234x107.dynamic.rostov.ertelecom.ru 2 2 5502 20180126111741
+host79-101.lanoptic.ru 2 2 5502 20180124083031
+2.132.124.166.megaline.telecom.kz 2 2 5502 20180127005916
+185.81.248.18 8 8 22008 20180131155411
+80.240.104.226 2 2 5502 20180102145221
+78.109.36.55 2 2 5502 20180120131134
+apn-31-2-37-44.dynamic.gprs.plus.pl 2 2 5502 20180122054217
+80.254.58.66 2 2 5502 20180111094852
+ec2-54-210-117-190.compute-1.amazonaws.com 2 2 5539 20180117192635
+static.142-169-138-78.kgts.ru 14 14 38514 20180123102508
+host-109-235-188-168.bisv.ru 6 6 16506 20180127131513
+host186.osipova.edunet.ru 6 6 16506 20180129150718
+37-147-98-34.broadband.corbina.ru 2 2 5502 20180119121531
+host188-95-170-187.multi-net.ru 6 6 16506 20180116121947
+94.252.33.171.ip.orionnet.ru 4 4 11004 20180120124211
+83.139.146.76 2 2 5502 20180124175804
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180101 115 115 357006 58
+20180102 98 113 794983 50
+20180103 102 115 763922 53
+20180104 19 19 127212 9
+20180105 18 18 115169 14
+20180106 18 18 128143 14
+20180107 14 14 81712 12
+20180108 17 17 127740 14
+20180109 35 35 175428 23
+20180110 201 201 783229 105
+20180111 164 164 542741 84
+20180112 163 163 497424 83
+20180113 190 205 1450672 81
+20180114 139 139 449609 71
+20180115 201 201 670178 102
+20180116 199 200 771912 99
+20180117 214 214 724401 103
+20180118 204 204 597432 101
+20180119 191 191 566109 96
+20180120 172 172 500361 86
+20180121 136 136 445961 66
+20180122 222 231 869229 108
+20180123 254 572 10667039 108
+20180124 221 230 905827 109
+20180125 220 264 2160457 111
+20180126 594 623 2890105 95
+20180127 163 163 490442 62
+20180128 107 107 318700 55
+20180129 185 185 551762 93
+20180130 221 221 589556 98
+20180131 219 219 664702 110
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+5mn-15mn 2
+30s-2mn 1
+15mn-30mn 11
+0s-30s 2238
+30mn-1h 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/wp-login.php 4677 12806082 2116 2116
+/ 172 2746836 134 91
+/xmlrpc.php 63 25455 2 31
+/wp-content/themes/drizzle-business/vendors/font-awesome/fonts/fontawesome-webfont.woff 21 2058504 0 2
+/2017/11/20/hello-world/ 14 243848 0 2
+/wp-admin/admin-post.php 12 0 12 12
+/buy-bitcoin/ 9 121941 0 0
+/author/rajuinoram/ 9 117000 1 4
+/wp-content/themes/drizzle-business/vendors/font-awesome/fonts/fontawesome-webfont.woff2 7 540120 3 7
+/news/ 7 85848 1 2
+/wp-content/themes/drizzle-business/vendors/font-awesome/fonts/fontawesome-webfont.eot 1 165742 0 1
+/feed/ 1 1615 1 1
+/wp-content/themes/drizzle-business/vendors/font-awesome/fonts/fontawesome-webfont.ttf 2 331096 2 2
+/2017/ 4 51048 0 0
+/2017/11/ 4 52012 0 0
+/readme.html 1 7413 1 1
+/2017/11/20/ 5 66140 0 0
+/sell-bitcoin/ 7 87640 0 1
+END_SIDER
