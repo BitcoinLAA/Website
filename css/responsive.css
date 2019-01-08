@@ -1,0 +1,246 @@
+@media (min-width: 1441px) {
+    .services-detail{
+        max-width: 1440px;
+        margin: 38px auto 0;
+    }
+}
+@media (max-width: 1260px) {
+    .services-box h3 span {
+        margin-left: 10px;
+    }
+    .services-box h3{
+        font-size: 18px;
+    }
+}
+@media (max-width: 1199px) {
+    .banner-sec .text-inner h1 {
+        font-size: 60px;
+        max-width: 800px;
+    }
+    .services-detail {
+        padding: 0 30px;
+    }
+    .foter-copyright ul li{
+        font-size: 20px;
+    }
+}
+@media (max-width: 991px) {
+    .header {
+        padding: 20px 0;
+    }
+    .navigation .navbar-light .navbar-toggler{
+        background-color: #083d69;
+        border: none;
+        padding: 10px 12px 6px;
+        border-radius: 0;
+    }
+    .navigation .navbar-light .navbar-toggler span{
+        background: url(../images/manu-icon.svg) no-repeat;
+    }
+    .navbar-collapse {
+        position: absolute;
+        left: 0;
+        top: 55px;
+        background-color: #fff;
+        width: 100%;
+    }
+    .navigation .navbar-nav .nav-item .nav-link {
+        height: auto;
+        line-height: inherit;
+        padding: 10px 20px;
+    }
+    .navigation .navbar-nav .nav-item{
+        margin: 0;
+    }
+    .navigation .navbar-nav .nav-item:last-child{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .services-detail {
+        padding: 0 0;
+    }
+    .services-box p {
+        font-size: 18px;
+        line-height: 24px;
+        padding-left: 15px;
+        padding-top: 20px;
+        margin-bottom: 0;
+        padding-right: 15px;
+    }
+    .services-box{
+        padding-bottom: 50px;
+    }
+    .services-box h3 img{
+        max-width: 40px;
+    }
+    .services-box h3 {
+        font-size: 16px;
+    }
+    .about-sec .hedding p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .footer { 
+        padding: 30px 0;
+    }
+    .footer-logo .text-box {
+        padding-left: 20px;
+        max-width: 300px;
+    }
+    .footer-logo .text-box p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .foter-copyright ul li {
+        font-size: 18px;
+    }
+    .foter-copyright ul li:last-child {
+        margin-left: 18px;
+    }
+}
+@media (max-width: 767px) {
+    .container{
+        max-width: 100%;
+    }
+    .banner-sec {
+        padding: 120px 0 50px;
+        background-position: left center;
+    }
+    .banner-sec .text-inner h1 {
+        font-size: 40px;
+        max-width: 500px;
+        margin-bottom: 13px;
+    }
+    .banner-sec .text-inner p {
+        font-size: 18px;
+        max-width: 500px;
+    }
+    .banner-sec .text-inner ul {
+        margin-top: 24px;
+    }
+    .services-sec .title h2{
+        font-size: 50px;
+    }
+    .services-inner .nav .nav-item .nav-link{
+        font-size: 20px;
+    }
+    .services-inner .nav .nav-item {
+        margin: 0 20px;
+    }
+    .services-sec .title {
+        margin-bottom: 28px;
+    }
+    .services-detail p{
+        font-size: 20px;
+    }
+    .services-detail{
+        margin-top: 24px;
+        padding: 0;
+    }
+    .services-box{
+        max-width: 100%;
+    }
+    .services-box h3 {
+        font-size: 24px;
+    }
+    .services-box h3 img {
+        max-width: 60px;
+    }
+    .services-box p{
+        line-height: 26px;
+    }
+    .about-sec .hedding h2 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .about-partners {
+        margin-top: 40px;
+    }
+    .about-partners h3{
+        margin-bottom: 20px;
+    }
+    .about-partners ul li::after{
+        display: none;
+    }
+    .about-partners ul li,
+    .about-partners ul li:last-child{
+        text-align: center;
+    }
+    .about-partners ul li img{
+        max-width: 250px;
+    }
+    .about-sec {
+        padding: 48px 0 45px;
+    }
+    .foter-copyright {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .footer-logo {
+        justify-content: center;
+    }
+
+}
+@media (max-width: 575px) {
+    .banner-sec .text-inner h1 {
+        font-size: 30px;
+        max-width: 380px;
+    }
+    .banner-sec .text-inner ul li a {
+        font-size: 18px;
+        width: 130px;
+        height: 40px;
+        line-height: 37px;
+    }
+    .banner-sec .text-inner ul li:last-child a {
+        width: 130px;
+        margin-left: 5px;
+    }
+    .navbar-brand img{
+        max-width: 160px;
+    }
+    .navigation .navbar-light .navbar-toggler {
+        padding: 6px 10px 6px;
+    }
+    .navigation .navbar-light .navbar-toggler span {
+        background-size: 25px;
+        background-position: center center;
+    }
+    .about-partners ul{
+        flex-direction: column;
+    }
+    .about-partners ul li{
+        width: 50%;
+        padding: 0;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .about-partners ul li img{
+        width: 100%;
+    }
+}
+@media (max-width: 479px) {
+    .services-inner .nav .nav-item {
+        margin: 0 5px;
+    }
+    .services-inner .nav .nav-item .nav-link {
+        font-size: 16px;
+    }
+    .services-detail p{
+        font-size: 16px;
+    }
+    .services-box h3 {
+        font-size: 20px;
+    }
+    .footer-logo {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .footer-logo .text-box {
+        padding-left: 0;
+        max-width: 247px;
+        margin: 20px auto 0;
+    }
+
+}
+@media (max-width: 379px) { }
